@@ -1,0 +1,67 @@
+{
+  "href": "http://www.recipepuppy.com/", 
+  "version": 0.1, 
+  "results": [
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Mulled-Apple-Champagne-Punch/Detail.aspx", 
+      "ingredients": "chablis, orange, orange zest, pumpkin pie spice", 
+      "title": "Mulled Apple Champagne Punch"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Champagne-Peach-Punch/Detail.aspx", 
+      "ingredients": "grenadine, lemon juice, peach brandy", 
+      "title": "Champagne Peach Punch"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Juicy-Fruit-Punch-with-Champagne/Detail.aspx", 
+      "ingredients": "apple juice, champagne, cranberry juice, sprite, orange juice, pineapple juice", 
+      "title": "Juicy Fruit Punch with Champagne"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/185.jpg", 
+      "href": "http://allrecipes.com/Recipe/New-Years-Champagne-Punch/Detail.aspx", 
+      "ingredients": "orange juice, orange sorbet", 
+      "title": "New Year's Champagne Punch"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Carmel-Apple-Martini/Detail.aspx", 
+      "ingredients": "vodka, butterscotch schnapps, dried apple, ice, apple schnapps", 
+      "title": "Carmel Apple Martini"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Espresso-Martini/Detail.aspx", 
+      "ingredients": "coffee flavored liqueur, cream, ice, vodka", 
+      "title": "Espresso Martini"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Joans-Pomegranate-Martini/Detail.aspx", 
+      "ingredients": "citron, ice, orange flavored liqueur, pomegranate seeds, water, lemon", 
+      "title": "Joan's Pomegranate Martini"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Concord-Cosmopolitan-Martini/Detail.aspx", 
+      "ingredients": "orange liqueur, grape juice, vodka", 
+      "title": "Concord Cosmopolitan Martini"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/193.jpg", 
+      "href": "http://allrecipes.com/Recipe/Potato-Skillet/Detail.aspx", 
+      "ingredients": "potato, bacon, black pepper, cheddar cheese, eggs, garlic salt, salt", 
+      "title": "Potato Skillet"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/194.jpg", 
+      "href": "http://allrecipes.com/Recipe/American-Frittata/Detail.aspx", 
+      "ingredients": "cheddar cheese, eggs, ham, onions, potato, salt, vegetable oil", 
+      "title": "American Frittata"
+    }
+  ], 
+  "title": "Recipe Puppy"
+}

@@ -1,0 +1,67 @@
+{
+  "href": "http://www.recipepuppy.com/", 
+  "version": 0.1, 
+  "results": [
+    {
+      "thumbnail": "http://img.recipepuppy.com/263.jpg", 
+      "href": "http://allrecipes.com/Recipe/Fried-Irish-Soda-Farls/Detail.aspx", 
+      "ingredients": "olive oil, salt, bread", 
+      "title": "Fried Irish Soda Farls"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/264.jpg", 
+      "href": "http://allrecipes.com/Recipe/Crispy-Potato-Wedges/Detail.aspx", 
+      "ingredients": "potato, vegetable oil, garlic powder, black pepper, salt", 
+      "title": "Crispy Potato Wedges"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/266.jpg", 
+      "href": "http://allrecipes.com/Recipe/Irish-Lamb-Stew/Detail.aspx", 
+      "ingredients": "bay leaves, beef broth, black pepper, carrot, thyme, flour, garlic, lamb shoulder, onions, onions, potato, salt, bacon, water, sugar, white wine", 
+      "title": "Irish Lamb Stew"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Irish-Stew-My-Way/Detail.aspx", 
+      "ingredients": "black pepper, carrot, celery, cornstarch, italian seasoning, garlic, green pepper, lamb, olive oil, parsnip, pork, red pepper, red potatoes, salt, onions, onions, turnip, yellow bell pepper", 
+      "title": "Irish Stew, My Way"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Grams-Irish-stew/Detail.aspx", 
+      "ingredients": "beef, black pepper, carrot, celery seed, cornstarch, beef bouillon granules, onions, potato, sage, salt, vegetable oil, water, water, worcestershire sauce", 
+      "title": "Gram's Irish Stew"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/269.jpg", 
+      "href": "http://allrecipes.com/Recipe/Irish-Beef-Stew/Detail.aspx", 
+      "ingredients": "beef broth, beef, carrot, cornstarch, flour, garlic, olive oil, potato, water, onions", 
+      "title": "Irish Beef Stew"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/No-Peek-Irish-Beef-Stew/Detail.aspx", 
+      "ingredients": "brown sugar, carrot, onions, potato, tapioca, tomato juice", 
+      "title": "No Peek Irish Beef Stew"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Irish-Egg-Drop-Soup/Detail.aspx", 
+      "ingredients": "potato, cube chicken bouillon, eggs, margarine, onions", 
+      "title": "Irish Egg Drop Soup"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/273.jpg", 
+      "href": "http://allrecipes.com/Recipe/Irish-Bacon-And-Cabbage-Soup/Detail.aspx", 
+      "ingredients": "chicken broth, savoy cabbage, bacon, potato, salt", 
+      "title": "Irish Bacon And Cabbage Soup"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Lower-Fat-Chicken-Vegetable-Soup/Detail.aspx", 
+      "ingredients": "chicken, cabbage, carrot, chicken broth, basil, oregano, garlic, green pepper, italian seasoning, onions, potato, salt, tomato juice", 
+      "title": "Lower Fat Chicken Vegetable Soup"
+    }
+  ], 
+  "title": "Recipe Puppy"
+}

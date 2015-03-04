@@ -1,0 +1,67 @@
+{
+  "href": "http://www.recipepuppy.com/", 
+  "version": 0.1, 
+  "results": [
+    {
+      "thumbnail": "http://img.recipepuppy.com/463.jpg", 
+      "href": "http://allrecipes.com/Recipe/Cranberry-Salad-IV-2/Detail.aspx", 
+      "ingredients": "carrot, cranberries, orange, pecan, water, water, sugar", 
+      "title": "Cranberry Salad  IV"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Creamy-Cranberry-Salad-2/Detail.aspx", 
+      "ingredients": "apple, orange juice, pecan, heavy cream, sugar", 
+      "title": "Creamy Cranberry Salad"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Cranberry-Gelatin-Mold/Detail.aspx", 
+      "ingredients": "cream cheese, walnut", 
+      "title": "Cranberry Gelatin Mold"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Eggnog-and-Cranberry-Salad/Detail.aspx", 
+      "ingredients": "lemon juice, nutmeg, pecan, water, water", 
+      "title": "Eggnog and Cranberry Salad"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/468.jpg", 
+      "href": "http://allrecipes.com/Recipe/Banana-Chip-Muffins-II/Detail.aspx", 
+      "ingredients": "applesauce, baking powder, baking soda, banana, cinnamon, egg whites, flour, salt, semisweet chocolate chips, sugar", 
+      "title": "Banana Chip Muffins II"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/469.jpg", 
+      "href": "http://allrecipes.com/Recipe/Chocolate-Chip-Banana-Bread-I/Detail.aspx", 
+      "ingredients": "baking powder, baking soda, butter, buttermilk, eggs, salt, semisweet chocolate chips, sour cream, flour, vanilla extract, banana, sugar", 
+      "title": "Chocolate Chip Banana Bread I"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/470.jpg", 
+      "href": "http://allrecipes.com/Recipe/Chocolate-Banana-Muffins/Detail.aspx", 
+      "ingredients": "baking soda, brown sugar, butter, eggs, flour, semisweet chocolate chips, sugar, vanilla extract, walnut", 
+      "title": "Chocolate Banana Muffins"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/471.jpg", 
+      "href": "http://allrecipes.com/Recipe/Pumpkin-Chocolate-Chip-Muffins-2/Detail.aspx", 
+      "ingredients": "applesauce, baking powder, baking soda, vegetable oil, cinnamon, eggs, egg substitute, flour, nutmeg, salt, semisweet chocolate chips, sugar, flour", 
+      "title": "Pumpkin Chocolate Chip Muffins"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/472.jpg", 
+      "href": "http://allrecipes.com/Recipe/Oatmeal-Chocolate-Chip-Muffins/Detail.aspx", 
+      "ingredients": "baking powder, brown sugar, eggs, flour, milk, pecan, oats, salt, semisweet chocolate chips, vegetable oil", 
+      "title": "Oatmeal Chocolate Chip Muffins"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Chocolate-Chip-Muffins-2/Detail.aspx", 
+      "ingredients": "applesauce, baking soda, brown sugar, cinnamon, egg whites, flour, flour, milk, salt, semisweet chocolate chips, vanilla extract, walnut", 
+      "title": "Chocolate Chip Muffins"
+    }
+  ], 
+  "title": "Recipe Puppy"
+}

@@ -1,0 +1,67 @@
+{
+  "href": "http://www.recipepuppy.com/", 
+  "version": 0.1, 
+  "results": [
+    {
+      "thumbnail": "http://img.recipepuppy.com/21.jpg", 
+      "href": "http://allrecipes.com/Recipe/Asparagus-and-Mushroom-Frittata/Detail.aspx", 
+      "ingredients": "asparagus, butter, eggs, mozzarella cheese, mushroom, olive oil, parmesan cheese, water", 
+      "title": "Asparagus and Mushroom Frittata"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/22.jpg", 
+      "href": "http://allrecipes.com/Recipe/Honey-Of-An-Oatmeal-Bread/Detail.aspx", 
+      "ingredients": "bread flour, honey, rolled oat, salt, vegetable oil, water, yeast", 
+      "title": "Honey Of An Oatmeal Bread"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/23.jpg", 
+      "href": "http://allrecipes.com/Recipe/Cinnamon-Rolls-III/Detail.aspx", 
+      "ingredients": "bread flour, brown sugar, butter, butter, butter, cinnamon, powdered sugar, eggs, milk, milk, pecan, salt, vanilla extract, water, sugar", 
+      "title": "Cinnamon Rolls III"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/24.jpg", 
+      "href": "http://allrecipes.com/Recipe/Soft-Moist-and-Gooey-Cinnamon-Buns/Detail.aspx", 
+      "ingredients": "bread flour, yeast, brown sugar, butter, butter, butter, cinnamon, powdered sugar, eggs, milk, milk, raisins, salt, vanilla extract, walnut, water, sugar", 
+      "title": "Soft, Moist and Gooey Cinnamon Buns"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/25.jpg", 
+      "href": "http://allrecipes.com/Recipe/Cinnamon-Rolls-II/Detail.aspx", 
+      "ingredients": "butter, butter, butter, cinnamon, powdered sugar, eggs, flour, milk, milk, raisins, salt, vanilla extract, walnut, water, sugar, sugar, yeast", 
+      "title": "Cinnamon Rolls II"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Essence-of-Bread/Detail.aspx", 
+      "ingredients": "bread flour, salt, water, cornmeal", 
+      "title": "Essence of Bread"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/28.jpg", 
+      "href": "http://allrecipes.com/recipe/clone-of-a-cinnabon/detail.aspx", 
+      "ingredients": "bread flour, yeast, brown sugar, butter, butter, cinnamon, powdered sugar, eggs, margarine, milk, salt, salt, vanilla extract, sugar", 
+      "title": "Clone of a Cinnabon"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Ginger-Grant/Detail.aspx", 
+      "ingredients": "ginger ale, grenadine, ice, maraschino cherries, whiskey", 
+      "title": "Ginger Grant"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/30.jpg", 
+      "href": "http://allrecipes.com/Recipe/Champagne-Punch-III/Detail.aspx", 
+      "ingredients": "carbonated water, lemon, mint", 
+      "title": "Champagne Punch III"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Champagne-Punch-II/Detail.aspx", 
+      "ingredients": "carbonated water, cognac, grapes, sauterne, sugar", 
+      "title": "Champagne Punch II"
+    }
+  ], 
+  "title": "Recipe Puppy"
+}

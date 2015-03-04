@@ -1,0 +1,67 @@
+{
+  "href": "http://www.recipepuppy.com/", 
+  "version": 0.1, 
+  "results": [
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Chicken-Soup-With-Pasta-and-White-Beans/Detail.aspx", 
+      "ingredients": "parmesan cheese, ditalini, chicken broth, salt", 
+      "title": "Chicken Soup With Pasta and White Beans"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/883.jpg", 
+      "href": "http://allrecipes.com/Recipe/Pasta-with-Tuna-Sun-Dried-Tomatoes-Artichoke-Hearts-Lemon-and-White-Wine/Detail.aspx", 
+      "ingredients": "chicken broth, lemon juice, lemon zest, artichoke, sun dried tomato, olive oil, onions, black pepper, tuna, white wine", 
+      "title": "Pasta with Tuna, Sun-Dried Tomatoes, Artichoke Hearts, Lemon, and White Wine"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/884.jpg", 
+      "href": "http://allrecipes.com/Recipe/Penne-Pasta-with-Spinach-and-Bacon/Detail.aspx", 
+      "ingredients": "bacon, garlic, olive oil, spinach", 
+      "title": "Penne Pasta with Spinach and Bacon"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/885.jpg", 
+      "href": "http://allrecipes.com/Recipe/Penne-Pasta-with-Veggies/Detail.aspx", 
+      "ingredients": "asparagus, broccoli, butter, garlic, olive oil, parmesan cheese, penne, prosciutto, red pepper, sun-dried tomato, zucchini", 
+      "title": "Penne Pasta with Veggies"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Penne-Pasta-with-Peppers/Detail.aspx", 
+      "ingredients": "garlic, olive oil, penne, red pepper, red onions, yellow bell pepper", 
+      "title": "Penne Pasta with Peppers"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Country-Style-Green-Beans-with-Red-Potatoes/Detail.aspx", 
+      "ingredients": "black pepper, garlic powder, onions, red potatoes, salt, turkey", 
+      "title": "Country Style Green Beans with Red Potatoes"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/888.jpg", 
+      "href": "http://allrecipes.com/Recipe/Red-Potatoes-with-Beans/Detail.aspx", 
+      "ingredients": "green beans, salad dressing, red onions, red potatoes, water", 
+      "title": "Red Potatoes with Beans"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Mashed-Potatoes-with-Spinach-Pesto/Detail.aspx", 
+      "ingredients": "garlic, olive oil, parmesan cheese, red potatoes, salt", 
+      "title": "Mashed Potatoes with Spinach Pesto"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/890.jpg", 
+      "href": "http://allrecipes.com/Recipe/Grilled-Sausage-with-Potatoes-and-Green-Beans/Detail.aspx", 
+      "ingredients": "black pepper, butter, green beans, onions, red potatoes, salt, smoked sausage, vegetable oil, water", 
+      "title": "Grilled Sausage with Potatoes and Green Beans"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/891.jpg", 
+      "href": "http://allrecipes.com/Recipe/Kielbasa-with-Peppers-and-Potatoes/Detail.aspx", 
+      "ingredients": "red pepper, red potatoes, vegetable oil, yellow bell pepper", 
+      "title": "Kielbasa with Peppers and Potatoes"
+    }
+  ], 
+  "title": "Recipe Puppy"
+}

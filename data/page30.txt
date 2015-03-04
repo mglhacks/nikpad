@@ -1,0 +1,67 @@
+{
+  "href": "http://www.recipepuppy.com/", 
+  "version": 0.1, 
+  "results": [
+    {
+      "thumbnail": "http://img.recipepuppy.com/370.jpg", 
+      "href": "http://allrecipes.com/Recipe/Marys-Pecan-Crusted-Chicken/Detail.aspx", 
+      "ingredients": "black pepper, chicken, cinnamon, eggs, flour, milk, olive oil, pecan, poultry seasoning, salt, sugar", 
+      "title": "Mary's Pecan Crusted Chicken"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/371.jpg", 
+      "href": "http://allrecipes.com/Recipe/Grilled-Chicken-Citrus-Salad/Detail.aspx", 
+      "ingredients": "celery, chili powder, cumin, garlic, green onion, lime juice, orange juice, orange, romaine lettuce, shallot, sugar", 
+      "title": "Grilled Chicken Citrus Salad"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Margies-Sour-Cream-Pork-Chops/Detail.aspx", 
+      "ingredients": "bay leaves, chicken broth, flour, pork chops, salt, sour cream, sugar, vegetable oil, vinegar", 
+      "title": "Margie's Sour Cream Pork Chops"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Pork-Chops-German-Style/Detail.aspx", 
+      "ingredients": "pork chops, flour, mustard, vegetable oil", 
+      "title": "Pork Chops German Style"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Marys-Pork-Chops/Detail.aspx", 
+      "ingredients": "tomato sauce, tarragon, rice, olive oil, maple syrup, pork chops, salt", 
+      "title": "Mary's Pork Chops"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/377.jpg", 
+      "href": "http://allrecipes.com/Recipe/Baked-Pork-Chops-II/Detail.aspx", 
+      "ingredients": "black pepper, brown sugar, lemon juice, mustard powder, olive oil, salt, pork chops, water", 
+      "title": "Baked Pork Chops II"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/378.jpg", 
+      "href": "http://allrecipes.com/Recipe/Stuffed-Pork-Chops-I/Detail.aspx", 
+      "ingredients": "butter, celery, chicken broth, bread, onions, poultry seasoning, pork chops, vegetable oil, water", 
+      "title": "Stuffed Pork Chops I"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Consomme-Pork-Chops/Detail.aspx", 
+      "ingredients": "beef consomme, flour, rice, olive oil, onions, pork chops, salt, water", 
+      "title": "Consomme Pork Chops"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/381.jpg", 
+      "href": "http://allrecipes.com/Recipe/Pork-Chops-with-Delicious-Gravy/Detail.aspx", 
+      "ingredients": "butter, flour, flour, honey, lemon juice, milk, pork chops, black pepper, salt, sour cream", 
+      "title": "Pork Chops with Delicious Gravy"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Chops-in-Mushroom-Gravy/Detail.aspx", 
+      "ingredients": "butter, milk, onions, pork chops, salt", 
+      "title": "Chops in Mushroom Gravy"
+    }
+  ], 
+  "title": "Recipe Puppy"
+}

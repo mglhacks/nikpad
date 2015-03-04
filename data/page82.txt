@@ -1,0 +1,67 @@
+{
+  "href": "http://www.recipepuppy.com/", 
+  "version": 0.1, 
+  "results": [
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Pisco-Sour/Detail.aspx", 
+      "ingredients": "bitters, egg whites, ice, lemon juice, pisco, sugar", 
+      "title": "Pisco Sour"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Lemon-Drop-Martini/Detail.aspx", 
+      "ingredients": "ice, lime juice, lemon zest, sweet and sour mix, sugar", 
+      "title": "Lemon Drop Martini"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Maui-Martini/Detail.aspx", 
+      "ingredients": "ice, pineapple", 
+      "title": "Maui Martini"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/California-Surfer/Detail.aspx", 
+      "ingredients": "coconut rum, liqueur, orange, pineapple juice, ice", 
+      "title": "California Surfer"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Mrs-Baxtons-Long-Island-Iced-Tea/Detail.aspx", 
+      "ingredients": "triple sec, cola flavored carbonated beverage, gin, tequila, lime, rum, sweet and sour mix, vodka", 
+      "title": "Mrs. Baxton's Long Island Iced Tea"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/928.jpg", 
+      "href": "http://allrecipes.com/Recipe/Perfect-Pear-Brandy-Sidecar/Detail.aspx", 
+      "ingredients": "lemon juice, pear nectar, simple syrup", 
+      "title": "Perfect Pear Brandy Sidecar"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/929.jpg", 
+      "href": "http://allrecipes.com/Recipe/Crown-Sidecar/Detail.aspx", 
+      "ingredients": "sweet and sour mix, triple sec, lime", 
+      "title": "Crown Sidecar"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/The-Witness/Detail.aspx", 
+      "ingredients": "cranberry juice, grapefruit, grapefruit juice, ice, lime juice, lime, lime, vodka, triple sec", 
+      "title": "The Witness"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/931.jpg", 
+      "href": "http://allrecipes.com/Recipe/Basic-Daiquiri/Detail.aspx", 
+      "ingredients": "ice, rum, lime juice, sugar", 
+      "title": "Basic Daiquiri"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/J-Los-Asian-Mojito/Detail.aspx", 
+      "ingredients": "club soda, ice, lime, rum, mint, pineapple juice, apple schnapps", 
+      "title": "J-Lo's Asian Mojito"
+    }
+  ], 
+  "title": "Recipe Puppy"
+}

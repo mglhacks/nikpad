@@ -1,0 +1,67 @@
+{
+  "href": "http://www.recipepuppy.com/", 
+  "version": 0.1, 
+  "results": [
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Lower-Fat-Potato-Soup/Detail.aspx", 
+      "ingredients": "celery, parsley, garlic powder, onions, potato flakes, potato, salt, skim milk", 
+      "title": "Lower Fat Potato Soup"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/791.jpg", 
+      "href": "http://allrecipes.com/Recipe/Chicken-Veggie-Soup-I/Detail.aspx", 
+      "ingredients": "baby carrot, potato", 
+      "title": "Chicken Veggie Soup I"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Hearty-Chicken-Vegetable-Soup-II/Detail.aspx", 
+      "ingredients": "chicken, green beans, green onion, milk, water", 
+      "title": "Hearty Chicken Vegetable Soup II"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Chicken-Vegetable-Soup/Detail.aspx", 
+      "ingredients": "chicken, bow tie pasta, garlic, italian seasoning, margarine, onions, tomato juice, water", 
+      "title": "Chicken Vegetable Soup"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Chicken-Rice-and-Vegetable-Soup/Detail.aspx", 
+      "ingredients": "carrot, celery, chicken, chicken bouillon, onions, salt, water, rice", 
+      "title": "Chicken, Rice and Vegetable Soup"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Hearty-Turkey-Soup-with-Parsley-Dumplings/Detail.aspx", 
+      "ingredients": "baking powder, bay leaf, black pepper, butter, carrot, celery, cube chicken bouillon, thyme, flour, flour, milk, milk, turkey, rutabaga, salt, salt, turkey, water, bread, yellow onions", 
+      "title": "Hearty Turkey Soup with Parsley Dumplings"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Hearty-Turkey-Soup-with-Parsley-Dumplings-2/Detail.aspx", 
+      "ingredients": "baking powder, bay leaf, black pepper, butter, carrot, celery, cube chicken bouillon, thyme, flour, flour, milk, milk, onions, parsley, turkey, rutabaga, salt, salt, turkey, water, bread", 
+      "title": "Hearty Turkey Soup with Parsley Dumplings"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/797.jpg", 
+      "href": "http://allrecipes.com/Recipe/Southwestern-Turkey-Soup/Detail.aspx", 
+      "ingredients": "avocado, cayenne, turkey, cumin, cilantro, garlic, lime juice, monterey jack cheese, onions, tomato, salt, vegetable broth", 
+      "title": "Southwestern Turkey Soup"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Ground-Turkey-Soup/Detail.aspx", 
+      "ingredients": "carrot, beef bouillon granules, cabbage, barley, potato, turkey, water", 
+      "title": "Ground Turkey Soup"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Turkey-Tortilla-Soup/Detail.aspx", 
+      "ingredients": "avocado, cheddar cheese, chicken broth, cumin, enchilada sauce, half and half, jalapeno, enchilada sauce, tomato, turkey", 
+      "title": "Turkey Tortilla Soup"
+    }
+  ], 
+  "title": "Recipe Puppy"
+}

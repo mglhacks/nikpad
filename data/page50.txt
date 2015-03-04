@@ -1,0 +1,67 @@
+{
+  "href": "http://www.recipepuppy.com/", 
+  "version": 0.1, 
+  "results": [
+    {
+      "thumbnail": "http://img.recipepuppy.com/597.jpg", 
+      "href": "http://allrecipes.com/Recipe/Cinnamon-Rolls-2/Detail.aspx", 
+      "ingredients": "butter, butter, cinnamon, powdered sugar, flour, frosting, milk, sugar, vanilla extract, water", 
+      "title": "Cinnamon Rolls"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/598.jpg", 
+      "href": "http://allrecipes.com/Recipe/Maple-Nut-Cinnamon-Rolls/Detail.aspx", 
+      "ingredients": "brown sugar, brown sugar, brown sugar, butter, cinnamon, eggs, flour, maple flavored extract, maple syrup, milk, oats, orange zest, salt, shortening, walnut", 
+      "title": "Maple-Nut Cinnamon Rolls"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Low-Salt-White-Bread/Detail.aspx", 
+      "ingredients": "bread flour, salt, vegetable oil, water, sugar", 
+      "title": "Low-Salt White Bread"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/600.jpg", 
+      "href": "http://allrecipes.com/Recipe/White-Bread-For-The-Bread-Machine/Detail.aspx", 
+      "ingredients": "bread flour, salt, vegetable oil, water, sugar, yeast", 
+      "title": "White Bread For The Bread Machine"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/601.jpg", 
+      "href": "http://allrecipes.com/Recipe/Amish-White-Bread/Detail.aspx", 
+      "ingredients": "bread flour, salt, vegetable oil, water, sugar, yeast", 
+      "title": "Amish White Bread"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/SCA-Trail-Bread/Detail.aspx", 
+      "ingredients": "bread flour, honey, salt, vegetable oil, water", 
+      "title": "S.C.A. Trail Bread"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/603.jpg", 
+      "href": "http://allrecipes.com/Recipe/White-Bread-III/Detail.aspx", 
+      "ingredients": "bread flour, potato flakes, milk powder, salt, vegetable oil, water, sugar, yeast", 
+      "title": "White Bread III"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/604.jpg", 
+      "href": "http://allrecipes.com/Recipe/White-Bread-II/Detail.aspx", 
+      "ingredients": "bread flour, milk powder, salt, vegetable oil, water, sugar, yeast", 
+      "title": "White Bread II"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/605.jpg", 
+      "href": "http://allrecipes.com/Recipe/Paprika-Onion-Bread/Detail.aspx", 
+      "ingredients": "bread flour, butter, onions, paprika, salt, sugar, water", 
+      "title": "Paprika Onion Bread"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/606.jpg", 
+      "href": "http://allrecipes.com/Recipe/Peppery-Onion-Bread/Detail.aspx", 
+      "ingredients": "bread flour, butter, garlic powder, milk powder, black pepper, salt, sugar, water, yeast", 
+      "title": "Peppery Onion Bread"
+    }
+  ], 
+  "title": "Recipe Puppy"
+}

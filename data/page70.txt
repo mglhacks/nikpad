@@ -1,0 +1,67 @@
+{
+  "href": "http://www.recipepuppy.com/", 
+  "version": 0.1, 
+  "results": [
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Garlic-Vegetable-Soup/Detail.aspx", 
+      "ingredients": "black pepper, carrot, celery, chicken broth, elbow macaroni, garlic, cabbage, olive oil, water", 
+      "title": "Garlic Vegetable Soup"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Potage-aux-Legumes-Green-Vegetable-Soup/Detail.aspx", 
+      "ingredients": "butter, carrot, olive oil, garlic, green onion, habanero pepper, leek, onions, balsamic vinegar, salt, water, watercress", 
+      "title": "Potage aux Legumes (Green Vegetable Soup)"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Venison-Vegetable-Soup/Detail.aspx", 
+      "ingredients": "beef bouillon granules, black pepper, garlic powder, onions, hot sauce, potato, salt, vegetable oil, venison, water, sugar", 
+      "title": "Venison Vegetable Soup"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/803.jpg", 
+      "href": "http://allrecipes.com/Recipe/Colenes-Easy-Tomato-Vegetable-Soup/Detail.aspx", 
+      "ingredients": "oregano, salt, water", 
+      "title": "Colene's Easy Tomato Vegetable Soup"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/804.jpg", 
+      "href": "http://allrecipes.com/Recipe/White-Chocolate-Macadamia-Nut-Cookies-I/Detail.aspx", 
+      "ingredients": "brown sugar, butter, eggs, flour, macadamia nuts, vanilla extract, white chocolate, sugar", 
+      "title": "White Chocolate Macadamia Nut Cookies I"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/805.jpg", 
+      "href": "http://allrecipes.com/Recipe/White-Chocolate-Macadamia-Nut-Cookies-IV/Detail.aspx", 
+      "ingredients": "baking soda, butter, eggs, flour, salt, vanilla extract, white chocolate, sugar", 
+      "title": "White Chocolate Macadamia Nut Cookies IV"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/806.jpg", 
+      "href": "http://allrecipes.com/Recipe/White-Chocolate-Macadamia-Nut-Cookies-II/Detail.aspx", 
+      "ingredients": "baking soda, brown sugar, butter, eggs, flour, macadamia nuts, salt, shortening, vanilla extract, white chocolate chips, sugar", 
+      "title": "White Chocolate Macadamia Nut Cookies II"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/807.jpg", 
+      "href": "http://allrecipes.com/Recipe/White-Chocolate-Coconut-Macadamia-Cookies/Detail.aspx", 
+      "ingredients": "baking powder, baking soda, brown sugar, eggs, flaked coconut, flour, macadamia nuts, salt, butter, vanilla extract, white chocolate, sugar", 
+      "title": "White Chocolate Coconut Macadamia Cookies"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/808.jpg", 
+      "href": "http://allrecipes.com/Recipe/White-Chocolate-Macadamia-Nut-Cookies-III/Detail.aspx", 
+      "ingredients": "almond extract, baking soda, butter, eggs, flour, brown sugar, macadamia nuts, salt, vanilla extract, white chocolate, sugar", 
+      "title": "White Chocolate Macadamia Nut Cookies III"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/809.jpg", 
+      "href": "http://allrecipes.com/Recipe/Raspberry-Chocolate-Bars/Detail.aspx", 
+      "ingredients": "butter, cornstarch, flour, semisweet chocolate chips, orange juice, sugar", 
+      "title": "Raspberry Chocolate Bars"
+    }
+  ], 
+  "title": "Recipe Puppy"
+}

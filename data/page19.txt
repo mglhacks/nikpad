@@ -1,0 +1,67 @@
+{
+  "href": "http://www.recipepuppy.com/", 
+  "version": 0.1, 
+  "results": [
+    {
+      "thumbnail": "http://img.recipepuppy.com/220.jpg", 
+      "href": "http://allrecipes.com/Recipe/Cream-Cheese-Kolacky/Detail.aspx", 
+      "ingredients": "jam, butter, powdered sugar, cream cheese, flour", 
+      "title": "Cream Cheese Kolacky"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/221.jpg", 
+      "href": "http://allrecipes.com/Recipe/Cream-Cheese-Cookies-I/Detail.aspx", 
+      "ingredients": "butter, egg yolks, flour, vanilla extract, sugar", 
+      "title": "Cream Cheese Cookies I"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/223.jpg", 
+      "href": "http://allrecipes.com/Recipe/Jeannes-Chocolate-Kiss-Cookies/Detail.aspx", 
+      "ingredients": "baking soda, butter, cocoa powder, eggs, flour, milk chocolate chips, salt, sugar, vanilla extract, sugar", 
+      "title": "Jeanne's Chocolate Kiss Cookies"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/224.jpg", 
+      "href": "http://allrecipes.com/Recipe/Chocolate-Orange-Cookies/Detail.aspx", 
+      "ingredients": "baking powder, butter, eggs, flour, orange zest, salt, vanilla extract, sugar", 
+      "title": "Chocolate Orange Cookies"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Chocolate-Crackle-Cookies/Detail.aspx", 
+      "ingredients": "baking soda, butter, cinnamon, eggs, flour, corn syrup, salt, semisweet chocolate chips, sugar", 
+      "title": "Chocolate Crackle Cookies"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Almond-Shortbread-I/Detail.aspx", 
+      "ingredients": "flour, almond extract, butter, sugar, sugar", 
+      "title": "Almond Shortbread I"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Almond-Shortbread-II/Detail.aspx", 
+      "ingredients": "almond meal, almond, butter, powdered sugar, cornstarch, flour, nutmeg", 
+      "title": "Almond Shortbread II"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Raspberry-Almond-Bars/Detail.aspx", 
+      "ingredients": "almond extract, baking powder, butter, eggs, flour, sugar", 
+      "title": "Raspberry Almond Bars"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/230.jpg", 
+      "href": "http://allrecipes.com/Recipe/Almond-Shortbread-Wafers/Detail.aspx", 
+      "ingredients": "almonds, butter, flour, rice krispies, semisweet chocolate chips, shortening, sugar, vanilla extract", 
+      "title": "Almond Shortbread Wafers"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/232.jpg", 
+      "href": "http://allrecipes.com/Recipe/Caramel-Filled-Chocolate-Cookies/Detail.aspx", 
+      "ingredients": "baking soda, brown sugar, butter, chocolate, cocoa powder, eggs, flour, vanilla extract, walnut, sugar, sugar", 
+      "title": "Caramel Filled Chocolate Cookies"
+    }
+  ], 
+  "title": "Recipe Puppy"
+}

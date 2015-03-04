@@ -1,0 +1,67 @@
+{
+  "href": "http://www.recipepuppy.com/", 
+  "version": 0.1, 
+  "results": [
+    {
+      "thumbnail": "http://img.recipepuppy.com/1.jpg", 
+      "href": "http://allrecipes.com/Recipe/Ginger-Champagne/Detail.aspx", 
+      "ingredients": "champagne, ginger, ice, vodka", 
+      "title": "Ginger Champagne"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/2.jpg", 
+      "href": "http://allrecipes.com/Recipe/Potato-and-Cheese-Frittata/Detail.aspx", 
+      "ingredients": "cheddar cheese, eggs, olive oil, onions, potato, salt", 
+      "title": "Potato and Cheese Frittata"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/3.jpg", 
+      "href": "http://allrecipes.com/Recipe/Eggnog-Thumbprints/Detail.aspx", 
+      "ingredients": "brown sugar, butter, butter, powdered sugar, eggs, flour, nutmeg, rum, salt, vanilla extract, sugar", 
+      "title": "Eggnog Thumbprints"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/4.jpg", 
+      "href": "http://allrecipes.com/Recipe/Succulent-Pork-Roast/Detail.aspx", 
+      "ingredients": "brown sugar, garlic, pork chops, water", 
+      "title": "Succulent Pork Roast"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/5.jpg", 
+      "href": "http://allrecipes.com/Recipe/Irish-Champ/Detail.aspx", 
+      "ingredients": "black pepper, butter, green onion, milk, potato, salt", 
+      "title": "Irish Champ"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/6.jpg", 
+      "href": "http://allrecipes.com/Recipe/Chocolate-Cherry-Thumbprints/Detail.aspx", 
+      "ingredients": "cocoa powder, baking powder, butter, eggs, flour, oats, salt, sugar, vanilla extract", 
+      "title": "Chocolate-Cherry Thumbprints"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/7.jpg", 
+      "href": "http://allrecipes.com/Recipe/Mean-Woman-Pasta/Detail.aspx", 
+      "ingredients": "garlic, kalamata olive, olive oil, pepperoncini, seashell pasta, tomato", 
+      "title": "Mean Woman Pasta"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/8.jpg", 
+      "href": "http://allrecipes.com/Recipe/Hot-Spiced-Cider/Detail.aspx", 
+      "ingredients": "allspice, apple cider, brown sugar, cinnamon, cloves, nutmeg, orange, salt", 
+      "title": "Hot Spiced Cider"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/9.jpg", 
+      "href": "http://allrecipes.com/Recipe/Isas-Cola-de-Mono/Detail.aspx", 
+      "ingredients": "cinnamon, cloves, instant coffee, milk, rum, vanilla extract, water, sugar", 
+      "title": "Isa's Cola de Mono"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/10.jpg", 
+      "href": "http://allrecipes.com/Recipe/Amys-Barbecue-Chicken-Salad/Detail.aspx", 
+      "ingredients": "barbecue sauce, chicken, cilantro, lettuce, ranch dressing, lettuce, tomato", 
+      "title": "Amy's Barbecue Chicken Salad"
+    }
+  ], 
+  "title": "Recipe Puppy"
+}

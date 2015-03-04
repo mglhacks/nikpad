@@ -1,0 +1,67 @@
+{
+  "href": "http://www.recipepuppy.com/", 
+  "version": 0.1, 
+  "results": [
+    {
+      "thumbnail": "http://img.recipepuppy.com/1005.jpg", 
+      "href": "http://allrecipes.com/Recipe/Stuffed-Pork-Chops-with-Gorgonzola-and-Apple/Detail.aspx", 
+      "ingredients": "black pepper, butter, chicken broth, thyme, garlic, blue cheese, blue cheese, granny smith apple, heavy cream, olive oil, salt, sherry, pork chops", 
+      "title": "Stuffed Pork Chops with Gorgonzola and Apple"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/1006.jpg", 
+      "href": "http://allrecipes.com/Recipe/Stuffed-Pork-Chops-III/Detail.aspx", 
+      "ingredients": "beef broth, black pepper, bread crumbs, butter, parsley, salt, pork chops, sugar, yellow onions", 
+      "title": "Stuffed Pork Chops III"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/1007.jpg", 
+      "href": "http://allrecipes.com/Recipe/Stuffed-Pork-Chops/Detail.aspx", 
+      "ingredients": "beef broth, butter, celery, cornstarch, milk, onions, paprika, black pepper, salt, croutons, water", 
+      "title": "Stuffed Pork Chops"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/1008.jpg", 
+      "href": "http://allrecipes.com/Recipe/Slow-Cooker-Pork-Chops-II/Detail.aspx", 
+      "ingredients": "chicken broth, basil, oregano, garlic, garlic powder, olive oil, paprika, poultry seasoning, salt, pork chops", 
+      "title": "Slow Cooker Pork Chops II"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/1009.jpg", 
+      "href": "http://allrecipes.com/Recipe/Sweet-Pork-Chops/Detail.aspx", 
+      "ingredients": "apple juice, black pepper, celery seed, dijon mustard, parsley, flour, garlic, honey, lemon juice, milk, pork chops, vegetable oil", 
+      "title": "Sweet Pork Chops"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/1010.jpg", 
+      "href": "http://allrecipes.com/Recipe/Citrus-Topped-Pork-Chops/Detail.aspx", 
+      "ingredients": "apple jelly, vegetable oil, ginger, lemon juice, lemon, mustard powder, orange juice, orange, paprika, pork chops, salt", 
+      "title": "Citrus-Topped Pork Chops"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/1011.jpg", 
+      "href": "http://allrecipes.com/Recipe/Apple-Onion-Pork-Chops/Detail.aspx", 
+      "ingredients": "olive oil, black pepper, red onions, red wine vinegar, chicken broth, salt, apple", 
+      "title": "Apple-Onion Pork Chops"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/1012.jpg", 
+      "href": "http://allrecipes.com/Recipe/Herb-Dumplings-with-Pork-Chops/Detail.aspx", 
+      "ingredients": "baking powder, celery seed, flour, milk, onions, sage, sage, salt, shortening, vegetable oil, water", 
+      "title": "Herb Dumplings with Pork Chops"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/1013.jpg", 
+      "href": "http://allrecipes.com/Recipe/Elegant-Pork-Chops/Detail.aspx", 
+      "ingredients": "garlic powder, rice, milk, onion powder, black pepper, vegetable oil", 
+      "title": "Elegant Pork Chops"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/1014.jpg", 
+      "href": "http://allrecipes.com/Recipe/Moms-Best-Pork-Chops/Detail.aspx", 
+      "ingredients": "eggs, garlic powder, onion powder, pork chops, vegetable oil", 
+      "title": "Mom's Best Pork Chops"
+    }
+  ], 
+  "title": "Recipe Puppy"
+}

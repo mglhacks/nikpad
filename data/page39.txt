@@ -1,0 +1,67 @@
+{
+  "href": "http://www.recipepuppy.com/", 
+  "version": 0.1, 
+  "results": [
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Cream-of-Mushroom-Chicken/Detail.aspx", 
+      "ingredients": "butter, chicken, onions, salt, water", 
+      "title": "Cream of Mushroom Chicken"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Chicken-with-Red-Pepper-Cream-Sauce/Detail.aspx", 
+      "ingredients": "chicken, evaporated milk, garlic, mushroom, olive oil, onions, peas, sour cream, bacon", 
+      "title": "Chicken with Red Pepper Cream Sauce"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Moms-Sour-Cream-Chicken/Detail.aspx", 
+      "ingredients": "black pepper, chicken, garlic powder, ketchup, mustard, salt, sour cream, vegetable oil", 
+      "title": "Mom's Sour Cream Chicken"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/487.jpg", 
+      "href": "http://allrecipes.com/Recipe/Chicken-and-Pasta-in-a-Mango-Cream-Sauce/Detail.aspx", 
+      "ingredients": "chicken, garlic, ginger, green pepper, heavy cream, mango, olive oil, onions, parmesan cheese, parsley, rigatoni pasta, salt", 
+      "title": "Chicken and Pasta in a Mango Cream Sauce"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/488.jpg", 
+      "href": "http://allrecipes.com/Recipe/Sweet-Mustard-Chicken-Bake/Detail.aspx", 
+      "ingredients": "black pepper, butter, chicken, dijon mustard, honey", 
+      "title": "Sweet Mustard Chicken Bake"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/489.jpg", 
+      "href": "http://allrecipes.com/Recipe/Cheddar-Baked-Chicken/Detail.aspx", 
+      "ingredients": "black pepper, butter, butter, cheddar cheese, chicken, crisp rice cereal, eggs, flour, garlic powder, bread crumbs, milk, salt", 
+      "title": "Cheddar Baked Chicken"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/490.jpg", 
+      "href": "http://allrecipes.com/Recipe/Mustard-Chicken/Detail.aspx", 
+      "ingredients": "chicken, mustard", 
+      "title": "Mustard Chicken"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/491.jpg", 
+      "href": "http://allrecipes.com/Recipe/Lemon-Pepper-Chicken-II/Detail.aspx", 
+      "ingredients": "black pepper, chicken, lemonade mix", 
+      "title": "Lemon Pepper Chicken II"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Chicken-with-Figs-in-a-Port-Wine-Sauce/Detail.aspx", 
+      "ingredients": "butter, chicken, chicken broth, dried fig, flour, heavy cream, port wine, white wine", 
+      "title": "Chicken with Figs in a Port Wine Sauce"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/493.jpg", 
+      "href": "http://allrecipes.com/Recipe/Chicken-in-Tarragon-Cream-Sauce/Detail.aspx", 
+      "ingredients": "chicken, garlic, lemon pepper, cream, shallot, chicken broth, nonstick cooking spray", 
+      "title": "Chicken in Tarragon Cream Sauce"
+    }
+  ], 
+  "title": "Recipe Puppy"
+}

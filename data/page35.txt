@@ -1,0 +1,67 @@
+{
+  "href": "http://www.recipepuppy.com/", 
+  "version": 0.1, 
+  "results": [
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Spicy-Thai-Shrimp-Pasta/Detail.aspx", 
+      "ingredients": "green onion, shrimp, peanut sauce, tomato", 
+      "title": "Spicy Thai Shrimp Pasta"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/439.jpg", 
+      "href": "http://allrecipes.com/Recipe/Shrimp-with-Garlic-Cream-Sauce-over-Linguine/Detail.aspx", 
+      "ingredients": "parmesan cheese, garlic, cornstarch, olive oil, coffee creamer, parsley, shrimp, water", 
+      "title": "Shrimp with Garlic Cream Sauce over Linguine"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/440.jpg", 
+      "href": "http://allrecipes.com/Recipe/Angel-Hair-Pasta-with-Garlic-Shrimp-and-Broccoli/Detail.aspx", 
+      "ingredients": "butter, flour, garlic, garlic, heavy cream, shrimp, milk, parmesan cheese, pesto, salt, hot sauce, white pepper, worcestershire sauce", 
+      "title": "Angel Hair Pasta with Garlic Shrimp and Broccoli"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/441.jpg", 
+      "href": "http://allrecipes.com/Recipe/Spicy-Bok-Choy-in-Garlic-Sauce/Detail.aspx", 
+      "ingredients": "cabbage, brown sugar, garlic, ginger, soy sauce, oyster sauce, red pepper flakes, vegetable oil, vegetable oil, water", 
+      "title": "Spicy Bok Choy in Garlic Sauce"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Garlic-Cheese-Grits-with-Shrimp/Detail.aspx", 
+      "ingredients": "butter, cayenne, garlic, processed cheese, grits, lemon, olive oil, salt, shrimp, tomato", 
+      "title": "Garlic Cheese Grits with Shrimp"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/444.jpg", 
+      "href": "http://allrecipes.com/Recipe/Sukhothai-Pad-Thai/Detail.aspx", 
+      "ingredients": "bean sprouts, white vinegar, eggs, garlic, lime, paprika, peanuts, salt, soy sauce, tamarind pulp, vegetable oil, sugar, sugar", 
+      "title": "Sukhothai Pad Thai"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/445.jpg", 
+      "href": "http://allrecipes.com/Recipe/Dads-Pad-Thai/Detail.aspx", 
+      "ingredients": "bean sprouts, brown sugar, carrot, eggs, fish sauce, garlic, green onion, ketchup, lime juice, rice noodles, vegetable oil, peanuts, red pepper flakes, salt", 
+      "title": "Dad's Pad Thai"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/446.jpg", 
+      "href": "http://allrecipes.com/Recipe/Pad-Thai-2/Detail.aspx", 
+      "ingredients": "bean sprouts, butter, chicken, eggs, fish sauce, green onion, lemon, peanuts, red pepper, vegetable oil, sugar, white wine vinegar", 
+      "title": "Pad Thai"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/447.jpg", 
+      "href": "http://allrecipes.com/Recipe/A-Pad-Thai-Worth-Making/Detail.aspx", 
+      "ingredients": "hot sauce, bean sprouts, bean sprouts, chicken, chicken broth, eggs, fish sauce, garlic, green onion, lime, lime juice, oyster sauce, shrimp, peanuts, vegetable oil, sugar", 
+      "title": "A Pad Thai Worth Making"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Pad-Thai/Detail.aspx", 
+      "ingredients": "bean sprouts, eggs, tofu, garlic, lime, peanuts, soy sauce, vegetable oil, sugar", 
+      "title": "Pad Thai"
+    }
+  ], 
+  "title": "Recipe Puppy"
+}

@@ -1,0 +1,67 @@
+{
+  "href": "http://www.recipepuppy.com/", 
+  "version": 0.1, 
+  "results": [
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Vegetable-Soup---Irish-Style/Detail.aspx", 
+      "ingredients": "carrot, leek, onions, parsnip, potato flakes, potato, salt, turnip, water", 
+      "title": "Vegetable Soup - Irish Style"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/59.jpg", 
+      "href": "http://allrecipes.com/Recipe/Tylers-Raspberry-Thumbprints-with-White-Chocolate-Glaze/Detail.aspx", 
+      "ingredients": "baking soda, butter, butter, powdered sugar, eggs, flour, milk, milk, raspberry preserves, rolled oat, sour cream, white chocolate, sugar", 
+      "title": "Tyler's Raspberry Thumbprints with White Chocolate Glaze"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/60.jpg", 
+      "href": "http://allrecipes.com/Recipe/Oatmeal-Thumbprints/Detail.aspx", 
+      "ingredients": "almond extract, baking soda, brown sugar, butter, cinnamon, eggs, flour, oats, raspberry jam, salt, shortening, walnut, water, sugar", 
+      "title": "Oatmeal Thumbprints"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/62.jpg", 
+      "href": "http://allrecipes.com/Recipe/Fresh-Tomato-Pasta/Detail.aspx", 
+      "ingredients": "basil, garlic, tomato, vegetable oil", 
+      "title": "Fresh Tomato Pasta"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/63.jpg", 
+      "href": "http://allrecipes.com/Recipe/Spinach-and-Pasta-Shells/Detail.aspx", 
+      "ingredients": "red pepper flakes, garlic, olive oil, salt, seashell pasta", 
+      "title": "Spinach and Pasta Shells"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/64.jpg", 
+      "href": "http://allrecipes.com/Recipe/Bowtie-Pasta/Detail.aspx", 
+      "ingredients": "black pepper, butter, peas, onions, prosciutto, tomato, white wine", 
+      "title": "Bowtie Pasta"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Tonys-Summer-Pasta/Detail.aspx", 
+      "ingredients": "black pepper, garlic, garlic salt, mozzarella cheese, olive oil, tomato", 
+      "title": "Tony's Summer Pasta"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Pasta-and-Beans/Detail.aspx", 
+      "ingredients": "olive oil, onions, penne, salt, tomato", 
+      "title": "Pasta and Beans"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/68.jpg", 
+      "href": "http://allrecipes.com/Recipe/Hot-Spiced-Cranberry-Cider/Detail.aspx", 
+      "ingredients": "apple cider, brown sugar, cinnamon, cloves, cranberry juice, lemon", 
+      "title": "Hot Spiced Cranberry Cider"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/69.jpg", 
+      "href": "http://allrecipes.com/Recipe/Hot-Buttered-Apple-Cider/Detail.aspx", 
+      "ingredients": "allspice, butter, nutmeg, maple syrup", 
+      "title": "Hot Buttered Apple Cider"
+    }
+  ], 
+  "title": "Recipe Puppy"
+}

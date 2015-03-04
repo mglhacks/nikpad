@@ -1,0 +1,67 @@
+{
+  "href": "http://www.recipepuppy.com/", 
+  "version": 0.1, 
+  "results": [
+    {
+      "thumbnail": "http://img.recipepuppy.com/700.jpg", 
+      "href": "http://allrecipes.com/Recipe/Chocolate-Chip-Kiss-Cookies/Detail.aspx", 
+      "ingredients": "brown sugar, butter, flour, milk chocolate chips, semisweet chocolate chips, vanilla extract, sugar", 
+      "title": "Chocolate Chip Kiss Cookies"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/701.jpg", 
+      "href": "http://allrecipes.com/Recipe/Double-Chocolate-Mint-Cookies/Detail.aspx", 
+      "ingredients": "baking soda, butter, cocoa powder, eggs, flour, peppermint extract, salt, semisweet chocolate chips, vanilla extract, sugar", 
+      "title": "Double Chocolate Mint Cookies"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/702.jpg", 
+      "href": "http://allrecipes.com/Recipe/Chewy-Chocolate-Cookies-I/Detail.aspx", 
+      "ingredients": "baking soda, butter, cocoa powder, eggs, flour, salt, semisweet chocolate chips, vanilla extract, sugar", 
+      "title": "Chewy Chocolate Cookies I"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Chocolate-Crispy-Cookies/Detail.aspx", 
+      "ingredients": "baking soda, butter, crisp rice cereal, eggs, flour, salt, semisweet chocolate chips, vanilla extract, sugar", 
+      "title": "Chocolate Crispy Cookies"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/704.jpg", 
+      "href": "http://allrecipes.com/Recipe/Orange-White-Chocolate-Chip-Beltane-Cookies/Detail.aspx", 
+      "ingredients": "baking powder, butter, eggs, flour, orange zest, salt, vanilla extract, white chocolate chips, sugar", 
+      "title": "Orange White Chocolate Chip Beltane Cookies"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/705.jpg", 
+      "href": "http://allrecipes.com/Recipe/White-Chocolate-Orange-Cookies/Detail.aspx", 
+      "ingredients": "baking soda, brown sugar, butter, eggs, flour, orange zest, salt, walnut, white chocolate chips, sugar", 
+      "title": "White Chocolate Orange Cookies"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/706.jpg", 
+      "href": "http://allrecipes.com/Recipe/Orange-Chocolate-Chip-Cookies/Detail.aspx", 
+      "ingredients": "baking powder, brown sugar, eggs, flour, orange zest, pecan, salt, semisweet chocolate chips, butter, vanilla extract, sugar", 
+      "title": "Orange Chocolate Chip Cookies"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Christmas-Orange-Rind-Cut-Out-Cookies/Detail.aspx", 
+      "ingredients": "almond, baking powder, butter, eggs, flour, orange zest, sour cream, sugar, sugar", 
+      "title": "Christmas Orange Rind Cut-Out Cookies"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/708.jpg", 
+      "href": "http://allrecipes.com/Recipe/Brown-Sugar-Chocolate-Crackle-Cookies/Detail.aspx", 
+      "ingredients": "baking powder, brown sugar, powdered sugar, eggs, flour, salt, semisweet chocolate chips, vanilla extract, vegetable oil, walnut", 
+      "title": "Brown Sugar Chocolate Crackle Cookies"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Chocolate-Wafer-Cookies/Detail.aspx", 
+      "ingredients": "baking soda, brown sugar, butter, chocolate, eggs, flour, salt, vanilla extract, water, sugar", 
+      "title": "Chocolate Wafer Cookies"
+    }
+  ], 
+  "title": "Recipe Puppy"
+}

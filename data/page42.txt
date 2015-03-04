@@ -1,0 +1,67 @@
+{
+  "href": "http://www.recipepuppy.com/", 
+  "version": 0.1, 
+  "results": [
+    {
+      "thumbnail": "http://img.recipepuppy.com/514.jpg", 
+      "href": "http://allrecipes.com/Recipe/Chicken-Vesuvio/Detail.aspx", 
+      "ingredients": "olives, garlic, green onion, lemon juice, mushroom, potato, olive oil, rosemary, salt", 
+      "title": "Chicken Vesuvio"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Savory-Diet-Chicken/Detail.aspx", 
+      "ingredients": "carrot, chicken, green pepper, onions, paprika, potato, worcestershire sauce", 
+      "title": "Savory Diet Chicken"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/516.jpg", 
+      "href": "http://allrecipes.com/Recipe/BBQ-Chicken-and-Cheesy-Potato-Casserole/Detail.aspx", 
+      "ingredients": "barbecue sauce, cheddar cheese, chicken, salt, sour cream", 
+      "title": "BBQ Chicken and Cheesy Potato Casserole"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/517.jpg", 
+      "href": "http://allrecipes.com/Recipe/Broccoli-Chicken-Casserole-I/Detail.aspx", 
+      "ingredients": "broccoli, cheddar cheese, chicken, mayonnaise, stuffing", 
+      "title": "Broccoli Chicken Casserole I"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/518.jpg", 
+      "href": "http://allrecipes.com/Recipe/Broccoli-Chicken-Casserole-II/Detail.aspx", 
+      "ingredients": "broccoli, cheddar cheese, chicken, curry powder, lemon juice, mayonnaise", 
+      "title": "Broccoli Chicken Casserole II"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Chicken-Celery-Casserole/Detail.aspx", 
+      "ingredients": "carrot, celery, chicken, garlic, olive oil, onions, poultry seasoning, salt", 
+      "title": "Chicken Celery Casserole"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Potato-Gratin-With-Chicken-Broth-Garlic-and-Thyme/Detail.aspx", 
+      "ingredients": "chicken broth, thyme, olive oil, garlic, black pepper, potato", 
+      "title": "Potato Gratin With Chicken Broth, Garlic and Thyme"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/521.jpg", 
+      "href": "http://allrecipes.com/Recipe/Caesar-Chicken-Potato-Salad/Detail.aspx", 
+      "ingredients": "caesar salad dressing, chicken, croutons, parmesan cheese, red onions, red potatoes, vegetable oil", 
+      "title": "Caesar Chicken Potato Salad"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Hot-Chicken-Salad-II/Detail.aspx", 
+      "ingredients": "crackers, celery, chicken, mayonnaise", 
+      "title": "Hot Chicken Salad II"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/523.jpg", 
+      "href": "http://allrecipes.com/Recipe/Easy-Chicken-Salad/Detail.aspx", 
+      "ingredients": "chicken, green onion, mayonnaise, mustard, salt", 
+      "title": "Easy Chicken Salad"
+    }
+  ], 
+  "title": "Recipe Puppy"
+}

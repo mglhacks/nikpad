@@ -1,0 +1,67 @@
+{
+  "href": "http://www.recipepuppy.com/", 
+  "version": 0.1, 
+  "results": [
+    {
+      "thumbnail": "http://img.recipepuppy.com/780.jpg", 
+      "href": "http://allrecipes.com/Recipe/Beef-and-Irish-Stout-Stew/Detail.aspx", 
+      "ingredients": "black pepper, carrot, cayenne, flour, garlic, beer, beef, onions, thyme, tomato paste, vegetable oil", 
+      "title": "Beef and Irish Stout Stew"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Simply-Potatoes-Irish-Beef-Stew/Detail.aspx", 
+      "ingredients": "beef broth, beef, black pepper, beer, thyme, flour, garlic, salt, carrot, tomato paste, vegetable oil", 
+      "title": "Simply Potatoes&#174; Irish Beef Stew"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Belgium-Beef-Stew/Detail.aspx", 
+      "ingredients": "bay leaves, beef, bread, brown sugar, butter, carrot, flour, mustard, onions, black pepper, thyme, water, white wine vinegar", 
+      "title": "Belgium Beef Stew"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/783.jpg", 
+      "href": "http://allrecipes.com/Recipe/Beef-Stew-III/Detail.aspx", 
+      "ingredients": "beef, carrot, cornstarch, flour, onions, potato, salt, vegetable oil, water", 
+      "title": "Beef Stew III"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/784.jpg", 
+      "href": "http://allrecipes.com/Recipe/Egg-Drop-Soup-Better-than-Restaurant-Quality/Detail.aspx", 
+      "ingredients": "chicken broth, cornstarch, food coloring, eggs, salt, vegetable oil, soy sauce, water, white pepper", 
+      "title": "Egg Drop Soup (Better than Restaurant Quality!)"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/785.jpg", 
+      "href": "http://allrecipes.com/Recipe/Chi-Tan-Tang-Egg-Drop-Soup/Detail.aspx", 
+      "ingredients": "cornstarch, chicken bouillon, white vinegar, eggs, green onion, soy sauce, water", 
+      "title": "Chi Tan T'ang (Egg Drop Soup)"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/786.jpg", 
+      "href": "http://allrecipes.com/Recipe/Egg-Drop-Soup-I/Detail.aspx", 
+      "ingredients": "cornstarch, chicken bouillon, parsley, eggs, water", 
+      "title": "Egg Drop Soup I"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/787.jpg", 
+      "href": "http://allrecipes.com/Recipe/Easy-Cheesy-Bacon-Potato-Soup/Detail.aspx", 
+      "ingredients": "cheese spread, chicken bouillon, onions, potato, water", 
+      "title": "Easy Cheesy Bacon Potato Soup"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/788.jpg", 
+      "href": "http://allrecipes.com/Recipe/Black-Eyed-Pea-and-Bacon-Soup/Detail.aspx", 
+      "ingredients": "bacon, peas, chicken bouillon, onions, black pepper, potato, salt, water", 
+      "title": "Black-Eyed Pea and Bacon Soup"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Irish-Heritage-Cabbage/Detail.aspx", 
+      "ingredients": "butter, cabbage, bacon, nutmeg, red wine vinegar, salt, water", 
+      "title": "Irish Heritage Cabbage"
+    }
+  ], 
+  "title": "Recipe Puppy"
+}

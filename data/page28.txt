@@ -1,0 +1,67 @@
+{
+  "href": "http://www.recipepuppy.com/", 
+  "version": 0.1, 
+  "results": [
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Strawberry-Gin-Cocktail/Detail.aspx", 
+      "ingredients": "basil, club soda, gin, ice, lemon juice, strawberries, sugar", 
+      "title": "Strawberry-Gin Cocktail"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Red-Death-Cocktail/Detail.aspx", 
+      "ingredients": "amaretto liqueur, galliano, grenadine, ice, lime, orange juice, gin, southern comfort, triple sec, vodka", 
+      "title": "Red Death Cocktail"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/347.jpg", 
+      "href": "http://allrecipes.com/Recipe/Christmas-Creamy-Egg-Nog/Detail.aspx", 
+      "ingredients": "egg whites, egg yolks, milk, nutmeg, rum, vanilla extract, sugar", 
+      "title": "Christmas Creamy Egg Nog"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/348.jpg", 
+      "href": "http://allrecipes.com/Recipe/Easiest-Egg-Nog/Detail.aspx", 
+      "ingredients": "eggs, milk, nutmeg, sugar, vanilla extract", 
+      "title": "Easiest Egg Nog"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Goldenrod-Egg/Detail.aspx", 
+      "ingredients": "butter, eggs, flour, milk, paprika, salt, bread", 
+      "title": "Goldenrod Egg"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Egg-Cream/Detail.aspx", 
+      "ingredients": "chocolate syrup, milk, seltzer water", 
+      "title": "Egg Cream"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/352.jpg", 
+      "href": "http://allrecipes.com/Recipe/BLT-Chicken-Salad/Detail.aspx", 
+      "ingredients": "bacon, barbecue sauce, eggs, lemon juice, mayonnaise, onions, black pepper, chicken, salad greens, tomato", 
+      "title": "BLT Chicken Salad"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/353.jpg", 
+      "href": "http://allrecipes.com/Recipe/Best-Chicken-Pasta-Salad/Detail.aspx", 
+      "ingredients": "avocado, chicken, chicken bouillon, tomato, ranch dressing, steak sauce, vidalia onions", 
+      "title": "Best Chicken Pasta Salad"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/354.jpg", 
+      "href": "http://allrecipes.com/Recipe/Chicken-Berry-Salad/Detail.aspx", 
+      "ingredients": "blueberries, chicken, cider vinegar, orange juice, raspberries, salad greens, sugar snap pea, pecan, vegetable oil", 
+      "title": "Chicken Berry Salad"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/356.jpg", 
+      "href": "http://allrecipes.com/Recipe/Warm-Chicken-and-Mango-Salad/Detail.aspx", 
+      "ingredients": "chicken, coriander, cumin, garlic, ginger, green onion, honey, lime juice, mango chutney, olive oil, paprika, red pepper, romaine lettuce, rice vinegar, mango, yogurt", 
+      "title": "Warm Chicken and Mango Salad"
+    }
+  ], 
+  "title": "Recipe Puppy"
+}

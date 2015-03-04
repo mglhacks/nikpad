@@ -1,0 +1,67 @@
+{
+  "href": "http://www.recipepuppy.com/", 
+  "version": 0.1, 
+  "results": [
+    {
+      "thumbnail": "http://img.recipepuppy.com/902.jpg", 
+      "href": "http://allrecipes.com/Recipe/Fresh-Cranberry-Punch/Detail.aspx", 
+      "ingredients": "cranberries, cloves, lemon juice, orange juice, sugar, water", 
+      "title": "Fresh Cranberry Punch"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/903.jpg", 
+      "href": "http://allrecipes.com/Recipe/Hot-Cranberry-Citrus-Drink/Detail.aspx", 
+      "ingredients": "lemon juice, orange juice, pineapple juice, sugar, water", 
+      "title": "Hot Cranberry Citrus Drink"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/904.jpg", 
+      "href": "http://allrecipes.com/Recipe/Harvest-Apple-Cider/Detail.aspx", 
+      "ingredients": "apple cider, cloves, pineapple juice, tea bag, water", 
+      "title": "Harvest Apple Cider"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Dannys-Warm-and-Fuzzy-Apple-Cider/Detail.aspx", 
+      "ingredients": "allspice, apple cider, brown sugar, butterscotch schnapps, cinnamon, cloves, rum, lemon zest", 
+      "title": "Danny's Warm and Fuzzy Apple Cider"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/907.jpg", 
+      "href": "http://allrecipes.com/Recipe/Amazingly-Good-Eggnog/Detail.aspx", 
+      "ingredients": "cinnamon, cloves, egg yolks, cream, rum, milk, nutmeg, sugar, vanilla extract, vanilla extract", 
+      "title": "Amazingly Good Eggnog"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Eggnog-Extreme/Detail.aspx", 
+      "ingredients": "egg whites, egg yolks, half and half, heavy cream, nutmeg, sugar, sugar", 
+      "title": "Eggnog Extreme"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/909.jpg", 
+      "href": "http://allrecipes.com/Recipe/Calypso-Coffee/Detail.aspx", 
+      "ingredients": "coffee, creme de cacao, rum", 
+      "title": "Calypso Coffee"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Sweet-Ponche-de-Creme/Detail.aspx", 
+      "ingredients": "bitters, eggs, lime, nutmeg", 
+      "title": "Sweet Ponche de Creme"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/911.jpg", 
+      "href": "http://allrecipes.com/Recipe/Lime-Daiquiri/Detail.aspx", 
+      "ingredients": "carbonated water, ice, rum", 
+      "title": "Lime Daiquiri"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/912.jpg", 
+      "href": "http://allrecipes.com/Recipe/Hot-Buttered-Rum-Mix/Detail.aspx", 
+      "ingredients": "brown sugar, butter, vanilla ice cream", 
+      "title": "Hot Buttered Rum Mix"
+    }
+  ], 
+  "title": "Recipe Puppy"
+}

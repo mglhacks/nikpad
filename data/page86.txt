@@ -1,0 +1,67 @@
+{
+  "href": "http://www.recipepuppy.com/", 
+  "version": 0.1, 
+  "results": [
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Chicken-Pasta-Salad-I/Detail.aspx", 
+      "ingredients": "chicken, feta cheese, garlic powder, salad dressing, lemon pepper, plum tomato, pasta", 
+      "title": "Chicken Pasta Salad I"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Marinated-Chicken-and-Pasta-Salad/Detail.aspx", 
+      "ingredients": "avocado, cashew, chicken, mustard, elbow macaroni, honey, honey, mayonnaise, olive oil, plum sauce, sesame seed, cheddar cheese, sour cream, soy sauce, tomato sauce, tomato sauce, worcestershire sauce, worcestershire sauce", 
+      "title": "Marinated Chicken and Pasta Salad"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Dill-Lemon-Chicken-Pasta-Salad/Detail.aspx", 
+      "ingredients": "buttermilk, celery, chicken, dill weed, lemon juice, penne, mayonnaise", 
+      "title": "Dill Lemon Chicken Pasta Salad"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Chicken-and-Vegetable-Pasta-Salad/Detail.aspx", 
+      "ingredients": "olives, chicken, cucumber, green onion, salad dressing, red pepper, seashell pasta, sunflower seed", 
+      "title": "Chicken and Vegetable Pasta Salad"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Tandoori-Chicken-Salad/Detail.aspx", 
+      "ingredients": "almonds, cumin, curry powder, pineapple, garam masala, honey mustard, lemon juice, mint, raisins, red onions, salad greens, lime", 
+      "title": "Tandoori Chicken Salad"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Marinated-Chicken-Salad/Detail.aspx", 
+      "ingredients": "balsamic vinegar, olives, chicken, bacon, eggs, green olive, olive oil, radish, salad greens, water, sugar", 
+      "title": "Marinated Chicken Salad"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/971.jpg", 
+      "href": "http://allrecipes.com/Recipe/Grilled-Chicken-Salad-with-Seasonal-Fruit/Detail.aspx", 
+      "ingredients": "lettuce, chicken, mustard powder, onions, pecan, red wine vinegar, salt, vegetable oil, white pepper, sugar", 
+      "title": "Grilled Chicken Salad with Seasonal Fruit"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/972.jpg", 
+      "href": "http://allrecipes.com/Recipe/Warm-and-Limey-Chicken-Salad/Detail.aspx", 
+      "ingredients": "black pepper, chicken, dijon mustard, raisins, lime juice, lime zest, limeade concentrate, lettuce, rice vinegar, vegetable oil, walnut, sugar", 
+      "title": "Warm and Limey Chicken Salad"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/973.jpg", 
+      "href": "http://allrecipes.com/Recipe/Easy-and-Fast-Cajun-Chicken-Caesar-Salad/Detail.aspx", 
+      "ingredients": "bacon, caesar salad dressing, cajun seasoning, chicken, olive oil, parmesan cheese, romaine lettuce", 
+      "title": "Easy and Fast Cajun Chicken Caesar Salad"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/974.jpg", 
+      "href": "http://allrecipes.com/Recipe/Chinese-Chicken-Salad/Detail.aspx", 
+      "ingredients": "celery, chicken, noodles, green onion, lettuce, vegetable oil, salt, rice vinegar, sesame seed, walnut, sugar", 
+      "title": "Chinese Chicken Salad"
+    }
+  ], 
+  "title": "Recipe Puppy"
+}

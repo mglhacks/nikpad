@@ -1,0 +1,67 @@
+{
+  "href": "http://www.recipepuppy.com/", 
+  "version": 0.1, 
+  "results": [
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Turkey-Frame-Vegetable-Soup/Detail.aspx", 
+      "ingredients": "bay leaves, black pepper, carrot, carrot, celery, chicken bouillon granule, thyme, garlic, green beans, peas, onions, parsley, parsnip, turkey, turnip, water, water", 
+      "title": "Turkey Frame Vegetable Soup"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/276.jpg", 
+      "href": "http://allrecipes.com/Recipe/Spanish-Garlic-and-Vegetable-Soup/Detail.aspx", 
+      "ingredients": "butter, carrot, cauliflower, garlic, cabbage, leek, cream, olive oil, salt, tomato paste, water", 
+      "title": "Spanish Garlic and Vegetable Soup"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Macadamia-Raspberry-White-Chocolate-Cookies/Detail.aspx", 
+      "ingredients": "baking soda, brown sugar, butter, eggs, flour, macadamia nuts, raspberry jam, vanilla extract, white chocolate, sugar", 
+      "title": "Macadamia Raspberry White Chocolate Cookies"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/279.jpg", 
+      "href": "http://allrecipes.com/Recipe/Raspberry-Chocolate-Supremes/Detail.aspx", 
+      "ingredients": "butter, powdered sugar, cream cheese, flour, milk, raspberry jam, shortening, white chocolate chips", 
+      "title": "Raspberry Chocolate Supremes"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/280.jpg", 
+      "href": "http://allrecipes.com/Recipe/White-Chocolate-and-Cranberry-Cookies/Detail.aspx", 
+      "ingredients": "baking soda, brandy, brown sugar, butter, cranberries, eggs, flour, white chocolate chips, sugar", 
+      "title": "White Chocolate and Cranberry Cookies"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/281.jpg", 
+      "href": "http://allrecipes.com/Recipe/Oatmeal-Cranberry-White-Chocolate-Chunk-Cookies/Detail.aspx", 
+      "ingredients": "baking soda, brown sugar, butter, cranberries, eggs, flour, rolled oat, salt, white chocolate", 
+      "title": "Oatmeal Cranberry White Chocolate Chunk Cookies"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/283.jpg", 
+      "href": "http://allrecipes.com/Recipe/Easy-Oatmeal-Cookies/Detail.aspx", 
+      "ingredients": "baking soda, brown sugar, cinnamon, eggs, flour, nutmeg, oats, raisins, salt, vanilla extract, vegetable oil, walnut, water", 
+      "title": "Easy Oatmeal Cookies"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/284.jpg", 
+      "href": "http://allrecipes.com/Recipe/Grandmothers-Oatmeal-Cookies/Detail.aspx", 
+      "ingredients": "baking soda, brown sugar, shortening, cinnamon, eggs, flour, oats, raisins, salt, vanilla extract, walnut, sugar", 
+      "title": "Grandmother's Oatmeal Cookies"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/285.jpg", 
+      "href": "http://allrecipes.com/Recipe/Oatmeal-Craisin-Cookies/Detail.aspx", 
+      "ingredients": "baking powder, baking soda, brown sugar, butter, cranberries, eggs, flour, oats, raisins, salt, vanilla extract, sugar", 
+      "title": "Oatmeal Craisin Cookies"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Oatmeal-Shortbread/Detail.aspx", 
+      "ingredients": "almond extract, baking soda, brown sugar, eggs, flour, rolled oat, salt, butter, vanilla extract, walnut, sugar", 
+      "title": "Oatmeal Shortbread"
+    }
+  ], 
+  "title": "Recipe Puppy"
+}

@@ -1,0 +1,67 @@
+{
+  "href": "http://www.recipepuppy.com/", 
+  "version": 0.1, 
+  "results": [
+    {
+      "thumbnail": "http://img.recipepuppy.com/400.jpg", 
+      "href": "http://allrecipes.com/Recipe/Best-Ever-Crab-Cakes/Detail.aspx", 
+      "ingredients": "butter, crackers, crabmeat, tarragon, eggs, green onion, lemon juice, mayonnaise, red pepper flakes", 
+      "title": "Best Ever Crab Cakes"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/401.jpg", 
+      "href": "http://allrecipes.com/Recipe/Perfect-Crab-Cakes-With-Green-Onions/Detail.aspx", 
+      "ingredients": "seasoning, eggs, green onion, lemon, crabmeat, mayonnaise, milk, olive oil, red pepper sauce, saltine crackers", 
+      "title": "Perfect Crab Cakes With Green Onions"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/402.jpg", 
+      "href": "http://allrecipes.com/Recipe/New-England-Bean-Dip/Detail.aspx", 
+      "ingredients": "black pepper, kidney bean, garlic powder, mayonnaise, mustard powder, onions, salt, sweet pickle relish, horseradish, worcestershire sauce", 
+      "title": "New England Bean Dip"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Easy-Coconut-Rice-and-Black-Eyed-Peas/Detail.aspx", 
+      "ingredients": "rice, coconut milk, water", 
+      "title": "Easy Coconut Rice and Black-Eyed Peas"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Authentic-Bahamian-Peas-and-Rice/Detail.aspx", 
+      "ingredients": "bacon, rice, browning sauce, ham, corned beef, green pepper, onions, salt, thyme, tomato, tomato paste, vegetable oil, water", 
+      "title": "Authentic Bahamian Peas and Rice"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/406.jpg", 
+      "href": "http://allrecipes.com/Recipe/Matar-Pulao-Rice-with-Peas/Detail.aspx", 
+      "ingredients": "rice, cardamom, black pepper, cloves, garlic powder, peas, salt, vegetable oil, water, water", 
+      "title": "Matar Pulao (Rice with Peas)"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/407.jpg", 
+      "href": "http://allrecipes.com/Recipe/Bahamian-Style-Peas-and-Rice/Detail.aspx", 
+      "ingredients": "bacon, butter, celery, ketchup, rice, onions, salt, thyme, tomato, water", 
+      "title": "Bahamian Style Peas and Rice"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/408.jpg", 
+      "href": "http://allrecipes.com/Recipe/Creole-Rice/Detail.aspx", 
+      "ingredients": "butter, cajun seasoning, rice, black pepper", 
+      "title": "Creole Rice"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/410.jpg", 
+      "href": "http://allrecipes.com/Recipe/Sweet-Potato-and-Carrot-Soup-with-Cardamom/Detail.aspx", 
+      "ingredients": "butter, cardamom, carrot, cayenne, cinnamon, ginger, onions, red pepper flakes, salt, sweet potato, turmeric, water", 
+      "title": "Sweet Potato and Carrot Soup with Cardamom"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/411.jpg", 
+      "href": "http://allrecipes.com/Recipe/Chicken-Soup-with-Adzuki-Beans-Escarole-and-Sweet-Potato/Detail.aspx", 
+      "ingredients": "adzuki beans, garlic, chicken broth, chicken, rosemary, sage, thyme, escarole, onions, sweet potato, rice, yellow squash, zucchini", 
+      "title": "Chicken Soup with Adzuki Beans, Escarole, and Sweet Potato"
+    }
+  ], 
+  "title": "Recipe Puppy"
+}

@@ -1,0 +1,67 @@
+{
+  "href": "http://www.recipepuppy.com/", 
+  "version": 0.1, 
+  "results": [
+    {
+      "thumbnail": "http://img.recipepuppy.com/557.jpg", 
+      "href": "http://allrecipes.com/Recipe/Cheddar-Cabbage-Casserole/Detail.aspx", 
+      "ingredients": "butter, cabbage, cheddar cheese, cornflakes, mayonnaise, milk, onions, black pepper, salt", 
+      "title": "Cheddar Cabbage Casserole"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Spinach-Crumb-Casserole/Detail.aspx", 
+      "ingredients": "butter, eggs, milk, onions, cheddar cheese, salt, bread crumbs", 
+      "title": "Spinach Crumb Casserole"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/559.jpg", 
+      "href": "http://allrecipes.com/Recipe/Belle-and-Chrons-Spinach-and-Mushroom-Quiche/Detail.aspx", 
+      "ingredients": "bacon, cheddar cheese, eggs, cream, nutmeg, onions, black pepper, salt, swiss cheese", 
+      "title": "Belle and Chron's Spinach and Mushroom Quiche"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/560.jpg", 
+      "href": "http://allrecipes.com/Recipe/Spinach-Frittata-2/Detail.aspx", 
+      "ingredients": "chicken, eggs, milk, mozzarella cheese, olive oil, onions, parmesan cheese, black pepper, salt, red pepper flakes", 
+      "title": "Spinach Frittata"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/561.jpg", 
+      "href": "http://allrecipes.com/Recipe/Spinach-Spirals-with-Mushroom-Sauce/Detail.aspx", 
+      "ingredients": "bread crumbs, butter, butter, chicken broth, dijon mustard, eggs, flour, half and half, lemon juice, mushroom, nutmeg, parmesan cheese, black pepper, salt, chicken broth, spinach", 
+      "title": "Spinach Spirals with Mushroom Sauce"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/562.jpg", 
+      "href": "http://allrecipes.com/Recipe/Mushroom-Spinach-Omelet/Detail.aspx", 
+      "ingredients": "cheddar cheese, eggs, egg whites, garlic powder, green pepper, olive oil, onions, parmesan cheese, black pepper, red pepper flakes, salt, spinach", 
+      "title": "Mushroom Spinach Omelet"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/563.jpg", 
+      "href": "http://allrecipes.com/Recipe/Spinach-Mushroom-and-Ricotta-Fettuccine/Detail.aspx", 
+      "ingredients": "butter, lemon, mushroom", 
+      "title": "Spinach Mushroom and Ricotta Fettuccine"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Honey-Oatmeal-Bread-I/Detail.aspx", 
+      "ingredients": "bread flour, butter, honey, milk, rolled oat, salt, water, flour, wheat germ", 
+      "title": "Honey Oatmeal Bread I"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/565.jpg", 
+      "href": "http://allrecipes.com/Recipe/Honey-Multigrain-Bread/Detail.aspx", 
+      "ingredients": "cornmeal, honey, olive oil, bread flour, salt, flour, water, flour", 
+      "title": "Honey Multigrain Bread"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Torrejon-Oatmeal-Bread/Detail.aspx", 
+      "ingredients": "bread flour, brown sugar, rolled oat, salt, shortening, water, water, sugar", 
+      "title": "Torrejon Oatmeal Bread"
+    }
+  ], 
+  "title": "Recipe Puppy"
+}

@@ -1,0 +1,67 @@
+{
+  "href": "http://www.recipepuppy.com/", 
+  "version": 0.1, 
+  "results": [
+    {
+      "thumbnail": "http://img.recipepuppy.com/640.jpg", 
+      "href": "http://allrecipes.com/Recipe/Potato-Ham-Skillet/Detail.aspx", 
+      "ingredients": "ham, butter, cheddar cheese, eggs, green onion, green pepper, black pepper, potato, salt", 
+      "title": "Potato Ham Skillet"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/641.jpg", 
+      "href": "http://allrecipes.com/Recipe/Bratwurst-Potato-Skillet/Detail.aspx", 
+      "ingredients": "bratwurst, basil, green pepper, onions, orange juice, black pepper, red potatoes, salt, soy sauce, vegetable oil", 
+      "title": "Bratwurst Potato Skillet"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/642.jpg", 
+      "href": "http://allrecipes.com/Recipe/Potato-Pork-Skillet/Detail.aspx", 
+      "ingredients": "butter, dijon mustard, flour, green onion, black pepper, pork chops, red potatoes, salt, worcestershire sauce", 
+      "title": "Potato Pork Skillet"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/643.jpg", 
+      "href": "http://allrecipes.com/Recipe/Sausage-and-Potato-Breakfast-Skillet/Detail.aspx", 
+      "ingredients": "cheddar cheese, green pepper, margarine, onions", 
+      "title": "Sausage and Potato Breakfast Skillet"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Tex-Mex-Potato-and-Egg-Skillet/Detail.aspx", 
+      "ingredients": "butter, monterey jack cheese, red pepper, salsa, sour cream, vegetable oil", 
+      "title": "Tex Mex Potato and Egg Skillet"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Chicken-Frittata/Detail.aspx", 
+      "ingredients": "butter, chicken, eggs, garlic, milk, onions, potato, flour, cheddar cheese", 
+      "title": "Chicken Frittata"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/646.jpg", 
+      "href": "http://allrecipes.com/Recipe/Central-American-Tacos/Detail.aspx", 
+      "ingredients": "avocado, garlic, jalapeno, ground beef, onions, potato, salt, tomatillo", 
+      "title": "Central American Tacos"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/647.jpg", 
+      "href": "http://allrecipes.com/Recipe/Easy-American-Potato-and-Tuna-Casserole/Detail.aspx", 
+      "ingredients": "eggs, green onion, mozzarella cheese, parmesan cheese, potato", 
+      "title": "Easy American Potato and Tuna Casserole"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/648.jpg", 
+      "href": "http://allrecipes.com/Recipe/Sausage-Potato-Bake/Detail.aspx", 
+      "ingredients": "potato, smoked sausage", 
+      "title": "Sausage Potato Bake"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/649.jpg", 
+      "href": "http://allrecipes.com/Recipe/Three-Cheese-Potato-Bake/Detail.aspx", 
+      "ingredients": "butter, cheddar cheese, chicken broth, potato flakes, milk, monterey jack cheese, black pepper, american cheese, chives, sour cream", 
+      "title": "Three-Cheese Potato Bake"
+    }
+  ], 
+  "title": "Recipe Puppy"
+}

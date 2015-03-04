@@ -1,0 +1,67 @@
+{
+  "href": "http://www.recipepuppy.com/", 
+  "version": 0.1, 
+  "results": [
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Hurricane-II/Detail.aspx", 
+      "ingredients": "rum, grenadine, ice, lime, maraschino cherries, orange, passion fruit, sugar", 
+      "title": "Hurricane II"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/934.jpg", 
+      "href": "http://allrecipes.com/Recipe/Baileys-Sundae-Coffee-Drink/Detail.aspx", 
+      "ingredients": "coffee, baileys, vanilla ice cream", 
+      "title": "Bailey's Sundae Coffee Drink"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Leprechauns-Delight/Detail.aspx", 
+      "ingredients": "brandy, coffee, whipped cream, baileys, orange zest", 
+      "title": "Leprechaun's Delight"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/936.jpg", 
+      "href": "http://allrecipes.com/Recipe/Irish-Coffee/Detail.aspx", 
+      "ingredients": "coffee, whipped cream, nutmeg", 
+      "title": "Irish Coffee"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Chocolate-Mint-Shot/Detail.aspx", 
+      "ingredients": "peppermint schnapps, baileys, chocolate liqueur", 
+      "title": "Chocolate Mint Shot"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Newfoundland-Coffee/Detail.aspx", 
+      "ingredients": "coffee, coffee flavored liqueur, rum, baileys, maraschino cherries", 
+      "title": "Newfoundland Coffee"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/939.jpg", 
+      "href": "http://allrecipes.com/Recipe/Coffee-Nudge/Detail.aspx", 
+      "ingredients": "brandy, coffee, chocolate sprinkles, coffee flavored liqueur, whipped cream, creme de cacao", 
+      "title": "Coffee Nudge"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/942.jpg", 
+      "href": "http://allrecipes.com/Recipe/Irish-Cream-Liqueur-I/Detail.aspx", 
+      "ingredients": "chocolate syrup, vanilla extract, eggs, whiskey", 
+      "title": "Irish Cream Liqueur I"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Japanese-Soho-Cocktail/Detail.aspx", 
+      "ingredients": "blue curacao, lemon, lemonade, liqueur, vodka", 
+      "title": "Japanese Soho Cocktail"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Bonds-Vesper/Detail.aspx", 
+      "ingredients": "gin, ice, lemon, vodka", 
+      "title": "Bond's Vesper"
+    }
+  ], 
+  "title": "Recipe Puppy"
+}

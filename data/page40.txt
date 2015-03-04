@@ -1,0 +1,67 @@
+{
+  "href": "http://www.recipepuppy.com/", 
+  "version": 0.1, 
+  "results": [
+    {
+      "thumbnail": "http://img.recipepuppy.com/494.jpg", 
+      "href": "http://allrecipes.com/Recipe/Chicken-with-Mustard-Sauce/Detail.aspx", 
+      "ingredients": "black pepper, butter, chicken, chicken broth, dijon mustard, flour, heavy cream, lemon juice, salt, shallot, mustard powder, vermouth", 
+      "title": "Chicken with Mustard Sauce"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/495.jpg", 
+      "href": "http://allrecipes.com/Recipe/Cheesy-Rosemary-Potatoes/Detail.aspx", 
+      "ingredients": "bread crumbs, butter, cheddar cheese, rosemary, garlic, lemon zest, olive oil, onions, black pepper, potato, salt", 
+      "title": "Cheesy Rosemary Potatoes"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/496.jpg", 
+      "href": "http://allrecipes.com/Recipe/Golden-Au-Gratin-Potatoes/Detail.aspx", 
+      "ingredients": "butter, cheddar cheese, cornflakes, salt, sour cream", 
+      "title": "Golden Au Gratin Potatoes"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/497.jpg", 
+      "href": "http://allrecipes.com/Recipe/Home-Style-Potatoes/Detail.aspx", 
+      "ingredients": "butter, rosemary, onion soup mix, potato, water", 
+      "title": "Home-Style Potatoes"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/498.jpg", 
+      "href": "http://allrecipes.com/Recipe/Rosemary-Red-Potatoes/Detail.aspx", 
+      "ingredients": "rosemary, garlic, garlic salt, olive oil, onions, red potatoes", 
+      "title": "Rosemary Red Potatoes"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/499.jpg", 
+      "href": "http://allrecipes.com/Recipe/Creamy-Au-Gratin-Potatoes/Detail.aspx", 
+      "ingredients": "butter, cheddar cheese, flour, milk, onions, potato, salt, salt", 
+      "title": "Creamy Au Gratin Potatoes"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Oven-Roasted-Greek-Potatoes/Detail.aspx", 
+      "ingredients": "basil, marjoram, rosemary, thyme, garlic, salad dressing, lemon, lemon pepper, lemon zest, olive oil, potato, water, white wine", 
+      "title": "Oven Roasted Greek Potatoes"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/501.jpg", 
+      "href": "http://allrecipes.com/Recipe/Really-Good-Scalloped-Potatoes/Detail.aspx", 
+      "ingredients": "potato, celery, cheddar cheese, chicken bouillon granule, onions, garlic, garlic powder, half and half, cheese spread, mustard powder, parmesan cheese, salt", 
+      "title": "Really Good Scalloped Potatoes"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/502.jpg", 
+      "href": "http://allrecipes.com/Recipe/Cheddar-Broccoli-Chicken-and-Mashed-Potatoes/Detail.aspx", 
+      "ingredients": "broccoli, chicken, milk, vegetable oil", 
+      "title": "Cheddar Broccoli Chicken and Mashed Potatoes"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/503.jpg", 
+      "href": "http://allrecipes.com/Recipe/Sunday-Dinner-Mashed-Potatoes/Detail.aspx", 
+      "ingredients": "butter, onion powder, black pepper, potato, salt, sour cream", 
+      "title": "Sunday Dinner Mashed Potatoes"
+    }
+  ], 
+  "title": "Recipe Puppy"
+}

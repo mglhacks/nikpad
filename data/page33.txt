@@ -1,0 +1,67 @@
+{
+  "href": "http://www.recipepuppy.com/", 
+  "version": 0.1, 
+  "results": [
+    {
+      "thumbnail": "http://img.recipepuppy.com/412.jpg", 
+      "href": "http://allrecipes.com/Recipe/Spicy-Sweet-Potato-Soup/Detail.aspx", 
+      "ingredients": "butter, chicken broth, cumin, garlic, ginger, lime, lime zest, onions, red pepper flakes, plum tomato, salt, peanut butter, sour cream, sweet potato", 
+      "title": "Spicy Sweet Potato Soup"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/413.jpg", 
+      "href": "http://allrecipes.com/Recipe/Fall-Vegetable-Soup-with-Black-Eyed-Peas-and-Grilled-Chicken/Detail.aspx", 
+      "ingredients": "fennel bulb, carrot, chicken, olive oil, onions, parsnip, chicken broth", 
+      "title": "Fall Vegetable Soup with Black-Eyed Peas and Grilled Chicken"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Creamy-Sweet-Potato-With-Ginger-Soup/Detail.aspx", 
+      "ingredients": "butter, cayenne, chicken broth, garlic, peanuts, ginger, half and half, nutmeg, olive oil, onions, sweet potato, black pepper, sugar", 
+      "title": "Creamy Sweet Potato With Ginger Soup"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Shrimp-and-Okra-Gumbo/Detail.aspx", 
+      "ingredients": "cayenne, celery, garlic, green pepper, green onion, okra, olive oil, onions, salt, shrimp, tomato, tomato paste, water", 
+      "title": "Shrimp and Okra Gumbo"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Louisiana-Shrimp-and-Eggs-Gumbo/Detail.aspx", 
+      "ingredients": "bay leaf, black pepper, cayenne, celery, thyme, eggs, flour, garlic, green pepper, green onion, okra, onions, red pepper, salt, shrimp, tomato, vegetable oil, water, rice", 
+      "title": "Louisiana Shrimp and Eggs Gumbo"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/418.jpg", 
+      "href": "http://allrecipes.com/Recipe/Merwins-Shrimp-Gumbo/Detail.aspx", 
+      "ingredients": "bay leaves, black pepper, cayenne, thyme, file powder, flour, garlic, green pepper, green onion, onions, salt, shrimp, smoked sausage, vegetable oil, water", 
+      "title": "Merwin's Shrimp Gumbo"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/419.jpg", 
+      "href": "http://allrecipes.com/Recipe/Shrimp-and-Catfish-Gumbo/Detail.aspx", 
+      "ingredients": "bay leaves, green pepper, catfish fillets, cayenne, celery, vegetable oil, crab meat, beef bouillon granules, thyme, garlic, onions, salt, shrimp, water", 
+      "title": "Shrimp and Catfish Gumbo"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Seafood-Gumbo-Stock/Detail.aspx", 
+      "ingredients": "bay leaves, black pepper, carrot, celery, cloves, basil, thyme, garlic, onions, parsley, shrimp, water", 
+      "title": "Seafood Gumbo Stock"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Chicken-Gumbo-Soup/Detail.aspx", 
+      "ingredients": "black pepper, carrot, chicken, garlic powder, green onion, mushroom, hot sauce, pasta, salt, water, rice", 
+      "title": "Chicken Gumbo Soup"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Chicken-Stock-Gumbo/Detail.aspx", 
+      "ingredients": "bacon, bay leaves, brown sugar, cayenne, celery, chicken broth, flour, garlic, lemon juice, onions, hot sauce, red pepper, smoked sausage, vegetable oil, water, rice, worcestershire sauce", 
+      "title": "Chicken Stock Gumbo"
+    }
+  ], 
+  "title": "Recipe Puppy"
+}

@@ -1,0 +1,67 @@
+{
+  "href": "http://www.recipepuppy.com/", 
+  "version": 0.1, 
+  "results": [
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Restaurant-Style-Red-Beans-and-Rice/Detail.aspx", 
+      "ingredients": "black pepper, garlic salt, lard, rice, onion powder, red pepper flakes, salt, smoked ham, water", 
+      "title": "Restaurant Style Red Beans and Rice"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/1046.jpg", 
+      "href": "http://allrecipes.com/Recipe/Rice--Beans-Haitian-Style/Detail.aspx", 
+      "ingredients": "adobo seasoning, bay leaves, black pepper, shallot, cloves, garlic, kosher salt, rice, olive oil, parsley, black pepper, thyme", 
+      "title": "Rice & Beans (Haitian Style)"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/1047.jpg", 
+      "href": "http://allrecipes.com/Recipe/Holiday-Peas-and-Rice/Detail.aspx", 
+      "ingredients": "peas, butter, rice, chili pepper, sage", 
+      "title": "Holiday Peas and Rice"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/1048.jpg", 
+      "href": "http://allrecipes.com/Recipe/Cajun-Fried-Rice/Detail.aspx", 
+      "ingredients": "vegetable oil, celery, pork, cumin, green pepper, rice, onions, black pepper, salt, tomato, water", 
+      "title": "Cajun Fried Rice"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/1049.jpg", 
+      "href": "http://allrecipes.com/Recipe/Red-Beans-and-Rice-Mix/Detail.aspx", 
+      "ingredients": "bay leaf, cayenne, celery seed, cumin, red pepper flakes, kidney bean, rice, red pepper flakes, salt, salt, smoked ham, smoked sausage, sugar, water", 
+      "title": "Red Beans and Rice Mix"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/1050.jpg", 
+      "href": "http://allrecipes.com/Recipe/Fried-Rice/Detail.aspx", 
+      "ingredients": "butter, eggs, garlic powder, onions, black pepper, rice, teriyaki sauce", 
+      "title": "Fried Rice"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/1051.jpg", 
+      "href": "http://allrecipes.com/Recipe/Italian-Rice/Detail.aspx", 
+      "ingredients": "balsamic vinegar, rice, garlic, olive oil, black pepper, red pepper, salt, spinach", 
+      "title": "Italian Rice"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/1052.jpg", 
+      "href": "http://allrecipes.com/Recipe/Cream-of-Sweet-Potato-Soup/Detail.aspx", 
+      "ingredients": "black pepper, brown sugar, cayenne, heavy cream, nutmeg, salt, sweet potato", 
+      "title": "Cream of Sweet Potato Soup"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Sweet-Potato-and-Brandy-Soup/Detail.aspx", 
+      "ingredients": "allspice, brandy, chicken bouillon, olive oil, red wine, salt, sweet potato, vidalia onions, water, white wine", 
+      "title": "Sweet Potato and Brandy Soup"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/1054.jpg", 
+      "href": "http://allrecipes.com/Recipe/Spicy-Sweet-Potato-and-Coconut-Soup/Detail.aspx", 
+      "ingredients": "lemon juice, onions, sweet potato, curry paste, sea salt, dark sesame oil, vegetable broth, vegetable oil", 
+      "title": "Spicy Sweet Potato and Coconut Soup"
+    }
+  ], 
+  "title": "Recipe Puppy"
+}

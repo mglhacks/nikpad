@@ -1,0 +1,67 @@
+{
+  "href": "http://www.recipepuppy.com/", 
+  "version": 0.1, 
+  "results": [
+    {
+      "thumbnail": "http://img.recipepuppy.com/1066.jpg", 
+      "href": "http://allrecipes.com/Recipe/Creamy-Carrot-With-Curry-Soup/Detail.aspx", 
+      "ingredients": "butter, carrot, chicken broth, curry powder, garlic, pistachios, half and half, olive oil, onions, black pepper, sugar", 
+      "title": "Creamy Carrot With Curry Soup"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/1067.jpg", 
+      "href": "http://allrecipes.com/Recipe/Creamy-Turnip-With-Paprika-Soup/Detail.aspx", 
+      "ingredients": "butter, cayenne, chicken broth, thyme, garlic, shallot, half and half, olive oil, onions, paprika, black pepper, sugar, turnip", 
+      "title": "Creamy Turnip With Paprika Soup"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Okra-Stew-with-Shrimp/Detail.aspx", 
+      "ingredients": "bay leaf, corn, thyme, green pepper, green chilies, lime, margarine, okra, salt, shallot, shrimp, tomato paste, tomato", 
+      "title": "Okra Stew with Shrimp"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/1069.jpg", 
+      "href": "http://allrecipes.com/Recipe/Okra-Gumbo/Detail.aspx", 
+      "ingredients": "bay leaves, black pepper, file powder, flour, garlic, green pepper, mushroom, onions, salt, vegetable oil, vegetable oil", 
+      "title": "Okra Gumbo"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Ultimate-Gulf-Coast-Gumbo/Detail.aspx", 
+      "ingredients": "sausage, bay leaves, red pepper, celery, chicken broth, vegetable oil, file powder, flour, garlic, green pepper, old bay seasoning, onions, salt, shrimp, tomato", 
+      "title": "Ultimate Gulf Coast Gumbo"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/1071.jpg", 
+      "href": "http://allrecipes.com/Recipe/Catfish-Gumbo/Detail.aspx", 
+      "ingredients": "bay leaf, catfish fillets, celery, beef bouillon granules, thyme, garlic, green pepper, onions, hot sauce, red pepper flakes, salt, vegetable oil, water", 
+      "title": "Catfish Gumbo"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Seafood-File-Gumbo/Detail.aspx", 
+      "ingredients": "bay leaf, bay leaves, black pepper, black pepper, carrot, red pepper, celery, celery, cloves, vegetable oil, crabmeat, basil, oregano, thyme, thyme, garlic, garlic, green pepper, onions, onions, paprika, parsley, hot sauce, oysters, salt, shrimp, tomato sauce, water, white pepper", 
+      "title": "Seafood File Gumbo"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/1073.jpg", 
+      "href": "http://allrecipes.com/Recipe/Seafood-Gumbo/Detail.aspx", 
+      "ingredients": "bay leaf, black pepper, red pepper, celery, crabmeat, oregano, thyme, file powder, fish stock, garlic, green pepper, onions, paprika, hot sauce, salt, shrimp, oysters, tomato sauce, vegetable oil, white pepper", 
+      "title": "Seafood Gumbo"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/1074.jpg", 
+      "href": "http://allrecipes.com/Recipe/Chicken-Noodle-Soup-I/Detail.aspx", 
+      "ingredients": "chicken, garlic, olive oil, onions, salt, pasta, water", 
+      "title": "Chicken Noodle Soup I"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/A-1-Chicken-Soup/Detail.aspx", 
+      "ingredients": "carrot, celery, chicken, chicken bouillon, onions, garlic, salt, vegetable oil, water", 
+      "title": "A-1 Chicken Soup"
+    }
+  ], 
+  "title": "Recipe Puppy"
+}

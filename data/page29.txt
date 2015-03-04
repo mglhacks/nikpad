@@ -1,0 +1,67 @@
+{
+  "href": "http://www.recipepuppy.com/", 
+  "version": 0.1, 
+  "results": [
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Cuban-Grilled-Chicken-Salad/Detail.aspx", 
+      "ingredients": "black beans, chicken, garlic, lime juice, olive oil, red onions, yellow bell pepper, romaine lettuce, salt", 
+      "title": "Cuban Grilled Chicken Salad"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Chinese-Chicken-Salad-I/Detail.aspx", 
+      "ingredients": "bean sprouts, black pepper, chicken, cornflakes, ginger, romaine lettuce, sesame seed, sweet and sour mix, almonds", 
+      "title": "Chinese Chicken Salad I"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Teriyaki-Chicken-Salad/Detail.aspx", 
+      "ingredients": "black pepper, chicken, garlic, lemon, mozzarella cheese, orange juice, parmesan cheese, romaine lettuce, salt, soy sauce, tomato, vegetable oil", 
+      "title": "Teriyaki Chicken Salad"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/361.jpg", 
+      "href": "http://allrecipes.com/Recipe/Chicken-Salad-with-Bacon-Lettuce-and-Tomato/Detail.aspx", 
+      "ingredients": "avocado, bacon, celery, chicken, green onion, romaine lettuce, lemon juice, mayonnaise, salt, worcestershire sauce", 
+      "title": "Chicken Salad with Bacon, Lettuce and Tomato"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Accidental-Grilled-Chicken-Salad/Detail.aspx", 
+      "ingredients": "chicken, lemon juice, lemon pepper, mayonnaise, mushroom, olive oil, salt, hot sauce, vidalia onions", 
+      "title": "Accidental Grilled Chicken Salad"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/364.jpg", 
+      "href": "http://allrecipes.com/Recipe/Grilled-Orange-Vinaigrette-Chicken-Salad/Detail.aspx", 
+      "ingredients": "baby carrot, chicken, olive oil, orange juice, romaine lettuce, seasoning, sugar, white wine vinegar", 
+      "title": "Grilled Orange Vinaigrette Chicken Salad"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Indian-Style-Grilled-Chicken-Salad/Detail.aspx", 
+      "ingredients": "balsamic vinegar, balsamic vinegar, black pepper, carrot, chicken, chili powder, coriander, salad dressing, green pepper, lemon juice, lemon juice, lettuce, olive oil, onions, oregano, hot sauce, hot sauce, radish, salad greens, salt, tandoori paste, tomato", 
+      "title": "Indian-Style Grilled Chicken Salad"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/366.jpg", 
+      "href": "http://allrecipes.com/Recipe/Grilled-Chicken-and-Pasta-Salad/Detail.aspx", 
+      "ingredients": "cherry tomato, chicken, mozzarella cheese, red onions, romaine lettuce, pasta, steak sauce", 
+      "title": "Grilled Chicken and Pasta Salad"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/367.jpg", 
+      "href": "http://allrecipes.com/Recipe/Campbells-Grilled-Chicken-Caesar-Salad/Detail.aspx", 
+      "ingredients": "black pepper, chicken, cider vinegar, garlic, romaine lettuce, lemon juice, parmesan cheese, croutons, water, worcestershire sauce", 
+      "title": "Campbell's&#174; Grilled Chicken Caesar Salad"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Chicken-Pecan-Salad/Detail.aspx", 
+      "ingredients": "blueberries, brown sugar, cherry tomato, chicken, grapes, seasoning, salad dressing, lemon juice, margarine, olive oil, pecan, raspberries, red pepper sauce, romaine lettuce, salt, strawberries, worcestershire sauce", 
+      "title": "Chicken Pecan Salad"
+    }
+  ], 
+  "title": "Recipe Puppy"
+}

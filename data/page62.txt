@@ -1,0 +1,67 @@
+{
+  "href": "http://www.recipepuppy.com/", 
+  "version": 0.1, 
+  "results": [
+    {
+      "thumbnail": "http://img.recipepuppy.com/720.jpg", 
+      "href": "http://allrecipes.com/Recipe/Caramel-Chocolate-Cookies/Detail.aspx", 
+      "ingredients": "baking soda, brown sugar, chocolate, cocoa powder, eggs, flour, margarine, pecan, vanilla extract, vanilla extract, sugar, sugar", 
+      "title": "Caramel Chocolate Cookies"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/721.jpg", 
+      "href": "http://allrecipes.com/Recipe/Caramel-Pecan-Cookies/Detail.aspx", 
+      "ingredients": "baking soda, brown sugar, butter, cocoa powder, eggs, flour, pecan, chocolate, vanilla extract, sugar, sugar", 
+      "title": "Caramel Pecan Cookies"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/722.jpg", 
+      "href": "http://allrecipes.com/Recipe/Golden-Chocolate-Chip-Cookies/Detail.aspx", 
+      "ingredients": "baking soda, butter, eggs, flour, brown sugar, salt, semisweet chocolate chips, vanilla extract, walnut, sugar", 
+      "title": "Golden Chocolate Chip Cookies"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/723.jpg", 
+      "href": "http://allrecipes.com/Recipe/Chocolate-Mint-Cookies-I/Detail.aspx", 
+      "ingredients": "baking soda, brown sugar, butter, chocolate, eggs, flour, salt, semisweet chocolate chips, water", 
+      "title": "Chocolate Mint Cookies I"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/724.jpg", 
+      "href": "http://allrecipes.com/Recipe/Mediterranean-Crescent-Pinwheels/Detail.aspx", 
+      "ingredients": "feta cheese, olive oil, black pepper, ham", 
+      "title": "Mediterranean Crescent Pinwheels"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Blue-Cheese-with-Capers-and-Red-Onion/Detail.aspx", 
+      "ingredients": "black pepper, blue cheese, capers, garlic, lemon juice, mustard powder, olive oil, red onions, red wine vinegar", 
+      "title": "Blue Cheese with Capers and Red Onion"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/726.jpg", 
+      "href": "http://allrecipes.com/Recipe/Quick-Crescent-Pecan-Pie-Bars/Detail.aspx", 
+      "ingredients": "corn syrup, eggs, margarine, pecan, sugar, vanilla extract", 
+      "title": "Quick Crescent Pecan Pie Bars"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/727.jpg", 
+      "href": "http://allrecipes.com/Recipe/Easy-Crescent-Danish-Rolls/Detail.aspx", 
+      "ingredients": "glaze, lemon juice, milk, powdered sugar, preserves, sandwich rolls, sugar, vanilla extract", 
+      "title": "Easy Crescent Danish Rolls"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/728.jpg", 
+      "href": "http://allrecipes.com/Recipe/Onion-Cheese-Bread-2/Detail.aspx", 
+      "ingredients": "biscuit baking mix, butter, cheddar cheese, parsley, eggs, milk, onions, vegetable oil", 
+      "title": "Onion Cheese Bread"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/729.jpg", 
+      "href": "http://allrecipes.com/Recipe/Pork-Roast-with-Thyme/Detail.aspx", 
+      "ingredients": "bay leaves, black pepper, cider vinegar, thyme, garlic, pork chops, salt", 
+      "title": "Pork Roast with Thyme"
+    }
+  ], 
+  "title": "Recipe Puppy"
+}

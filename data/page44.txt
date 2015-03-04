@@ -1,0 +1,67 @@
+{
+  "href": "http://www.recipepuppy.com/", 
+  "version": 0.1, 
+  "results": [
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Sun-Brewed-Mint-Tea/Detail.aspx", 
+      "ingredients": "lemon, mint, water, honey", 
+      "title": "Sun-Brewed Mint Tea"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/538.jpg", 
+      "href": "http://allrecipes.com/Recipe/Lemonade-Mint-Iced-Tea/Detail.aspx", 
+      "ingredients": "iced tea, water, water, sugar", 
+      "title": "Lemonade-Mint Iced Tea"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Tea-Punch/Detail.aspx", 
+      "ingredients": "lemonade, orange juice, pineapple juice, tea, sugar", 
+      "title": "Tea Punch"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/540.jpg", 
+      "href": "http://allrecipes.com/Recipe/Honey-Lemon-Tea/Detail.aspx", 
+      "ingredients": "honey, lemon juice, water, sugar", 
+      "title": "Honey Lemon Tea"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Nonalco-Punch/Detail.aspx", 
+      "ingredients": "almond extract, cranberry juice, ginger ale, pineapple juice, sugar", 
+      "title": "Nonalco Punch"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/542.jpg", 
+      "href": "http://allrecipes.com/Recipe/Holiday-Punch-II/Detail.aspx", 
+      "ingredients": "almond extract, cranberry juice, pineapple juice, sugar", 
+      "title": "Holiday Punch II"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/543.jpg", 
+      "href": "http://allrecipes.com/Recipe/Sweet-Tart-Punch/Detail.aspx", 
+      "ingredients": "lime sorbet, ice", 
+      "title": "Sweet Tart Punch"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/544.jpg", 
+      "href": "http://allrecipes.com/Recipe/Asparagus-Hollandaise-Puff/Detail.aspx", 
+      "ingredients": "asparagus, butter, eggs, flour, ham, salt, swiss cheese, water, white pepper", 
+      "title": "Asparagus Hollandaise Puff"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/545.jpg", 
+      "href": "http://allrecipes.com/Recipe/Wild-Mushroom-Puff-Pastry/Detail.aspx", 
+      "ingredients": "wild mushroom, heavy cream, olive oil, parmesan cheese, garlic, salt, shallot, thyme", 
+      "title": "Wild Mushroom Puff Pastry"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/546.jpg", 
+      "href": "http://allrecipes.com/Recipe/Mushroom-Pie/Detail.aspx", 
+      "ingredients": "bacon, eggs, heavy cream, olive oil, onions, salt, swiss cheese", 
+      "title": "Mushroom Pie"
+    }
+  ], 
+  "title": "Recipe Puppy"
+}

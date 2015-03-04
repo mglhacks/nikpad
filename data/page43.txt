@@ -1,0 +1,67 @@
+{
+  "href": "http://www.recipepuppy.com/", 
+  "version": 0.1, 
+  "results": [
+    {
+      "thumbnail": "http://img.recipepuppy.com/524.jpg", 
+      "href": "http://allrecipes.com/Recipe/Paprika-Chicken-and-Potatoes/Detail.aspx", 
+      "ingredients": "black pepper, butter, chicken, half and half, olive oil, onions, paprika, potato, salt, white wine", 
+      "title": "Paprika Chicken and Potatoes"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/525.jpg", 
+      "href": "http://allrecipes.com/Recipe/Zesty-Chicken-and-Potatoes/Detail.aspx", 
+      "ingredients": "chicken, garlic, salad dressing, lemon juice, lime juice, potato, rosemary", 
+      "title": "Zesty Chicken and Potatoes"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Campfire-Baked-Potatoes/Detail.aspx", 
+      "ingredients": "potato, butter", 
+      "title": "Campfire Baked Potatoes"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/527.jpg", 
+      "href": "http://allrecipes.com/Recipe/Lebanese-Chicken-and-Potatoes/Detail.aspx", 
+      "ingredients": "chicken, olive oil, garlic, lemon juice, potato, salt, white pepper", 
+      "title": "Lebanese Chicken and Potatoes"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/529.jpg", 
+      "href": "http://allrecipes.com/Recipe/Party-Punch-V/Detail.aspx", 
+      "ingredients": "ginger ale, water", 
+      "title": "Party Punch V"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Six-Things-Punch/Detail.aspx", 
+      "ingredients": "blood orange, ginger ale, water", 
+      "title": "Six Things Punch"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Golden-Glow-Punch/Detail.aspx", 
+      "ingredients": "apricot preserves, sprite, vanilla ice cream", 
+      "title": "Golden Glow Punch"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Rainbow-Punch/Detail.aspx", 
+      "ingredients": "ice, sprite, sherbet", 
+      "title": "Rainbow Punch"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/535.jpg", 
+      "href": "http://allrecipes.com/Recipe/Easy-Punch/Detail.aspx", 
+      "ingredients": "ginger ale, water, sugar", 
+      "title": "Easy Punch"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Banana-Slush-Punch/Detail.aspx", 
+      "ingredients": "banana, ginger ale, water, water, sugar", 
+      "title": "Banana Slush Punch"
+    }
+  ], 
+  "title": "Recipe Puppy"
+}

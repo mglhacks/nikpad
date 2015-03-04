@@ -1,0 +1,67 @@
+{
+  "href": "http://www.recipepuppy.com/", 
+  "version": 0.1, 
+  "results": [
+    {
+      "thumbnail": "http://img.recipepuppy.com/251.jpg", 
+      "href": "http://allrecipes.com/Recipe/Potato-Casserole/Detail.aspx", 
+      "ingredients": "butter, cheddar cheese, corn flakes, onions", 
+      "title": "Potato Casserole"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/252.jpg", 
+      "href": "http://allrecipes.com/Recipe/Jeannies-Famous-Potato-Hamburger-Casserole/Detail.aspx", 
+      "ingredients": "ground beef, butter, cheddar cheese, flour, milk, milk, monterey jack cheese, olive oil, heavy cream, potato, salt, yellow onions", 
+      "title": "Jeannie's Famous Potato Hamburger Casserole"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Incredible-Potato-Casserole/Detail.aspx", 
+      "ingredients": "butter, butter, cheddar cheese, cornflakes, green onion, sour cream, potato", 
+      "title": "Incredible Potato Casserole"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/255.jpg", 
+      "href": "http://allrecipes.com/Recipe/Moms-Shepherds-Pie/Detail.aspx", 
+      "ingredients": "ground beef, black pepper, flour, milk, potato, salt, worcestershire sauce", 
+      "title": "Mom's Shepherd's Pie"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/256.jpg", 
+      "href": "http://allrecipes.com/Recipe/Lauries-Shepherds-Pie/Detail.aspx", 
+      "ingredients": "green pepper, ground beef, margarine, milk, onions, potato", 
+      "title": "Laurie's Shepherd's Pie"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/257.jpg", 
+      "href": "http://allrecipes.com/Recipe/Shepherds-Pie/Detail.aspx", 
+      "ingredients": "butter, ground beef, potato, salt", 
+      "title": "Shepherd's Pie"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Beef-Potato-House-Pie-Casserole/Detail.aspx", 
+      "ingredients": "ground beef, butter, green pepper, milk, onions, potato, salt", 
+      "title": "Beef Potato House Pie Casserole"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/259.jpg", 
+      "href": "http://allrecipes.com/Recipe/Easy-Shepherds-Pie-with-Garlic-Romano-Potatoes/Detail.aspx", 
+      "ingredients": "ground beef, butter, basil, oregano, rosemary, garlic, milk, onions, red potatoes, romano cheese, salt", 
+      "title": "Easy Shepherd's Pie with Garlic Romano Potatoes"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/261.jpg", 
+      "href": "http://allrecipes.com/Recipe/Fried-Irish-Potato-Farls/Detail.aspx", 
+      "ingredients": "olive oil, potato, salt", 
+      "title": "Fried Irish Potato Farls"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/262.jpg", 
+      "href": "http://allrecipes.com/Recipe/Norwegian-Potato-Klub/Detail.aspx", 
+      "ingredients": "bacon, baking powder, flour, potato, salt", 
+      "title": "Norwegian Potato Klub"
+    }
+  ], 
+  "title": "Recipe Puppy"
+}

@@ -1,0 +1,67 @@
+{
+  "href": "http://www.recipepuppy.com/", 
+  "version": 0.1, 
+  "results": [
+    {
+      "thumbnail": "http://img.recipepuppy.com/760.jpg", 
+      "href": "http://allrecipes.com/Recipe/Potato-Casserole-I-2/Detail.aspx", 
+      "ingredients": "black pepper, butter, cheddar cheese, cheddar cheese, onions, potato, salt, sour cream", 
+      "title": "Potato Casserole I"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Absolute-Best-Potato-Casserole/Detail.aspx", 
+      "ingredients": "butter, cheddar cheese, cornflakes, flour, garlic powder, ham, milk, onions, black pepper, potato, salt, swiss cheese", 
+      "title": "Absolute Best Potato Casserole"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/American-Shepherds-Pie/Detail.aspx", 
+      "ingredients": "celery, cheese, potato, thyme, ground beef, onions", 
+      "title": "American Shepherd's Pie"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Vegetarian-Shepherds-Pie-I/Detail.aspx", 
+      "ingredients": "black pepper, bulgur, butter, carrot, corn, flour, garlic, buckwheat groats, milk, onions, potato, salt, water", 
+      "title": "Vegetarian Shepherd's Pie I"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/764.jpg", 
+      "href": "http://allrecipes.com/Recipe/Empty-Wallet-Casserole/Detail.aspx", 
+      "ingredients": "ground beef, butter, cumin, thyme, garlic, onions, paprika, potato, poultry seasoning, salt, saltine crackers", 
+      "title": "Empty Wallet Casserole"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Potato-Beef-Casserole/Detail.aspx", 
+      "ingredients": "ground beef, potato, salt", 
+      "title": "Potato Beef Casserole"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/The-Casserole/Detail.aspx", 
+      "ingredients": "cheddar cheese, ground beef, onions, potato", 
+      "title": "The Casserole"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Gravy-Potatoes/Detail.aspx", 
+      "ingredients": "potato, ground beef, cheddar cheese, cream of mushroom soup, garlic powder, onions, salt", 
+      "title": "Gravy Potatoes"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/768.jpg", 
+      "href": "http://allrecipes.com/Recipe/Vegetarian-Shepherds-Pie/Detail.aspx", 
+      "ingredients": "peas, cumin, curry powder, eggplant, olive oil, garlic, half and half, parmesan cheese, green pepper, red potatoes, black pepper, water, yellow onions", 
+      "title": "Vegetarian Shepherd's Pie"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/769.jpg", 
+      "href": "http://allrecipes.com/Recipe/Irish-Soda-Farls/Detail.aspx", 
+      "ingredients": "baking soda, buttermilk, flour", 
+      "title": "Irish Soda Farls"
+    }
+  ], 
+  "title": "Recipe Puppy"
+}

@@ -1,0 +1,67 @@
+{
+  "href": "http://www.recipepuppy.com/", 
+  "version": 0.1, 
+  "results": [
+    {
+      "thumbnail": "http://img.recipepuppy.com/587.jpg", 
+      "href": "http://allrecipes.com/Recipe/Cinnamon-Raisin-Swirl-Bread/Detail.aspx", 
+      "ingredients": "bread flour, brown sugar, butter, butter, cinnamon, milk, raisins, salt, shortening, water, sugar, yeast", 
+      "title": "Cinnamon Raisin Swirl Bread"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/588.jpg", 
+      "href": "http://allrecipes.com/Recipe/Cinnamon-Raisin-Bread-I/Detail.aspx", 
+      "ingredients": "butter, cinnamon, eggs, flour, margarine, milk, milk, raisins, salt, water, sugar, sugar", 
+      "title": "Cinnamon Raisin Bread I"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/589.jpg", 
+      "href": "http://allrecipes.com/Recipe/Cinnamon-Raisin-Bread/Detail.aspx", 
+      "ingredients": "cinnamon, powdered sugar, flour, glaze, milk, milk, raisins, salt, sugar, sugar, vegetable oil, water, water", 
+      "title": "Cinnamon Raisin Bread"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/590.jpg", 
+      "href": "http://allrecipes.com/Recipe/Raisin-Bread-II/Detail.aspx", 
+      "ingredients": "bread flour, cinnamon, lard, raisins, salt, water, yeast", 
+      "title": "Raisin Bread II"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/591.jpg", 
+      "href": "http://allrecipes.com/Recipe/Cinnamon-Cranraisin-Bread/Detail.aspx", 
+      "ingredients": "cinnamon, eggs, flour, margarine, milk powder, salt, vanilla extract, water, sugar, yeast", 
+      "title": "Cinnamon Cranraisin Bread"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Oatmeal-Banana-Cinnamon-Bread/Detail.aspx", 
+      "ingredients": "banana, bread flour, butter flavored extract, cinnamon, nutmeg, orange extract, orange zest, rolled oat, salt, vanilla extract, vegetable oil, water, sugar, yeast", 
+      "title": "Oatmeal Banana Cinnamon Bread"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/593.jpg", 
+      "href": "http://allrecipes.com/Recipe/Moms-Yeast-Rolls/Detail.aspx", 
+      "ingredients": "eggs, flour, margarine, salt, water, water, sugar", 
+      "title": "Mom's Yeast Rolls"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/594.jpg", 
+      "href": "http://allrecipes.com/Recipe/Overnight-Cinnamon-Rolls-II/Detail.aspx", 
+      "ingredients": "brown sugar, butter, cinnamon, sandwich rolls, vanilla pudding, raisins", 
+      "title": "Overnight Cinnamon Rolls II"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/595.jpg", 
+      "href": "http://allrecipes.com/Recipe/Chocolate-Chip-Cinnamon-Rolls/Detail.aspx", 
+      "ingredients": "brown sugar, butter, butter, cinnamon, powdered sugar, egg yolks, flour, glaze, milk, semisweet chocolate chips, salt, sugar, vanilla extract, water, water, yeast", 
+      "title": "Chocolate Chip Cinnamon Rolls"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Cornmeal-Cinnamon-Rolls/Detail.aspx", 
+      "ingredients": "almond extract, butter, butter, butter, cinnamon, powdered sugar, cornmeal, cream cheese, eggs, flour, frosting, milk, milk, nutmeg, raisins, salt, sugar, sugar, water", 
+      "title": "Cornmeal Cinnamon Rolls"
+    }
+  ], 
+  "title": "Recipe Puppy"
+}

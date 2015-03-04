@@ -1,0 +1,67 @@
+{
+  "href": "http://www.recipepuppy.com/", 
+  "version": 0.1, 
+  "results": [
+    {
+      "thumbnail": "http://img.recipepuppy.com/547.jpg", 
+      "href": "http://allrecipes.com/Recipe/Asparagus-Puff-Pizza/Detail.aspx", 
+      "ingredients": "asparagus, egg whites, mayonnaise, mustard powder, parmesan cheese", 
+      "title": "Asparagus Puff Pizza"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/548.jpg", 
+      "href": "http://allrecipes.com/Recipe/Asparagus-Swiss-Quiche/Detail.aspx", 
+      "ingredients": "asparagus, bacon, eggs, flour, half and half, onions, black pepper, salt, swiss cheese", 
+      "title": "Asparagus Swiss Quiche"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/549.jpg", 
+      "href": "http://allrecipes.com/Recipe/Asparagus-Quiche-2/Detail.aspx", 
+      "ingredients": "asparagus, bacon, cherry tomato, egg whites, eggs, cream, nutmeg, black pepper, salt, salt, swiss cheese", 
+      "title": "Asparagus Quiche"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/550.jpg", 
+      "href": "http://allrecipes.com/Recipe/Asparagus-and-Mushroom-Quiche/Detail.aspx", 
+      "ingredients": "bacon, egg whites, eggs, feta cheese, half and half, olive oil, onions, mushrooms, salt, cheddar cheese", 
+      "title": "Asparagus and Mushroom Quiche"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/551.jpg", 
+      "href": "http://allrecipes.com/Recipe/Wild-Asparagus-Quiche/Detail.aspx", 
+      "ingredients": "dijon mustard, eggs, flour, flour, water, milk, paprika, salt, swiss cheese, hot sauce, shortening, asparagus", 
+      "title": "Wild Asparagus Quiche"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/552.jpg", 
+      "href": "http://allrecipes.com/Recipe/Bacon-Quiche-Tarts/Detail.aspx", 
+      "ingredients": "bacon, eggs, green onion, milk, swiss cheese", 
+      "title": "Bacon Quiche Tarts"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/553.jpg", 
+      "href": "http://allrecipes.com/Recipe/Zucchini-Frittata/Detail.aspx", 
+      "ingredients": "vegetable oil, eggs, onions, salt, swiss cheese, zucchini", 
+      "title": "Zucchini Frittata"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/554.jpg", 
+      "href": "http://allrecipes.com/Recipe/Carrot-Coin-Casserole/Detail.aspx", 
+      "ingredients": "butter, crackers, carrot, cheddar cheese, flour, nutmeg, onions, peas, black pepper, salt", 
+      "title": "Carrot Coin Casserole"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/555.jpg", 
+      "href": "http://allrecipes.com/Recipe/Scalloped-Cabbage-Casserole/Detail.aspx", 
+      "ingredients": "butter, carrot, marjoram, thyme, flour, cabbage, milk, onions, black pepper, american cheese, salt, bread crumbs", 
+      "title": "Scalloped Cabbage Casserole"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/556.jpg", 
+      "href": "http://allrecipes.com/Recipe/Vidalia-Casserole/Detail.aspx", 
+      "ingredients": "crackers, butter, parmesan cheese, sour cream, onions", 
+      "title": "Vidalia Casserole"
+    }
+  ], 
+  "title": "Recipe Puppy"
+}

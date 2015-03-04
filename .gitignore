@@ -1,0 +1,8 @@
+# Emacs tmp files
+*~
+
+# Python byte code files
+*.pyc
+
+# PDF result files
+*.pdf

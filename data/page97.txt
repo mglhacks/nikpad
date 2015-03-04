@@ -1,0 +1,67 @@
+{
+  "href": "http://www.recipepuppy.com/", 
+  "version": 0.1, 
+  "results": [
+    {
+      "thumbnail": "http://img.recipepuppy.com/1076.jpg", 
+      "href": "http://allrecipes.com/Recipe/Super-Easy-Chicken-Noodle-Soup/Detail.aspx", 
+      "ingredients": "chicken, chicken bouillon, egg noodles, water", 
+      "title": "Super Easy Chicken Noodle Soup"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Chicken-and-Rice-Soup-I/Detail.aspx", 
+      "ingredients": "black pepper, chicken, butter, celery, chicken bouillon, flour, milk, milk, onions, water, rice", 
+      "title": "Chicken and Rice Soup I"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/1078.jpg", 
+      "href": "http://allrecipes.com/Recipe/Creamy-Chicken-and-Wild-Rice-Soup/Detail.aspx", 
+      "ingredients": "black pepper, butter, chicken broth, chicken, flour, heavy cream, salt, water", 
+      "title": "Creamy Chicken and Wild Rice Soup"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/1079.jpg", 
+      "href": "http://allrecipes.com/Recipe/Chicken-Wild-Rice-Soup-II/Detail.aspx", 
+      "ingredients": "almonds, butter, butter, celery, chicken, parsley, milk, onions, water, water, rice", 
+      "title": "Chicken Wild Rice Soup II"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/1080.jpg", 
+      "href": "http://allrecipes.com/Recipe/Slow-Cooker-Chicken-Creole/Detail.aspx", 
+      "ingredients": "celery, chicken, seasoning, garlic, green pepper, jalapeno, onions, salt", 
+      "title": "Slow Cooker Chicken Creole"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/1081.jpg", 
+      "href": "http://allrecipes.com/Recipe/Chicken-Creole/Detail.aspx", 
+      "ingredients": "bay leaf, cayenne, celery, chicken, garlic, green pepper, olive oil, onions, salt", 
+      "title": "Chicken Creole"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Creole-Gumbo/Detail.aspx", 
+      "ingredients": "butter, seasoning, chicken, chicken, smoked sausage, flour, green pepper, shrimp, water, onions", 
+      "title": "Creole Gumbo"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Creole-Chicken-II/Detail.aspx", 
+      "ingredients": "bay leaf, brown sugar, chicken, chicken broth, curry powder, garlic, green pepper, olive oil, onions, raisins, salt, tomato paste", 
+      "title": "Creole Chicken II"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/1084.jpg", 
+      "href": "http://allrecipes.com/Recipe/Texas-Style-Chicken-Tequila/Detail.aspx", 
+      "ingredients": "chicken, chicken broth, vegetable oil, garlic, green pepper, heavy cream, jalapeno, lime juice, onions, red pepper, romano cheese, soy sauce, tequila, butter", 
+      "title": "Texas Style Chicken Tequila"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Pork-and-Dumplings/Detail.aspx", 
+      "ingredients": "flour, pork chops, salt, salt, shortening, water, water", 
+      "title": "Pork and Dumplings"
+    }
+  ], 
+  "title": "Recipe Puppy"
+}

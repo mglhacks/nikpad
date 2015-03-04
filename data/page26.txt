@@ -1,0 +1,67 @@
+{
+  "href": "http://www.recipepuppy.com/", 
+  "version": 0.1, 
+  "results": [
+    {
+      "thumbnail": "http://img.recipepuppy.com/312.jpg", 
+      "href": "http://allrecipes.com/Recipe/Penne-Pasta-with-Cannellini-Beans-and-Escarole/Detail.aspx", 
+      "ingredients": "escarole, black pepper", 
+      "title": "Penne Pasta with Cannellini Beans and Escarole"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/313.jpg", 
+      "href": "http://allrecipes.com/Recipe/Pesto-Pasta-with-Green-Beans-and-Potatoes/Detail.aspx", 
+      "ingredients": "garlic, green beans, olive oil, parmesan cheese, penne, pesto, yogurt, red potatoes, salt", 
+      "title": "Pesto Pasta with Green Beans and Potatoes"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/314.jpg", 
+      "href": "http://allrecipes.com/Recipe/One-Pot-Pasta-with-Tomatoes-White-Beans-and-Pesto/Detail.aspx", 
+      "ingredients": "pasta, parmesan cheese, bouillon cube, tomato, water", 
+      "title": "One-Pot Pasta with Tomatoes, White Beans and Pesto"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/315.jpg", 
+      "href": "http://allrecipes.com/Recipe/Pasta-and-White-Beans-Gratin/Detail.aspx", 
+      "ingredients": "balsamic vinegar, bay leaf, bread crumbs, garlic, basil, olive oil, olive oil, olive oil, onions, parmesan cheese, pasta (in general), ricotta cheese, salt, thyme, tomato", 
+      "title": "Pasta and White Beans Gratin"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Mulled-Cranberry-Cider/Detail.aspx", 
+      "ingredients": "cinnamon, cloves, cranberry juice, cranberries, honey, orange, vanilla extract", 
+      "title": "Mulled Cranberry Cider"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/318.jpg", 
+      "href": "http://allrecipes.com/Recipe/Fresh-Cranberry-Spiced-Tea/Detail.aspx", 
+      "ingredients": "cranberries, allspice, cloves, lemon juice, orange juice, pineapple juice, water, sugar", 
+      "title": "Fresh Cranberry Spiced Tea"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/320.jpg", 
+      "href": "http://allrecipes.com/Recipe/Easy-Apple-Cider/Detail.aspx", 
+      "ingredients": "allspice, brown sugar, cinnamon, cloves", 
+      "title": "Easy Apple Cider"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Creme-de-Vie/Detail.aspx", 
+      "ingredients": "egg yolks, rum, sugar, vanilla extract, water", 
+      "title": "Creme de Vie"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/324.jpg", 
+      "href": "http://allrecipes.com/Recipe/Colonial-Hot-Buttered-Rum/Detail.aspx", 
+      "ingredients": "brown sugar, butter, cinnamon, cloves, nutmeg, rum, salt, water", 
+      "title": "Colonial Hot Buttered Rum"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Old-Virginia-Wassail-Cider/Detail.aspx", 
+      "ingredients": "apple cider, cloves, honey, orange juice", 
+      "title": "Old Virginia Wassail Cider"
+    }
+  ], 
+  "title": "Recipe Puppy"
+}

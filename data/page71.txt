@@ -1,0 +1,67 @@
+{
+  "href": "http://www.recipepuppy.com/", 
+  "version": 0.1, 
+  "results": [
+    {
+      "thumbnail": "http://img.recipepuppy.com/810.jpg", 
+      "href": "http://allrecipes.com/Recipe/Raspberry-Bars/Detail.aspx", 
+      "ingredients": "baking powder, butter, butter, flaked coconut, eggs, flour, milk, raspberry jam, vanilla extract, sugar", 
+      "title": "Raspberry Bars"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Raspberry-Dream-Bars/Detail.aspx", 
+      "ingredients": "butter, butter, eggs, eggs, flaked coconut, flour, raspberry preserves, sugar, sugar", 
+      "title": "Raspberry Dream Bars"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/812.jpg", 
+      "href": "http://allrecipes.com/Recipe/Ocean-Spray-Oatmeal-Cranberry-White-Chocolate-Chunk-Cookies/Detail.aspx", 
+      "ingredients": "baking soda, brown sugar, butter, eggs, flour, oats, salt, white chocolate", 
+      "title": "Ocean Spray&#174; Oatmeal Cranberry White Chocolate Chunk Cookies"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/813.jpg", 
+      "href": "http://allrecipes.com/Recipe/White-Chocolate-Macadamia-Cranberry-Dreams/Detail.aspx", 
+      "ingredients": "baking soda, butter, cranberries, eggs, flour, brown sugar, macadamia nuts, salt, vanilla baking chips, vanilla extract, sugar", 
+      "title": "White Chocolate Macadamia Cranberry Dreams"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/814.jpg", 
+      "href": "http://allrecipes.com/Recipe/White-Chocolate-Macadamia-Nut-Oatmeal-Cookies/Detail.aspx", 
+      "ingredients": "baking powder, baking soda, brown sugar, butter, eggs, flour, macadamia nuts, rolled oat, vanilla extract, white chocolate, sugar", 
+      "title": "White Chocolate-Macadamia Nut Oatmeal Cookies"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/815.jpg", 
+      "href": "http://allrecipes.com/Recipe/White-Chocolate-Chunk-Cookies/Detail.aspx", 
+      "ingredients": "macadamia nuts, baking soda, brown sugar, butter, eggs, flour, salt, shortening, vanilla extract, white chocolate, sugar", 
+      "title": "White Chocolate Chunk Cookies"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/816.jpg", 
+      "href": "http://allrecipes.com/Recipe/Moms-Raisin-Oatmeal-Cookies/Detail.aspx", 
+      "ingredients": "baking soda, brown sugar, cinnamon, eggs, flour, milk, oats, raisins, salt, vanilla extract, vegetable oil", 
+      "title": "Mom's Raisin Oatmeal Cookies"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/817.jpg", 
+      "href": "http://allrecipes.com/Recipe/Cowboy-Oatmeal-Cookies/Detail.aspx", 
+      "ingredients": "baking powder, baking soda, brown sugar, butterscotch chips, eggs, flour, margarine, oats, salt, vegetable oil, sugar", 
+      "title": "Cowboy Oatmeal Cookies"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/818.jpg", 
+      "href": "http://allrecipes.com/Recipe/Cocoa-Oatmeal-Cookies/Detail.aspx", 
+      "ingredients": "baking soda, brown sugar, butter, cocoa powder, eggs, flour, raisins, rolled oat, salt, vanilla extract, sugar", 
+      "title": "Cocoa Oatmeal Cookies"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/819.jpg", 
+      "href": "http://allrecipes.com/Recipe/Oatmeal-Raisin-Cookies-IV/Detail.aspx", 
+      "ingredients": "baking soda, brown sugar, butter, cinnamon, eggs, flour, pecan, raisins, rolled oat, vanilla extract, sugar", 
+      "title": "Oatmeal Raisin Cookies IV"
+    }
+  ], 
+  "title": "Recipe Puppy"
+}

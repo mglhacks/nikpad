@@ -1,0 +1,67 @@
+{
+  "href": "http://www.recipepuppy.com/", 
+  "version": 0.1, 
+  "results": [
+    {
+      "thumbnail": "http://img.recipepuppy.com/287.jpg", 
+      "href": "http://allrecipes.com/Recipe/Oatmeal-Date-Cookies/Detail.aspx", 
+      "ingredients": "baking powder, baking soda, brown sugar, dates, eggs, flour, oats, salt, shortening, vanilla extract, walnut, sugar", 
+      "title": "Oatmeal Date Cookies"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/289.jpg", 
+      "href": "http://allrecipes.com/Recipe/Pasta-with-Fresh-Tomato-Sauce/Detail.aspx", 
+      "ingredients": "basil, italian dressing, parmesan cheese, red onions, tomato", 
+      "title": "Pasta with Fresh Tomato Sauce"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/290.jpg", 
+      "href": "http://allrecipes.com/Recipe/Fresh-Tomato-Shrimp-Pasta/Detail.aspx", 
+      "ingredients": "pasta, garlic, mozzarella cheese, olive oil, oregano, salt, shrimp, spinach, onions, tomato", 
+      "title": "Fresh Tomato Shrimp Pasta"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/291.jpg", 
+      "href": "http://allrecipes.com/Recipe/Tomato-and-Garlic-Pasta/Detail.aspx", 
+      "ingredients": "black pepper, garlic, olive oil, parmesan cheese, salt, tomato paste, tomato", 
+      "title": "Tomato and Garlic Pasta"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Light-Southwestern-Tomato-Pasta/Detail.aspx", 
+      "ingredients": "basil, oregano, olive oil, parmesan cheese, pasta, salt, tomato, sugar", 
+      "title": "Light Southwestern Tomato Pasta"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/293.jpg", 
+      "href": "http://allrecipes.com/Recipe/Pasta-with-Fresh-Tomatoes-and-Corn/Detail.aspx", 
+      "ingredients": "black pepper, corn, basil, green onion, olive oil, parmesan cheese, pasta, red wine vinegar, salt, tomato", 
+      "title": "Pasta with Fresh Tomatoes and Corn"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/295.jpg", 
+      "href": "http://allrecipes.com/Recipe/Spinach-and-Cheese-Stuffed-Pasta-Shells/Detail.aspx", 
+      "ingredients": "basil, fennel seed, garlic, pasta shells, parmesan cheese, ricotta cheese, salt, tomato sauce", 
+      "title": "Spinach and Cheese Stuffed Pasta Shells"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Spinach-Garlic-Pasta/Detail.aspx", 
+      "ingredients": "garlic, olive oil", 
+      "title": "Spinach Garlic Pasta"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/297.jpg", 
+      "href": "http://allrecipes.com/Recipe/Spinach-Cheese-Pasta/Detail.aspx", 
+      "ingredients": "olive oil, garlic", 
+      "title": "Spinach Cheese Pasta"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/298.jpg", 
+      "href": "http://allrecipes.com/Recipe/Pasta-With-Spinach-Sauce/Detail.aspx", 
+      "ingredients": "garlic, ham, olive oil, onions, parmesan cheese, sour cream, pasta", 
+      "title": "Pasta With Spinach Sauce"
+    }
+  ], 
+  "title": "Recipe Puppy"
+}

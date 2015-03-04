@@ -1,0 +1,67 @@
+{
+  "href": "http://www.recipepuppy.com/", 
+  "version": 0.1, 
+  "results": [
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Ginger-Martini/Detail.aspx", 
+      "ingredients": "crystallized ginger, liqueur, ice, vodka", 
+      "title": "Ginger Martini"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/35.jpg", 
+      "href": "http://allrecipes.com/Recipe/Nans-Potato-and-Egg-Frittata/Detail.aspx", 
+      "ingredients": "potato, eggs, olive oil, salt", 
+      "title": "Nan's Potato and Egg Frittata"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Ukraine-Baked-Potato-Salad/Detail.aspx", 
+      "ingredients": "eggs, onions, potato, salt", 
+      "title": "Ukraine Baked Potato Salad"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/37.jpg", 
+      "href": "http://allrecipes.com/Recipe/Cheese-and-Bacon-Potato-Balls/Detail.aspx", 
+      "ingredients": "bacon, potato, butter, milk, parmesan cheese, processed cheese", 
+      "title": "Cheese and Bacon Potato Balls"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/38.jpg", 
+      "href": "http://allrecipes.com/Recipe/Cheese-Potato-Puff/Detail.aspx", 
+      "ingredients": "butter, swiss cheese, eggs, milk, potato, salt", 
+      "title": "Cheese Potato Puff"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/39.jpg", 
+      "href": "http://allrecipes.com/Recipe/Swiss-Cheese-Potato-Pancakes/Detail.aspx", 
+      "ingredients": "butter, cayenne, eggs, flour, onions, black pepper, salt, potato, swiss cheese, vegetable oil", 
+      "title": "Swiss Cheese Potato Pancakes"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/41.jpg", 
+      "href": "http://allrecipes.com/Recipe/Apricot-Cream-Cheese-Thumbprints/Detail.aspx", 
+      "ingredients": "apricot preserves, baking powder, butter, powdered sugar, eggs, flour, lemon juice, lemon zest, sugar", 
+      "title": "Apricot Cream Cheese Thumbprints"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/42.jpg", 
+      "href": "http://allrecipes.com/Recipe/Chocolate-Thumbprints-II/Detail.aspx", 
+      "ingredients": "butter, eggs, flour, milk chocolate chips, salt, sugar, vanilla extract, sugar", 
+      "title": "Chocolate Thumbprints II"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/43.jpg", 
+      "href": "http://allrecipes.com/Recipe/Raspberry-and-Almond-Shortbread-Thumbprints/Detail.aspx", 
+      "ingredients": "almond extract, almond extract, butter, powdered sugar, flour, milk, raspberry jam, sugar", 
+      "title": "Raspberry and Almond Shortbread Thumbprints"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Chocolate-Thumbprints-I/Detail.aspx", 
+      "ingredients": "butter, butter, cocoa powder, powdered sugar, eggs, flour, milk, milk, milk chocolate chips, salt, vanilla extract, vanilla extract, walnut, sugar", 
+      "title": "Chocolate Thumbprints I"
+    }
+  ], 
+  "title": "Recipe Puppy"
+}

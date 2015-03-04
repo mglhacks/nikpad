@@ -1,0 +1,67 @@
+{
+  "href": "http://www.recipepuppy.com/", 
+  "version": 0.1, 
+  "results": [
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Summer-Pasta-Salad-I/Detail.aspx", 
+      "ingredients": "baby carrot, celery seed, cucumber, white vinegar, green pepper, salad dressing, onions, salt, tomato, sugar", 
+      "title": "Summer Pasta Salad I"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Summer-Tofu-and-Corn-Pasta/Detail.aspx", 
+      "ingredients": "black pepper, vegetable oil, dijon mustard, white corn, honey, kosher salt, mustard powder, yeast, seasoning, bow tie pasta", 
+      "title": "Summer Tofu and Corn Pasta"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/874.jpg", 
+      "href": "http://allrecipes.com/Recipe/Fettuccini-with-Basil-and-Brie/Detail.aspx", 
+      "ingredients": "black pepper, brie cheese, pasta, garlic, olive oil, parmesan cheese, red wine vinegar, salt, tomato", 
+      "title": "Fettuccini with Basil and Brie"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/875.jpg", 
+      "href": "http://allrecipes.com/Recipe/Grilled-Cheese-with-Tomato-Peppers-and-Basil/Detail.aspx", 
+      "ingredients": "butter, cheddar cheese, basil, salt, serrano pepper, tomato", 
+      "title": "Grilled Cheese with Tomato, Peppers and Basil"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Pasta-with-Basil/Detail.aspx", 
+      "ingredients": "basil, mozzarella cheese, olive oil, onions, pasta", 
+      "title": "Pasta with Basil"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/877.jpg", 
+      "href": "http://allrecipes.com/Recipe/Cream-Cheese-Basil-Summer-Squash/Detail.aspx", 
+      "ingredients": "basil, garlic, salt, yellow squash", 
+      "title": "Cream Cheese Basil Summer Squash"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Summer-Pasta-Toss-I/Detail.aspx", 
+      "ingredients": "green pepper, salad dressing, parmesan cheese, salami, pasta, tomato", 
+      "title": "Summer Pasta Toss I"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Summer-Pasta-Toss-II/Detail.aspx", 
+      "ingredients": "chicken, salad dressing, olive oil, parmesan cheese, pasta, tomato", 
+      "title": "Summer Pasta Toss II"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/880.jpg", 
+      "href": "http://allrecipes.com/Recipe/Spicy-Summer-Pasta-Salad/Detail.aspx", 
+      "ingredients": "chili powder, parsley, green pepper, mozzarella cheese, olive oil, red pepper, red wine vinegar, rotelle pasta, tomato", 
+      "title": "Spicy Summer Pasta Salad"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Pasta-with-Tomatoes-and-White-Beans/Detail.aspx", 
+      "ingredients": "feta cheese, pasta", 
+      "title": "Pasta with Tomatoes and White Beans"
+    }
+  ], 
+  "title": "Recipe Puppy"
+}

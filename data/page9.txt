@@ -1,0 +1,67 @@
+{
+  "href": "http://www.recipepuppy.com/", 
+  "version": 0.1, 
+  "results": [
+    {
+      "thumbnail": "http://img.recipepuppy.com/94.jpg", 
+      "href": "http://allrecipes.com/Recipe/Baked-Maryland-Lump-Crab-Cakes/Detail.aspx", 
+      "ingredients": "baking powder, black pepper, bread crumbs, butter, eggs, parsley, crab meat, mayonnaise, mustard powder, old bay seasoning, worcestershire sauce", 
+      "title": "Baked Maryland Lump Crab Cakes"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/95.jpg", 
+      "href": "http://allrecipes.com/Recipe/Maryland-Crab-Cakes-III/Detail.aspx", 
+      "ingredients": "mustard, celery, crabmeat, mayonnaise, old bay seasoning, onions, saltine crackers", 
+      "title": "Maryland Crab Cakes III"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/96.jpg", 
+      "href": "http://allrecipes.com/Recipe/New-England-Crab-Cakes/Detail.aspx", 
+      "ingredients": "bread crumbs, butter, crabmeat, dijon mustard, eggs, mayonnaise, old bay seasoning, worcestershire sauce", 
+      "title": "New England Crab Cakes"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/98.jpg", 
+      "href": "http://allrecipes.com/Recipe/Creole-Black-Eyed-Peas-and-Rice/Detail.aspx", 
+      "ingredients": "black pepper, cajun seasoning, garlic powder, green pepper, ground beef, rice, onions, water", 
+      "title": "Creole Black-Eyed Peas and Rice"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Sweet-and-Spicy-Soup-with-Black-Eyed-Peas-and-Sweet-Potato/Detail.aspx", 
+      "ingredients": "bay leaf, brown sugar, cayenne, celery, cinnamon, coriander, cumin, basil, oregano, rosemary, thyme, garlic, garlic powder, mustard powder, olive oil, onions, onion powder, tomato, red pepper, red pepper flakes, cracked black pepper, vegetable broth, water", 
+      "title": "Sweet and Spicy Soup with Black-Eyed Peas and Sweet Potato"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Shrimp-Gumbo/Detail.aspx", 
+      "ingredients": "bay leaf, black pepper, flour, garlic, okra, onions, red pepper, salt, shrimp, vegetable oil, vegetable oil, water", 
+      "title": "Shrimp Gumbo"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/101.jpg", 
+      "href": "http://allrecipes.com/Recipe/Big-Charlies-Gumbo/Detail.aspx", 
+      "ingredients": "sausage, bay leaves, beef, black pepper, butter, butter, red pepper, celery, crabmeat, flour, garlic, lemon, okra, onions, hot sauce, salt, shrimp, thyme, water, sugar, worcestershire sauce", 
+      "title": "Big Charlie's Gumbo"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/102.jpg", 
+      "href": "http://allrecipes.com/Recipe/Chicken-Andouille-Gumbo/Detail.aspx", 
+      "ingredients": "sausage, bay leaf, black pepper, cayenne, celery, chicken, basil, thyme, file powder, flour, garlic, green pepper, okra, salt, vegetable oil, vegetable oil, water", 
+      "title": "Chicken Andouille Gumbo"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/104.jpg", 
+      "href": "http://allrecipes.com/Recipe/Cantonese-Style-Pork-and-Shrimp-Dumplings/Detail.aspx", 
+      "ingredients": "shrimp, garlic, green onion, oyster sauce, ground pork, salt, vegetable oil, soy sauce, watercress, white pepper", 
+      "title": "Cantonese Style Pork and Shrimp Dumplings"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/105.jpg", 
+      "href": "http://allrecipes.com/Recipe/Pancit/Detail.aspx", 
+      "ingredients": "black pepper, carrot, chicken, green onion, cabbage, pork chops, shrimp, soy sauce", 
+      "title": "Pancit"
+    }
+  ], 
+  "title": "Recipe Puppy"
+}

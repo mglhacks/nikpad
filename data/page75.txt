@@ -1,0 +1,67 @@
+{
+  "href": "http://www.recipepuppy.com/", 
+  "version": 0.1, 
+  "results": [
+    {
+      "thumbnail": "http://img.recipepuppy.com/851.jpg", 
+      "href": "http://allrecipes.com/Recipe/Pasta-with-Pork-and-Apple-Sauce/Detail.aspx", 
+      "ingredients": "apple, basil, black pepper, fettuccine, garlic, nutmeg, olive oil, pork chops, red pepper, red onions, red wine, shallot, sun dried tomato, worcestershire sauce", 
+      "title": "Pasta with Pork and Apple Sauce"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/852.jpg", 
+      "href": "http://allrecipes.com/Recipe/Tacos-in-Pasta-Shells/Detail.aspx", 
+      "ingredients": "butter, cheddar cheese, chili powder, pasta shells, ground beef, monterey jack cheese, salt, sour cream, taco sauce, tortilla chips", 
+      "title": "Tacos in Pasta Shells"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/853.jpg", 
+      "href": "http://allrecipes.com/Recipe/Pasta-with-Chicken-Mushroom-Cream-Sauce/Detail.aspx", 
+      "ingredients": "black pepper, butter, chicken, heavy cream, onions, salt, shiitake mushroom", 
+      "title": "Pasta with Chicken Mushroom Cream Sauce"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/854.jpg", 
+      "href": "http://allrecipes.com/Recipe/Pesto-Pasta-with-Chicken/Detail.aspx", 
+      "ingredients": "chicken, garlic, sun dried tomato, olive oil, pesto, red pepper flakes", 
+      "title": "Pesto Pasta with Chicken"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/855.jpg", 
+      "href": "http://allrecipes.com/Recipe/Lemon-Cream-Pasta-with-Chicken/Detail.aspx", 
+      "ingredients": "black pepper, chicken, garlic powder, heavy cream, lemon, lemon juice, lemon zest", 
+      "title": "Lemon Cream Pasta with Chicken"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Penne-with-Red-Pepper-Sauce-and-Broccoli/Detail.aspx", 
+      "ingredients": "almond, balsamic vinegar, basil, black pepper, broccoli, cayenne, garlic, olive oil, onions, parmesan cheese, penne, red pepper, salt", 
+      "title": "Penne with Red Pepper Sauce and Broccoli"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/857.jpg", 
+      "href": "http://allrecipes.com/Recipe/Scallops-with-Red-Pepper-Sauce/Detail.aspx", 
+      "ingredients": "sea scallops, garlic, linguine, olive oil, parmesan cheese, red pepper flakes, salt, red pepper flakes", 
+      "title": "Scallops with Red Pepper Sauce"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Simple-Red-Sauce-with-Pasta/Detail.aspx", 
+      "ingredients": "bacon, garlic, green chilies, basil, olive oil, parmesan cheese, parmesan cheese, red onions, tomato", 
+      "title": "Simple Red Sauce with Pasta"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Pasta-with-Mushroom-and-Zucchini-Sauce/Detail.aspx", 
+      "ingredients": "butter, flour, pasta, garlic, half and half, mushroom, onions, zucchini", 
+      "title": "Pasta with Mushroom and Zucchini Sauce"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Cabbage-and-Smoked-Sausage-Pasta/Detail.aspx", 
+      "ingredients": "butter, garlic, cabbage, olive oil, parmesan cheese, salt, smoked sausage", 
+      "title": "Cabbage and Smoked Sausage Pasta"
+    }
+  ], 
+  "title": "Recipe Puppy"
+}

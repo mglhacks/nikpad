@@ -1,0 +1,67 @@
+{
+  "href": "http://www.recipepuppy.com/", 
+  "version": 0.1, 
+  "results": [
+    {
+      "thumbnail": "http://img.recipepuppy.com/680.jpg", 
+      "href": "http://allrecipes.com/Recipe/Bacon-Scalloped-Potatoes/Detail.aspx", 
+      "ingredients": "bacon, butter, flour, milk, onions, potato, salt", 
+      "title": "Bacon Scalloped Potatoes"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Golden-Potato-Rounds/Detail.aspx", 
+      "ingredients": "butter, cornflakes, potato, salt", 
+      "title": "Golden Potato Rounds"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/682.jpg", 
+      "href": "http://allrecipes.com/Recipe/Crumb-Coated-Potato-Halves/Detail.aspx", 
+      "ingredients": "butter, paprika, black pepper, potato, salt, bread crumbs", 
+      "title": "Crumb-Coated Potato Halves"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/683.jpg", 
+      "href": "http://allrecipes.com/Recipe/Seasoned-Potato-Fries/Detail.aspx", 
+      "ingredients": "garlic powder, italian seasoning, black pepper, potato, salt, vegetable oil", 
+      "title": "Seasoned Potato Fries"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/684.jpg", 
+      "href": "http://allrecipes.com/Recipe/Lime-Thyme-Potato-Wedges/Detail.aspx", 
+      "ingredients": "thyme, lime juice, lime, margarine, paprika, potato, romano cheese, salt", 
+      "title": "Lime-Thyme Potato Wedges"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/685.jpg", 
+      "href": "http://allrecipes.com/Recipe/Country-Potato-Pancakes/Detail.aspx", 
+      "ingredients": "baking powder, eggs, flour, onions, potato, salt, vegetable oil", 
+      "title": "Country Potato Pancakes"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Italian-Potato-Pancake/Detail.aspx", 
+      "ingredients": "basil, oregano, eggs, mozzarella cheese, olive oil, onions, potato, salt, flour", 
+      "title": "Italian Potato Pancake"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Corn-Potato-Pancakes/Detail.aspx", 
+      "ingredients": "corn, eggs, flour, garlic, onions, black pepper, potato, salt, vegetable oil", 
+      "title": "Corn Potato Pancakes"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/688.jpg", 
+      "href": "http://allrecipes.com/Recipe/Authentic-Potato-Pancakes/Detail.aspx", 
+      "ingredients": "bread crumbs, carrot, parsley, flour, garlic, lemon juice, olive oil, olive oil, onions, potato, salt", 
+      "title": "Authentic Potato Pancakes"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/689.jpg", 
+      "href": "http://allrecipes.com/Recipe/Corned-Beef-Potato-Pancakes/Detail.aspx", 
+      "ingredients": "eggs, green onion, potato, salt, vegetable oil", 
+      "title": "Corned Beef Potato Pancakes"
+    }
+  ], 
+  "title": "Recipe Puppy"
+}

@@ -1,0 +1,67 @@
+{
+  "href": "http://www.recipepuppy.com/", 
+  "version": 0.1, 
+  "results": [
+    {
+      "thumbnail": "http://img.recipepuppy.com/770.jpg", 
+      "href": "http://allrecipes.com/Recipe/Irish-Potato-Cake/Detail.aspx", 
+      "ingredients": "baking powder, cinnamon, cloves, potato, eggs, flour, milk, nutmeg, raisins, salt, shortening, walnut, sugar", 
+      "title": "Irish Potato Cake"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/771.jpg", 
+      "href": "http://allrecipes.com/Recipe/Potato-Dumplings-3/Detail.aspx", 
+      "ingredients": "bread crumbs, eggs, flour, nutmeg, black pepper, potato, salt", 
+      "title": "Potato Dumplings"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Badische-Schupfnudeln-Potato-Noodles/Detail.aspx", 
+      "ingredients": "eggs, flour, cooking fat, nutmeg, potato, salt", 
+      "title": "Badische Schupfnudeln (Potato Noodles)"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/773.jpg", 
+      "href": "http://allrecipes.com/Recipe/Irish-Soda-Bread-in-a-Skillet/Detail.aspx", 
+      "ingredients": "baking soda, flour, milk, salt, vinegar", 
+      "title": "Irish Soda Bread in a Skillet"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/774.jpg", 
+      "href": "http://allrecipes.com/Recipe/Irresistible-Irish-Soda-Bread/Detail.aspx", 
+      "ingredients": "baking powder, baking soda, butter, buttermilk, eggs, flour, salt, sugar", 
+      "title": "Irresistible Irish Soda Bread"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/775.jpg", 
+      "href": "http://allrecipes.com/Recipe/Cheddar-Potato-Wedges/Detail.aspx", 
+      "ingredients": "butter, cheddar cheese, garlic powder, paprika, potato, salt", 
+      "title": "Cheddar Potato Wedges"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/776.jpg", 
+      "href": "http://allrecipes.com/Recipe/Irish-Style-Lamb-Stew/Detail.aspx", 
+      "ingredients": "potato, beef broth, carrot, lamb, onions, salt, celery", 
+      "title": "Irish-Style Lamb Stew"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/777.jpg", 
+      "href": "http://allrecipes.com/Recipe/Special-Irish-Beef-Stew/Detail.aspx", 
+      "ingredients": "beef broth, carrot, cornstarch, flour, garlic, beef, onions, potato, vegetable oil, water", 
+      "title": "Special Irish Beef Stew"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/778.jpg", 
+      "href": "http://allrecipes.com/Recipe/Savory-Pork-Stew/Detail.aspx", 
+      "ingredients": "black pepper, cornstarch, olive oil, garlic powder, green pepper, italian seasoning, milk, pork, red pepper, red potatoes, salt, onions", 
+      "title": "Savory Pork Stew"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/779.jpg", 
+      "href": "http://allrecipes.com/Recipe/Kyles-Favorite-Beef-Stew/Detail.aspx", 
+      "ingredients": "beef, black pepper, burgundy wine, butter, carrot, cornstarch, parsley, flour, garlic, olive oil, onions, potato, salt, water, water, worcestershire sauce", 
+      "title": "Kyle's Favorite Beef Stew"
+    }
+  ], 
+  "title": "Recipe Puppy"
+}

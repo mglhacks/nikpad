@@ -1,0 +1,67 @@
+{
+  "href": "http://www.recipepuppy.com/", 
+  "version": 0.1, 
+  "results": [
+    {
+      "thumbnail": "http://img.recipepuppy.com/106.jpg", 
+      "href": "http://allrecipes.com/Recipe/Spicy-Garlic-and-Pepper-Shrimp/Detail.aspx", 
+      "ingredients": "cabbage, garlic, onions, red pepper flakes, shrimp, soy sauce, vegetable oil, water", 
+      "title": "Spicy Garlic and Pepper Shrimp"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/107.jpg", 
+      "href": "http://allrecipes.com/Recipe/Shrimp-Pad-Thai/Detail.aspx", 
+      "ingredients": "bean sprouts, bean sprouts, cilantro, eggs, fish sauce, garlic, ketchup, lemon, lemon juice, onions, peanuts, shrimp, peanuts, vegetable oil, sugar, white wine vinegar", 
+      "title": "Shrimp Pad Thai"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/108.jpg", 
+      "href": "http://allrecipes.com/Recipe/Ground-Pork-Cake-with-Salty-Egg-Haam-Daan-Ju-Yoke-Beng/Detail.aspx", 
+      "ingredients": "black pepper, broccoli, eggs, milk, ground pork, salt, duck, soy sauce, sugar", 
+      "title": "Ground Pork Cake with Salty Egg (Haam Daan Ju Yoke Beng)"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Moores-Cranberry-Gelatin-Salad-2/Detail.aspx", 
+      "ingredients": "apple, cranberries, orange, pineapple, pineapple juice, grapes, water, sugar", 
+      "title": "Moore's Cranberry Gelatin Salad"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/111.jpg", 
+      "href": "http://allrecipes.com/Recipe/Cranberry-Gelatin-Salad/Detail.aspx", 
+      "ingredients": "pecan, pineapple, water", 
+      "title": "Cranberry Gelatin Salad"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Moores-Cranberry-Gelatin-Salad/Detail.aspx", 
+      "ingredients": "apple, cranberries, orange, pineapple, grapes, water, water, sugar", 
+      "title": "Moore's Cranberry Gelatin Salad"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Cranberry-Gelatin-Salad-II/Detail.aspx", 
+      "ingredients": "salad dressing, apple, walnut", 
+      "title": "Cranberry Gelatin Salad II"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Eggnog-and-Cranberry-Salad-2/Detail.aspx", 
+      "ingredients": "lemon juice, nutmeg, pecan, water, water", 
+      "title": "Eggnog and Cranberry Salad"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/116.jpg", 
+      "href": "http://allrecipes.com/Recipe/Chocolate-Chip-Banana-Muffins/Detail.aspx", 
+      "ingredients": "baking powder, banana, cocoa powder, eggs, flour, salt, semisweet chocolate chips, sunflower seed, vanilla extract, sugar", 
+      "title": "Chocolate Chip Banana Muffins"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/117.jpg", 
+      "href": "http://allrecipes.com/Recipe/Banana-Chip-Muffins-I/Detail.aspx", 
+      "ingredients": "baking powder, banana, eggs, flour, milk, salt, semisweet chocolate chips, vegetable oil, sugar", 
+      "title": "Banana Chip Muffins I"
+    }
+  ], 
+  "title": "Recipe Puppy"
+}

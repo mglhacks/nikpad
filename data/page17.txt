@@ -1,0 +1,67 @@
+{
+  "href": "http://www.recipepuppy.com/", 
+  "version": 0.1, 
+  "results": [
+    {
+      "thumbnail": "http://img.recipepuppy.com/195.jpg", 
+      "href": "http://allrecipes.com/Recipe/Kielbasa-and-Potato-Bake/Detail.aspx", 
+      "ingredients": "black pepper, garlic, kielbasa, milk, potato, salt", 
+      "title": "Kielbasa and Potato Bake"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Potato-and-Bread-Cutlets/Detail.aspx", 
+      "ingredients": "bread, red pepper, cilantro, eggs, jalapeno, potato, salt, vegetable oil", 
+      "title": "Potato and Bread Cutlets"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Indiana-Potato-Salad/Detail.aspx", 
+      "ingredients": "bacon, potato, processed cheese, mayonnaise, onions", 
+      "title": "Indiana Potato Salad"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/199.jpg", 
+      "href": "http://allrecipes.com/Recipe/Baked-Potato-Salad-II/Detail.aspx", 
+      "ingredients": "american cheese, green olive, bacon, mayonnaise, onions, potato, salt", 
+      "title": "Baked Potato Salad II"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/200.jpg", 
+      "href": "http://allrecipes.com/Recipe/Yummy-Yellow-Taters/Detail.aspx", 
+      "ingredients": "potato, black pepper, butter, basil, food coloring, garlic, milk, onions, salt, salt, sour cream", 
+      "title": "Yummy Yellow Taters"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Baked-Potato-Salad-with-Dill/Detail.aspx", 
+      "ingredients": "potato, bean sprouts, celery, curry powder, lemon juice, mayonnaise, mustard, radish, walnut", 
+      "title": "Baked Potato Salad with Dill"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/203.jpg", 
+      "href": "http://allrecipes.com/Recipe/Bacon-Potato-and-Cheese-Tart/Detail.aspx", 
+      "ingredients": "bacon, potato, butter, fontina cheese, salt", 
+      "title": "Bacon, Potato and Cheese Tart"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/204.jpg", 
+      "href": "http://allrecipes.com/Recipe/Grilled-Cheese-and-Bacon-Potatoes/Detail.aspx", 
+      "ingredients": "bacon, potato, salt", 
+      "title": "Grilled Cheese and Bacon Potatoes"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/205.jpg", 
+      "href": "http://allrecipes.com/Recipe/Cheese-and-Bacon-Potato-Rounds/Detail.aspx", 
+      "ingredients": "bacon, potato, butter, cheddar cheese, green onion", 
+      "title": "Cheese and Bacon Potato Rounds"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/206.jpg", 
+      "href": "http://allrecipes.com/Recipe/Potato-Cheese-Casserole/Detail.aspx", 
+      "ingredients": "butter, cheddar cheese, green pepper, milk, parmesan cheese, black pepper, potato, salt, chives", 
+      "title": "Potato Cheese Casserole"
+    }
+  ], 
+  "title": "Recipe Puppy"
+}

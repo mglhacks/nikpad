@@ -1,0 +1,67 @@
+{
+  "href": "http://www.recipepuppy.com/", 
+  "version": 0.1, 
+  "results": [
+    {
+      "thumbnail": "http://img.recipepuppy.com/985.jpg", 
+      "href": "http://allrecipes.com/Recipe/Grilled-Chicken-Breast-with-Cucumber-and-Pepper-Relish/Detail.aspx", 
+      "ingredients": "chicken, chili powder, cucumber, cumin, olive oil, red onions, red pepper flakes, yellow bell pepper", 
+      "title": "Grilled Chicken Breast with Cucumber and Pepper Relish"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Grilled-Wonton-Chicken-Salad/Detail.aspx", 
+      "ingredients": "green onion, lettuce, vegetable oil, olive oil, black pepper, rice vinegar, salt, sugar, almonds, sesame seeds", 
+      "title": "Grilled Wonton Chicken Salad"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/987.jpg", 
+      "href": "http://allrecipes.com/Recipe/Grilled-Chicken-and-Orange-Salad/Detail.aspx", 
+      "ingredients": "chicken, garlic powder, ginger, green onion, soy sauce, vegetable oil, vinegar", 
+      "title": "Grilled Chicken and Orange Salad"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Spinach-Salad-with-Pistachio-Chicken/Detail.aspx", 
+      "ingredients": "avocado, black pepper, salad dressing, chicken, garlic powder, green onion, olive oil, parmesan cheese, tomato, pistachio nut, yellow bell pepper", 
+      "title": "Spinach Salad with Pistachio Chicken"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/989.jpg", 
+      "href": "http://allrecipes.com/Recipe/Cashew-Crusted-Chicken/Detail.aspx", 
+      "ingredients": "cashew, chicken, curry powder, dijon mustard", 
+      "title": "Cashew Crusted Chicken"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/990.jpg", 
+      "href": "http://allrecipes.com/Recipe/Pecan-Dijon-Chicken/Detail.aspx", 
+      "ingredients": "black pepper, butter, chicken, dijon mustard, honey, lemon juice, milk, mustard powder, orange juice, pecan, salt", 
+      "title": "Pecan Dijon Chicken"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/991.jpg", 
+      "href": "http://allrecipes.com/Recipe/Pecan-Chicken-Breasts-Stuffed-with-Cream-Cheese-and-Broccoli/Detail.aspx", 
+      "ingredients": "bread crumbs, butter, chicken, basil, eggs, garlic, lemon juice, onions, pecan, pecan, pimento, sour cream, vegetable oil", 
+      "title": "Pecan Chicken Breasts Stuffed with Cream Cheese and Broccoli"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Almond-Crusted-Chicken-with-Tomato-Citrus-Sauce/Detail.aspx", 
+      "ingredients": "almonds, black pepper, chicken, butter, cumin, curry powder, flour, garlic, olive oil, olive oil, orange, tomato, salt, salt, turmeric", 
+      "title": "Almond Crusted Chicken with Tomato Citrus Sauce"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/993.jpg", 
+      "href": "http://allrecipes.com/Recipe/Grilled-Mojo-Chicken-Salad-With-Asparagus-and-Oranges/Detail.aspx", 
+      "ingredients": "asparagus, oregano, olive oil, garlic, ginger, lime juice, orange juice concentrate, orange, chicken, salad greens, salt", 
+      "title": "Grilled Mojo Chicken Salad With Asparagus and Oranges"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/994.jpg", 
+      "href": "http://allrecipes.com/Recipe/Cola-Pork-Chops/Detail.aspx", 
+      "ingredients": "brown sugar, cola flavored carbonated beverage, ketchup, pork chops, salt", 
+      "title": "Cola Pork Chops"
+    }
+  ], 
+  "title": "Recipe Puppy"
+}

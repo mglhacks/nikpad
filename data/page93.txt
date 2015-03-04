@@ -1,0 +1,67 @@
+{
+  "href": "http://www.recipepuppy.com/", 
+  "version": 0.1, 
+  "results": [
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Easy-Raspberry-Chicken-with-Coconut-Rice/Detail.aspx", 
+      "ingredients": "rice, rosemary, flour, lemon pepper, vinegar, vegetable oil, water", 
+      "title": "Easy Raspberry Chicken with Coconut Rice"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/New-Years-Black-eyed-Peas/Detail.aspx", 
+      "ingredients": "butter, cheddar cheese, garlic powder, green pepper, onions, black pepper, salt, smoked sausage, water, rice", 
+      "title": "New Years Black-Eyed Peas"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Easy-Wakame-Brown-Rice/Detail.aspx", 
+      "ingredients": "avocado, rice, butter, salt, sesame seeds, water, water", 
+      "title": "Easy Wakame Brown Rice"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/1038.jpg", 
+      "href": "http://allrecipes.com/Recipe/Jamaican-Rice/Detail.aspx", 
+      "ingredients": "banana, rice, curry powder, molasses, flaked coconut, onions, apple, vegetable oil, water", 
+      "title": "Jamaican Rice"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Cheesy-Confetti-Rice/Detail.aspx", 
+      "ingredients": "butter, chicken bouillon, rice, monterey jack cheese, onions, water", 
+      "title": "Cheesy Confetti Rice"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/1040.jpg", 
+      "href": "http://allrecipes.com/Recipe/Matar-Pulao-with-Nuts/Detail.aspx", 
+      "ingredients": "rice, cardamom, cashew, cloves, cumin, peas, onions, salt, almonds, vegetable oil, water", 
+      "title": "Matar Pulao with Nuts"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Saffron-Rice-with-Raisins-and-Cashews/Detail.aspx", 
+      "ingredients": "rice, cardamom, cashew, butter, cloves, raisins, saffron, water, sugar", 
+      "title": "Saffron Rice with Raisins and Cashews"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/1042.jpg", 
+      "href": "http://allrecipes.com/Recipe/Peanut-Rice/Detail.aspx", 
+      "ingredients": "rice, peas, peanuts, salt, turmeric, water", 
+      "title": "Peanut Rice"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/1043.jpg", 
+      "href": "http://allrecipes.com/Recipe/Indian-Style-Basmati-Rice/Detail.aspx", 
+      "ingredients": "rice, cloves, cumin, onions, cardamom, salt, vegetable oil, water", 
+      "title": "Indian Style Basmati Rice"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Peas-Rice/Detail.aspx", 
+      "ingredients": "rice, butter, cloves, peas, salt, serrano pepper, water, sugar", 
+      "title": "Peas Rice"
+    }
+  ], 
+  "title": "Recipe Puppy"
+}

@@ -1,0 +1,67 @@
+{
+  "href": "http://www.recipepuppy.com/", 
+  "version": 0.1, 
+  "results": [
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Simple-Sweet-Potato-Soup/Detail.aspx", 
+      "ingredients": "vegetable broth, lime, cream, sweet potato, water", 
+      "title": "Simple Sweet Potato Soup"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Spicy-Pumpkin-and-Sweet-Potato-Soup/Detail.aspx", 
+      "ingredients": "black pepper, chicken broth, coriander seed, cumin, oregano, fennel seed, garlic, olive oil, onions, sweet potato, red pepper, salt, pumpkin puree", 
+      "title": "Spicy Pumpkin and Sweet Potato Soup"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Yellow-Dhal---Sweet-Potato-Soup/Detail.aspx", 
+      "ingredients": "jalapeno, onions, black pepper, sweet potato, tomato, turmeric, vegetable oil, water, lentils", 
+      "title": "Yellow Dhal - Sweet Potato Soup"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/1058.jpg", 
+      "href": "http://allrecipes.com/Recipe/Sweet-Potato-and-Apple-Soup/Detail.aspx", 
+      "ingredients": "bay leaf, carrot, celery, chicken broth, cream, feta cheese, olive oil, onions, salt, apple", 
+      "title": "Sweet Potato and Apple Soup"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Chicken-Vegetable-Soup-With-Pasta/Detail.aspx", 
+      "ingredients": "turkey, tarragon, carrot, celery, onions, pasta, vegetable oil", 
+      "title": "Chicken Vegetable Soup With Pasta"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/1061.jpg", 
+      "href": "http://allrecipes.com/Recipe/Swanson-Winter-Vegetable-Bean-Soup-with-Pesto/Detail.aspx", 
+      "ingredients": "bay leaf, carrot, celery, pesto, leek, potato, red pepper, vegetable broth, turnip", 
+      "title": "Swanson&#174; Winter Vegetable Bean Soup with Pesto"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/1062.jpg", 
+      "href": "http://allrecipes.com/Recipe/Easy-Vegetable-Soup/Detail.aspx", 
+      "ingredients": "green beans, carrot, parsley, thyme, garlic, onions, potato, vegetable oil", 
+      "title": "Easy Vegetable Soup"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/1063.jpg", 
+      "href": "http://allrecipes.com/Recipe/Creamy-Parsnip-With-Ginger-Soup/Detail.aspx", 
+      "ingredients": "allspice, butter, cardamom, cayenne, chicken broth, garlic, cranberries, ginger, half and half, olive oil, onions, parsnip, black pepper, sugar", 
+      "title": "Creamy Parsnip With Ginger Soup"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/1064.jpg", 
+      "href": "http://allrecipes.com/Recipe/Creamy-Potato-With-Rosemary-Soup/Detail.aspx", 
+      "ingredients": "butter, cayenne, chicken broth, garlic, bacon, half and half, olive oil, onions, potato, black pepper, sugar", 
+      "title": "Creamy Potato With Rosemary Soup"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Creamy-Cauliflower-With-Ginger-Soup/Detail.aspx", 
+      "ingredients": "butter, cayenne, chicken broth, garlic, soup, ginger, half and half, cauliflower, olive oil, onions, saffron, black pepper, sugar, turmeric", 
+      "title": "Creamy Cauliflower With Ginger Soup"
+    }
+  ], 
+  "title": "Recipe Puppy"
+}

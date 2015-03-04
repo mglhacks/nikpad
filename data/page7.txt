@@ -1,0 +1,67 @@
+{
+  "href": "http://www.recipepuppy.com/", 
+  "version": 0.1, 
+  "results": [
+    {
+      "thumbnail": "http://img.recipepuppy.com/70.jpg", 
+      "href": "http://allrecipes.com/Recipe/Hot-Apple-Cider/Detail.aspx", 
+      "ingredients": "allspice, apple cider, cinnamon, cloves, lemon zest, orange zest, maple syrup", 
+      "title": "Hot Apple Cider"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/71.jpg", 
+      "href": "http://allrecipes.com/Recipe/Hot-Spiked-Cider/Detail.aspx", 
+      "ingredients": "apple cider, butter, cinnamon, brown sugar, rum, tea bag, water", 
+      "title": "Hot Spiked Cider"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/72.jpg", 
+      "href": "http://allrecipes.com/Recipe/Cider-Wassail/Detail.aspx", 
+      "ingredients": "apple cider, brown sugar, cinnamon, cinnamon, cloves, lemon juice, orange juice, pineapple juice", 
+      "title": "Cider Wassail"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Piscola/Detail.aspx", 
+      "ingredients": "cola flavored carbonated beverage, ice, lime", 
+      "title": "Piscola"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Vaina/Detail.aspx", 
+      "ingredients": "bitters, brandy, cinnamon, powdered sugar, egg yolks, ice, port wine, sherry", 
+      "title": "Vaina"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/76.jpg", 
+      "href": "http://allrecipes.com/Recipe/Chocoholics-Nightcap/Detail.aspx", 
+      "ingredients": "cocoa powder, baileys, milk, water, sugar", 
+      "title": "Chocoholic's Nightcap"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Chilean-Cocktail/Detail.aspx", 
+      "ingredients": "condensed milk, ice, lemon, orange juice, pisco, vermouth", 
+      "title": "Chilean Cocktail"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/78.jpg", 
+      "href": "http://allrecipes.com/Recipe/Egg-Nog/Detail.aspx", 
+      "ingredients": "baileys, whiskey, eggs, milk, nutmeg", 
+      "title": "Egg Nog"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/80.jpg", 
+      "href": "http://allrecipes.com/Recipe/Caribbean-Chicken-Salad/Detail.aspx", 
+      "ingredients": "chicken, cider vinegar, tortilla chips, dijon mustard, honey, jalapeno, lime juice, onions, salad greens, sauce, tomato, vegetable oil, sugar", 
+      "title": "Caribbean Chicken Salad"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Southwest-Chicken-Salad-II/Detail.aspx", 
+      "ingredients": "tortilla chips, cabbage, cheddar cheese, chicken, green pepper, ranch dressing, salt", 
+      "title": "Southwest Chicken Salad II"
+    }
+  ], 
+  "title": "Recipe Puppy"
+}

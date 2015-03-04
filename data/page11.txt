@@ -1,0 +1,67 @@
+{
+  "href": "http://www.recipepuppy.com/", 
+  "version": 0.1, 
+  "results": [
+    {
+      "thumbnail": "http://img.recipepuppy.com/118.jpg", 
+      "href": "http://allrecipes.com/Recipe/Banana-Chocolate-Chip-Muffins/Detail.aspx", 
+      "ingredients": "baking powder, banana, vegetable oil, cocoa powder, eggs, flour, semisweet chocolate chips, sugar", 
+      "title": "Banana Chocolate Chip Muffins"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/119.jpg", 
+      "href": "http://allrecipes.com/Recipe/Chocolate-Chip-Banana-Muffins-2/Detail.aspx", 
+      "ingredients": "baking powder, baking soda, eggs, flour, yogurt, salt, semisweet chocolate chips, sugar, vanilla extract, vegetable oil", 
+      "title": "Chocolate Chip Banana Muffins"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/120.jpg", 
+      "href": "http://allrecipes.com/Recipe/Fudgy-Chocolate-Chip-Muffins/Detail.aspx", 
+      "ingredients": "applesauce, baking soda, cinnamon, cocoa powder, powdered sugar, eggs, flour, brown sugar, margarine, semisweet chocolate chips, vanilla extract, sugar", 
+      "title": "Fudgy Chocolate Chip Muffins"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/122.jpg", 
+      "href": "http://allrecipes.com/Recipe/Chicken-Breasts-in-Caper-Cream-Sauce/Detail.aspx", 
+      "ingredients": "butter, capers, chicken, dill weed, garlic powder, lemon pepper, salt, heavy cream", 
+      "title": "Chicken Breasts in Caper Cream Sauce"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Mushroom-Stuffed-Chicken-Breasts-in-a-Balsamic-Pan-Sauce/Detail.aspx", 
+      "ingredients": "balsamic vinegar, cornstarch, mushroom, thyme, garlic, honey, goat cheese, olive oil, white mushroom, salt, chicken, water", 
+      "title": "Mushroom-Stuffed Chicken Breasts in a Balsamic Pan Sauce"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Veggies-and-Chicken-in-Cream-Sauce/Detail.aspx", 
+      "ingredients": "chicken, garlic, mushroom, red onions, red pepper flakes, salt, sweet pickle relish, yellow bell pepper", 
+      "title": "Veggies and Chicken in Cream Sauce"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/125.jpg", 
+      "href": "http://allrecipes.com/Recipe/Nancys-Chicken-in-Puff-Pastry/Detail.aspx", 
+      "ingredients": "pastry shells, salt, vegetable oil", 
+      "title": "Nancy's Chicken in Puff Pastry"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Chicken-in-Onion-and-Mustard-Sauce/Detail.aspx", 
+      "ingredients": "applesauce, black pepper, butter, chicken, parsley, half and half, mustard, red onions, walnut, white wine", 
+      "title": "Chicken in Onion and Mustard Sauce"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/127.jpg", 
+      "href": "http://allrecipes.com/Recipe/Rosemary-Au-Gratin-Potatoes/Detail.aspx", 
+      "ingredients": "butter, flour, garlic, half and half, rosemary, parmesan cheese, black pepper, potato, salt", 
+      "title": "Rosemary Au Gratin Potatoes"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Vegan-Potatoes-au-Gratin/Detail.aspx", 
+      "ingredients": "black pepper, soy cheese, flour, mustard powder, nutmeg, paprika, potato, salt, bread crumbs, soy milk, vegetable broth", 
+      "title": "Vegan Potatoes au Gratin"
+    }
+  ], 
+  "title": "Recipe Puppy"
+}

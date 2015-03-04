@@ -1,0 +1,67 @@
+{
+  "href": "http://www.recipepuppy.com/", 
+  "version": 0.1, 
+  "results": [
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Apple-Cranberry-Cider/Detail.aspx", 
+      "ingredients": "apple cider, brown sugar, cinnamon, cloves, cranberry juice", 
+      "title": "Apple Cranberry Cider"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/328.jpg", 
+      "href": "http://allrecipes.com/Recipe/Citrus-Wassail/Detail.aspx", 
+      "ingredients": "apple juice, cinnamon, cloves, lemon juice, orange juice, pineapple juice, sugar", 
+      "title": "Citrus Wassail"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Holiday-Apple-Wassail/Detail.aspx", 
+      "ingredients": "anise seed, apple cider, apple, brown sugar, cinnamon, ginger, lemon, ground mace, nutmeg, orange", 
+      "title": "Holiday Apple Wassail"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Lemon-Pisco-Sour/Detail.aspx", 
+      "ingredients": "ice, lemon juice, pisco, sugar", 
+      "title": "Lemon Pisco Sour"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/332.jpg", 
+      "href": "http://allrecipes.com/Recipe/Sweet-Seduction/Detail.aspx", 
+      "ingredients": "banana liqueur, grenadine, ice, malibu, pineapple juice", 
+      "title": "Sweet Seduction"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Sidecar/Detail.aspx", 
+      "ingredients": "brandy, triple sec, ice, lemon, lemon juice", 
+      "title": "Sidecar"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/335.jpg", 
+      "href": "http://allrecipes.com/Recipe/Caipirinha/Detail.aspx", 
+      "ingredients": "cachaca, ice, lime, sugar", 
+      "title": "Caipirinha"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Slippery-Nipples/Detail.aspx", 
+      "ingredients": "butterscotch schnapps, baileys", 
+      "title": "Slippery Nipples"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Chocolate-Coffee-Kiss/Detail.aspx", 
+      "ingredients": "brandy, coffee, chocolate syrup, coffee flavored liqueur, whipped cream, creme de cacao, baileys, maraschino cherries", 
+      "title": "Chocolate Coffee Kiss"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Irish-Car-Bomb-II/Detail.aspx", 
+      "ingredients": "baileys, beer, whiskey", 
+      "title": "Irish Car Bomb II"
+    }
+  ], 
+  "title": "Recipe Puppy"
+}

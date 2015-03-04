@@ -1,0 +1,67 @@
+{
+  "href": "http://www.recipepuppy.com/", 
+  "version": 0.1, 
+  "results": [
+    {
+      "thumbnail": "http://img.recipepuppy.com/955.jpg", 
+      "href": "http://allrecipes.com/Recipe/Goldenrod-Eggs/Detail.aspx", 
+      "ingredients": "bread, butter, eggs, flour, milk, salt, white pepper", 
+      "title": "Goldenrod Eggs"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Sweet-Egg-Jelly/Detail.aspx", 
+      "ingredients": "eggs, milk, sugar", 
+      "title": "Sweet Egg Jelly"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/957.jpg", 
+      "href": "http://allrecipes.com/Recipe/Sausage-and-Egg-Casserole/Detail.aspx", 
+      "ingredients": "sausage, cheddar cheese, eggs, milk, mustard powder, salt, bread", 
+      "title": "Sausage and Egg Casserole"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Chocolate-Egg-Cream/Detail.aspx", 
+      "ingredients": "carbonated water, chocolate syrup, milk", 
+      "title": "Chocolate Egg Cream"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Orange-Cream-Milk-Punch/Detail.aspx", 
+      "ingredients": "milk, orange sorbet, vanilla ice cream", 
+      "title": "Orange Cream Milk Punch"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/960.jpg", 
+      "href": "http://allrecipes.com/Recipe/Orange-Cream-Milkshake/Detail.aspx", 
+      "ingredients": "milk, orange juice, vanilla ice cream", 
+      "title": "Orange Cream Milkshake"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/961.jpg", 
+      "href": "http://allrecipes.com/Recipe/Banana-Ice-Cream-Shake/Detail.aspx", 
+      "ingredients": "banana, egg whites, milk, vanilla ice cream, vanilla extract", 
+      "title": "Banana Ice Cream Shake"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/962.jpg", 
+      "href": "http://allrecipes.com/Recipe/Chocolate-Cream-Pudding/Detail.aspx", 
+      "ingredients": "butter, cornstarch, egg yolks, milk, salt, vanilla extract, sugar", 
+      "title": "Chocolate Cream Pudding"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/963.jpg", 
+      "href": "http://allrecipes.com/Recipe/Barbecue-BLT-Chicken-Salad/Detail.aspx", 
+      "ingredients": "bacon, barbecue sauce, celery, chicken, lemon juice, mayonnaise, black pepper, salad greens, salt, tomato", 
+      "title": "Barbecue BLT Chicken Salad"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/964.jpg", 
+      "href": "http://allrecipes.com/Recipe/Simple-Southwestern-Chicken-Salad/Detail.aspx", 
+      "ingredients": "celery, chicken, mayonnaise", 
+      "title": "Simple Southwestern Chicken Salad"
+    }
+  ], 
+  "title": "Recipe Puppy"
+}

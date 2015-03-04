@@ -1,0 +1,67 @@
+{
+  "href": "http://www.recipepuppy.com/", 
+  "version": 0.1, 
+  "results": [
+    {
+      "thumbnail": "http://img.recipepuppy.com/1106.jpg", 
+      "href": "http://allrecipes.com/Recipe/Party-Italian-Wedding-Soup/Detail.aspx", 
+      "ingredients": "ground beef, bread crumbs, carrot, celery, chicken, eggs, onions, dry pasta, salt", 
+      "title": "Party Italian Wedding Soup"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Party-Size-Potato-Chip-Chicken-Bake/Detail.aspx", 
+      "ingredients": "celery, cheddar cheese, chicken, green onion, lemon juice, mayonnaise, potato chips, salt, almonds", 
+      "title": "Party Size Potato Chip Chicken Bake"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Chicken-Hekka/Detail.aspx", 
+      "ingredients": "watercress, carrot, chicken, ginger, mirin, mushroom, onions, soy sauce, vegetable oil, sugar", 
+      "title": "Chicken Hekka"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/1109.jpg", 
+      "href": "http://allrecipes.com/Recipe/Chinese-Noodle-Chicken/Detail.aspx", 
+      "ingredients": "broccoli, carrot, chicken, noodles, onions, peas, teriyaki sauce, vegetable oil", 
+      "title": "Chinese Noodle Chicken"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/1110.jpg", 
+      "href": "http://allrecipes.com/Recipe/Chicken-Lo-Mein/Detail.aspx", 
+      "ingredients": "black pepper, chicken, chicken broth, cornstarch, garlic, green onion, rice vinegar, vegetable oil, shiitake mushroom, soy sauce, vegetable oil, water, sugar", 
+      "title": "Chicken Lo Mein"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/1111.jpg", 
+      "href": "http://allrecipes.com/Recipe/Slow-Cook-Thai-Chicken/Detail.aspx", 
+      "ingredients": "chicken, chicken broth, cornstarch, peanut butter, cumin, garlic, green onion, lime juice, onions, red pepper, red pepper flakes, peanuts, salt, soy sauce, soy sauce", 
+      "title": "Slow Cook Thai Chicken"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/1112.jpg", 
+      "href": "http://allrecipes.com/Recipe/General-Tsaos-Chicken/Detail.aspx", 
+      "ingredients": "chicken, chicken broth, chilies, cornstarch, cornstarch, eggs, garlic, green onion, monosodium glutamate, soy sauce, soy sauce, vegetable oil, water, white pepper, sugar, white wine vinegar", 
+      "title": "General Tsao's Chicken"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/1113.jpg", 
+      "href": "http://allrecipes.com/Recipe/Garlic-Shrimp-Pasta/Detail.aspx", 
+      "ingredients": "butter, garlic, parmesan cheese, shrimp, vegetable oil, vermicelli", 
+      "title": "Garlic Shrimp Pasta"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/1114.jpg", 
+      "href": "http://allrecipes.com/Recipe/Caribbean-Pasta-with-Shrimp/Detail.aspx", 
+      "ingredients": "allspice, brandy, brown sugar, chicken broth, chile paste, cilantro, cornstarch, curry powder, garlic, green pepper, olive oil, pasta, shallot, shrimp, soy sauce, tomato", 
+      "title": "Caribbean Pasta with Shrimp"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/1115.jpg", 
+      "href": "http://allrecipes.com/Recipe/Pasta-with-Grilled-Shrimp-and-Pineapple-Salsa/Detail.aspx", 
+      "ingredients": "jalapeno, lime juice, orange juice, pineapple, red pepper, red onions, pasta, shrimp", 
+      "title": "Pasta with Grilled Shrimp and Pineapple Salsa"
+    }
+  ], 
+  "title": "Recipe Puppy"
+}

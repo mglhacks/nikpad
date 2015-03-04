@@ -1,0 +1,67 @@
+{
+  "href": "http://www.recipepuppy.com/", 
+  "version": 0.1, 
+  "results": [
+    {
+      "thumbnail": "http://img.recipepuppy.com/82.jpg", 
+      "href": "http://allrecipes.com/Recipe/Southwest-Chicken-Salad-I/Detail.aspx", 
+      "ingredients": "chicken, chili powder, cilantro, cumin, garlic, lime juice, olive oil, parmesan cheese, red onions, romaine lettuce, salt, tomato, tortilla chips", 
+      "title": "Southwest Chicken Salad I"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/83.jpg", 
+      "href": "http://allrecipes.com/Recipe/Lime-Grilled-Chicken-Caesar-Salad/Detail.aspx", 
+      "ingredients": "croutons, chicken, salad dressing, green pepper, lettuce, lime, parmesan cheese, onions, tomato", 
+      "title": "Lime Grilled Chicken Caesar Salad"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/84.jpg", 
+      "href": "http://allrecipes.com/Recipe/Pecan-Crusted-Chicken-Salad/Detail.aspx", 
+      "ingredients": "blue cheese, chicken, salad dressing, cranberries, pecan, ranch dressing, romaine lettuce", 
+      "title": "Pecan Crusted Chicken Salad"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/86.jpg", 
+      "href": "http://allrecipes.com/Recipe/Pork-Chops-with-Sour-Cream-and-Mushroom-Sauce/Detail.aspx", 
+      "ingredients": "sour cream, pork chops", 
+      "title": "Pork Chops with Sour Cream and Mushroom Sauce"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/87.jpg", 
+      "href": "http://allrecipes.com/Recipe/Mushroom-Sauce-Baked-Pork-Chops/Detail.aspx", 
+      "ingredients": "black pepper, butter, garlic powder, milk, onions, pork chops, potato, salt", 
+      "title": "Mushroom Sauce Baked Pork Chops"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/88.jpg", 
+      "href": "http://allrecipes.com/Recipe/Pork-Chops-with-Mushroom-Onion-Gravy/Detail.aspx", 
+      "ingredients": "black pepper, marjoram, onions, pork chops, salt, water", 
+      "title": "Pork Chops with Mushroom Onion Gravy"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/89.jpg", 
+      "href": "http://allrecipes.com/Recipe/Grandmas-Pork-Chops-in-Mushroom-Gravy/Detail.aspx", 
+      "ingredients": "butter, cornstarch, garlic, pork chops, salt, sherry, water", 
+      "title": "Grandma's Pork Chops in Mushroom Gravy"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/90.jpg", 
+      "href": "http://allrecipes.com/Recipe/Pork-Chops-with-Burgundy-Mushroom-Sauce/Detail.aspx", 
+      "ingredients": "chicken broth, pork chops, dijon mustard, wine", 
+      "title": "Pork Chops with Burgundy Mushroom Sauce"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/92.jpg", 
+      "href": "http://allrecipes.com/Recipe/Maryland-Crab-Cakes-II/Detail.aspx", 
+      "ingredients": "bread crumbs, crabmeat, mustard powder, eggs, mayonnaise, hot sauce, salt", 
+      "title": "Maryland Crab Cakes II"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/True-Maryland-Crab-Cakes/Detail.aspx", 
+      "ingredients": "crabmeat, eggs, mayonnaise, pancake mix, vegetable oil, mustard", 
+      "title": "True Maryland Crab Cakes"
+    }
+  ], 
+  "title": "Recipe Puppy"
+}

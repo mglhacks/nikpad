@@ -1,0 +1,67 @@
+{
+  "href": "http://www.recipepuppy.com/", 
+  "version": 0.1, 
+  "results": [
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Mendelssohn/Detail.aspx", 
+      "ingredients": "club soda, ice", 
+      "title": "Mendelssohn"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Russian-Quaalude/Detail.aspx", 
+      "ingredients": "coffee flavored liqueur, half and half, hazelnut liqueur, ice, baileys, vodka", 
+      "title": "Russian Quaalude"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/631.jpg", 
+      "href": "http://allrecipes.com/Recipe/Chocolate-Banana-Martini/Detail.aspx", 
+      "ingredients": "banana, chocolate syrup, ice, milk", 
+      "title": "Chocolate Banana Martini"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/632.jpg", 
+      "href": "http://allrecipes.com/Recipe/Pomegranate-Martini-II/Detail.aspx", 
+      "ingredients": "cranberry juice, grenadine, ice, orange flavored liqueur, pomegranate juice, raspberry vodka", 
+      "title": "Pomegranate Martini II"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Tres-Chic-Pomegranate-Martini/Detail.aspx", 
+      "ingredients": "club soda, ice, lime, sugar, lime", 
+      "title": "Tres Chic Pomegranate Martini"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Pomegranate-Martini/Detail.aspx", 
+      "ingredients": "ice, lemon juice, sprite, lime, simple syrup", 
+      "title": "Pomegranate Martini"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Tangy-Pomegranate-Martini/Detail.aspx", 
+      "ingredients": "citron, lemon juice, lemon, pomegranate juice, simple syrup, sugar", 
+      "title": "Tangy Pomegranate Martini"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/The-Ultimate-Cosmopolitan/Detail.aspx", 
+      "ingredients": "cranberry juice, lemon juice, lime juice, peach schnapps, orange flavored liqueur, vodka", 
+      "title": "The Ultimate Cosmopolitan"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Trim-Raspberry-Martini/Detail.aspx", 
+      "ingredients": "raspberry vodka, cranberry juice, lemonade, triple sec", 
+      "title": "Trim Raspberry Martini"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/The-Lisa-tini-Martini/Detail.aspx", 
+      "ingredients": "champagne, ice, lemon, orange, orange liqueur", 
+      "title": "The Lisa-tini Martini"
+    }
+  ], 
+  "title": "Recipe Puppy"
+}

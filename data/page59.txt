@@ -1,0 +1,67 @@
+{
+  "href": "http://www.recipepuppy.com/", 
+  "version": 0.1, 
+  "results": [
+    {
+      "thumbnail": "http://img.recipepuppy.com/690.jpg", 
+      "href": "http://allrecipes.com/Recipe/Cream-Cheese-Christmas-Cookies/Detail.aspx", 
+      "ingredients": "butter, flour, sugar, pecan, pecan, sugar, salt, vanilla extract, sugar", 
+      "title": "Cream Cheese Christmas Cookies"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Cream-Cheese-Cookies-II/Detail.aspx", 
+      "ingredients": "baking soda, butter, powdered sugar, eggs, flour, brown sugar, pecan, pecan, salt, vanilla extract, sugar", 
+      "title": "Cream Cheese Cookies II"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Pistachio-Wreaths/Detail.aspx", 
+      "ingredients": "almond extract, baking powder, butter, eggs, flour, food coloring, pistachios, salt, vanilla extract, sugar", 
+      "title": "Pistachio Wreaths"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/693.jpg", 
+      "href": "http://allrecipes.com/Recipe/Sour-Cream-Sugar-Cookies-III/Detail.aspx", 
+      "ingredients": "flour, baking powder, butter, eggs, salt, sour cream, vanilla extract, sugar", 
+      "title": "Sour Cream Sugar Cookies III"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Sour-Cream-Sugar-Cookies-II/Detail.aspx", 
+      "ingredients": "flour, baking soda, butter, eggs, lard, salt, sour cream, sugar", 
+      "title": "Sour Cream Sugar Cookies II"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/695.jpg", 
+      "href": "http://allrecipes.com/Recipe/Sour-Cream-Sugar-Cookies-I/Detail.aspx", 
+      "ingredients": "baking powder, baking soda, butter, powdered sugar, eggs, evaporated milk, flour, salt, salt, sour cream, vanilla extract, vanilla extract, sugar", 
+      "title": "Sour Cream Sugar Cookies I"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/696.jpg", 
+      "href": "http://allrecipes.com/Recipe/The-Best-Rolled-Sugar-Cookies/Detail.aspx", 
+      "ingredients": "baking powder, butter, eggs, flour, salt, vanilla extract, sugar", 
+      "title": "The Best Rolled Sugar Cookies"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/697.jpg", 
+      "href": "http://allrecipes.com/Recipe/Ice-Cream-Kolacky/Detail.aspx", 
+      "ingredients": "butter, flour, fruit preserves, vanilla ice cream", 
+      "title": "Ice Cream Kolacky"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/698.jpg", 
+      "href": "http://allrecipes.com/Recipe/Cream-Cheese-Cut-Outs-I/Detail.aspx", 
+      "ingredients": "butter, powdered sugar, flour, salt", 
+      "title": "Cream Cheese Cut-Outs I"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/699.jpg", 
+      "href": "http://allrecipes.com/Recipe/Cream-Cheese-Chocolate-Chip-Cookies/Detail.aspx", 
+      "ingredients": "baking powder, brown sugar, eggs, flour, margarine, milk chocolate chips, salt, vanilla extract, sugar", 
+      "title": "Cream Cheese Chocolate Chip Cookies"
+    }
+  ], 
+  "title": "Recipe Puppy"
+}

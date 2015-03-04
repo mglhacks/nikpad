@@ -1,0 +1,67 @@
+{
+  "href": "http://www.recipepuppy.com/", 
+  "version": 0.1, 
+  "results": [
+    {
+      "thumbnail": "http://img.recipepuppy.com/710.jpg", 
+      "href": "http://allrecipes.com/Recipe/Almond-Fudge-Topped-Shortbread/Detail.aspx", 
+      "ingredients": "almond extract, butter, powdered sugar, almonds, flour, salt, semisweet chocolate chips", 
+      "title": "Almond Fudge Topped Shortbread"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Laura-Shirks-Shortbread/Detail.aspx", 
+      "ingredients": "butter, flour, salt, sugar", 
+      "title": "Laura Shirk's Shortbread"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/712.jpg", 
+      "href": "http://allrecipes.com/Recipe/Shortbread-Cookies-III/Detail.aspx", 
+      "ingredients": "butter, powdered sugar, cornstarch, flour, salt", 
+      "title": "Shortbread Cookies III"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Almond-Pie-Bars/Detail.aspx", 
+      "ingredients": "almond extract, almond, butter, butter, powdered sugar, eggs, flour, flour, corn syrup, sugar", 
+      "title": "Almond Pie Bars"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/714.jpg", 
+      "href": "http://allrecipes.com/Recipe/Raspberry-Jam-Bars/Detail.aspx", 
+      "ingredients": "baking powder, butter, butter, eggs, eggs, flaked coconut, flour, milk, raspberry jam, sugar", 
+      "title": "Raspberry Jam Bars"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/715.jpg", 
+      "href": "http://allrecipes.com/Recipe/Almond-Bars/Detail.aspx", 
+      "ingredients": "almond extract, butter, powdered sugar, eggs, flour, sugar", 
+      "title": "Almond Bars"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/716.jpg", 
+      "href": "http://allrecipes.com/Recipe/Almond-Raspberry-Diamonds/Detail.aspx", 
+      "ingredients": "almond extract, almonds, butter, eggs, flour, raspberry jam, salt, sugar", 
+      "title": "Almond Raspberry Diamonds"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Coconut-Raspberry-Bars/Detail.aspx", 
+      "ingredients": "baking powder, butter, eggs, flaked coconut, flour, sugar, vanilla chip, vanilla extract, walnut", 
+      "title": "Coconut Raspberry Bars"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/718.jpg", 
+      "href": "http://allrecipes.com/Recipe/Berry-Shortbread-Dreams/Detail.aspx", 
+      "ingredients": "almond extract, almond extract, butter, powdered sugar, flour, glaze, raspberry jam, sugar, water", 
+      "title": "Berry Shortbread Dreams"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/719.jpg", 
+      "href": "http://allrecipes.com/Recipe/Chocolate-Covered-Caramel-Surprise-Cookies/Detail.aspx", 
+      "ingredients": "baking soda, brown sugar, butter, chocolate, cocoa powder, eggs, flour, pecan, vanilla extract, white chocolate chips, sugar, sugar", 
+      "title": "Chocolate Covered Caramel Surprise Cookies"
+    }
+  ], 
+  "title": "Recipe Puppy"
+}

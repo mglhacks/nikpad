@@ -1,0 +1,67 @@
+{
+  "href": "http://www.recipepuppy.com/", 
+  "version": 0.1, 
+  "results": [
+    {
+      "thumbnail": "http://img.recipepuppy.com/975.jpg", 
+      "href": "http://allrecipes.com/Recipe/Chinese-Chicken-Salad-III/Detail.aspx", 
+      "ingredients": "brown sugar, carrot, chicken, chile paste, ginger, green onion, hoisin sauce, peanut butter, rice vinegar, romaine lettuce, vegetable oil", 
+      "title": "Chinese Chicken Salad III"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Easy-Yummy-Chinese-Chicken-Salad/Detail.aspx", 
+      "ingredients": "chicken, green onion, cabbage, lettuce, rice vinegar, soy sauce, almonds, vegetable oil", 
+      "title": "Easy Yummy Chinese Chicken Salad"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/977.jpg", 
+      "href": "http://allrecipes.com/Recipe/Chinese-Chicken-Salad-II/Detail.aspx", 
+      "ingredients": "almonds, black pepper, chicken, green onion, lettuce, poppy seeds, salt, vegetable oil, vinegar, sugar", 
+      "title": "Chinese Chicken Salad II"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Chinese-Chicken-Rice-Salad/Detail.aspx", 
+      "ingredients": "rice, celery, chicken, green onion, lemon juice, olive oil, red pepper, salt, soy sauce, teriyaki sauce, water, water chestnuts", 
+      "title": "Chinese Chicken Rice Salad"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/979.jpg", 
+      "href": "http://allrecipes.com/Recipe/Santa-Fe-Chicken-Salad/Detail.aspx", 
+      "ingredients": "cheddar cheese, chicken, green onion, lettuce, salad dressing, mayonnaise, ranch dressing, romaine lettuce, salsa, tomato", 
+      "title": "Santa Fe Chicken Salad"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/980.jpg", 
+      "href": "http://allrecipes.com/Recipe/Company-Chicken-Pasta-Salad-with-Grapes/Detail.aspx", 
+      "ingredients": "celery, cumin, curry powder, grapes, mayonnaise, chicken, rice vinegar, salt, seashell pasta, white pepper, sugar", 
+      "title": "Company Chicken Pasta Salad with Grapes"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Curried-Chicken-Salad/Detail.aspx", 
+      "ingredients": "bacon, celery, chicken, curry powder, grapes, lemon juice, mayonnaise, red onions, salt, worcestershire sauce", 
+      "title": "Curried Chicken Salad"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/982.jpg", 
+      "href": "http://allrecipes.com/Recipe/Carols-Chicken-Salad/Detail.aspx", 
+      "ingredients": "black pepper, celery, chicken, garlic powder, green onion, grapes, lemon juice, mayonnaise, onion powder, poultry seasoning, salt, swiss cheese", 
+      "title": "Carol's Chicken Salad"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/983.jpg", 
+      "href": "http://allrecipes.com/Recipe/Spicy-Grilled-Chicken/Detail.aspx", 
+      "ingredients": "black pepper, chicken, garlic, lime juice, lime zest, oregano, red pepper flakes, salt, vegetable oil", 
+      "title": "Spicy Grilled Chicken"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Flip-Flop-Grilled-Chicken/Detail.aspx", 
+      "ingredients": "black pepper, butter, chicken, green pepper, salt, steak sauce", 
+      "title": "Flip Flop Grilled Chicken"
+    }
+  ], 
+  "title": "Recipe Puppy"
+}

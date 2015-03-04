@@ -1,0 +1,67 @@
+{
+  "href": "http://www.recipepuppy.com/", 
+  "version": 0.1, 
+  "results": [
+    {
+      "thumbnail": "http://img.recipepuppy.com/650.jpg", 
+      "href": "http://allrecipes.com/Recipe/Potato-Ham-Bake/Detail.aspx", 
+      "ingredients": "ham, american cheese, onions, peas, potato", 
+      "title": "Potato Ham Bake"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Potato-Asparagus-Bake/Detail.aspx", 
+      "ingredients": "asparagus, bread crumbs, butter, flour, heavy cream, parmesan cheese, black pepper, potato, salt", 
+      "title": "Potato Asparagus Bake"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/652.jpg", 
+      "href": "http://allrecipes.com/Recipe/Scrumptious-Beef-and-Potato-Casserole/Detail.aspx", 
+      "ingredients": "beef, black pepper, cheddar cheese, milk, onions, potato, salt, shortening, sour cream, water, cereal", 
+      "title": "Scrumptious Beef and Potato Casserole"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/653.jpg", 
+      "href": "http://allrecipes.com/Recipe/Homestyle-Potato-chips/Detail.aspx", 
+      "ingredients": "vegetable oil, potato, salt", 
+      "title": "Homestyle Potato chips"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Potato-Tacos/Detail.aspx", 
+      "ingredients": "cheddar cheese, green onion, milk, potato, ranch dressing", 
+      "title": "Potato Tacos"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/655.jpg", 
+      "href": "http://allrecipes.com/Recipe/Cheesy-Fried-Potatoes/Detail.aspx", 
+      "ingredients": "bacon, butter, cheddar cheese, eggs, onions, potato, salt", 
+      "title": "Cheesy Fried Potatoes"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/656.jpg", 
+      "href": "http://allrecipes.com/Recipe/Potato-Dumplings-with-Bacon-and-Onions/Detail.aspx", 
+      "ingredients": "bacon, eggs, flour, onions, potato", 
+      "title": "Potato Dumplings with Bacon and Onions"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/657.jpg", 
+      "href": "http://allrecipes.com/Recipe/Garden-Potato-Salad/Detail.aspx", 
+      "ingredients": "celery, salad dressing, eggs, eggs, green onion, mayonnaise, mustard powder, black pepper, potato, radish, salt, salt, sugar, vinegar", 
+      "title": "Garden Potato Salad"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/658.jpg", 
+      "href": "http://allrecipes.com/Recipe/German-Potato-Salad/Detail.aspx", 
+      "ingredients": "bacon, flour, green onion, potato, salt, water, sugar, white wine vinegar", 
+      "title": "German Potato Salad"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/659.jpg", 
+      "href": "http://allrecipes.com/Recipe/Baked-Potato-Salad-I/Detail.aspx", 
+      "ingredients": "american cheese, bacon, olives, mayonnaise, onions, potato, salt", 
+      "title": "Baked Potato Salad I"
+    }
+  ], 
+  "title": "Recipe Puppy"
+}

@@ -1,0 +1,67 @@
+{
+  "href": "http://www.recipepuppy.com/", 
+  "version": 0.1, 
+  "results": [
+    {
+      "thumbnail": "http://img.recipepuppy.com/660.jpg", 
+      "href": "http://allrecipes.com/Recipe/Southern-Potato-Salad/Detail.aspx", 
+      "ingredients": "celery, eggs, garlic, mayonnaise, mustard, potato, salt, sweet relish", 
+      "title": "Southern Potato Salad"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Potato-Salad-with-Cream/Detail.aspx", 
+      "ingredients": "black pepper, butter, red pepper, eggs, heavy cream, mustard powder, onions, potato, salt, vinegar", 
+      "title": "Potato Salad with Cream"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Addictive-Mashed-Potatoes/Detail.aspx", 
+      "ingredients": "black pepper, brown sugar, butter, chicken bouillon granule, cream cheese, parsley, olive oil, soy sauce, parmesan cheese, potato, salt, sour cream, heavy cream, onions", 
+      "title": "Addictive Mashed Potatoes"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Campers-Potatoes/Detail.aspx", 
+      "ingredients": "butter, potato, red onions", 
+      "title": "Camper's Potatoes"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Yummy-Pesto-Mashed-Potatoes/Detail.aspx", 
+      "ingredients": "pesto, butter, milk, potato", 
+      "title": "Yummy Pesto Mashed Potatoes"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/665.jpg", 
+      "href": "http://allrecipes.com/Recipe/Restaurant-Style-Potato-Salad/Detail.aspx", 
+      "ingredients": "black pepper, carrot, celery, parsley, mayonnaise, mustard, pimento, potato, salt, sweet pickle relish, onions, sugar, white wine vinegar", 
+      "title": "Restaurant-Style Potato Salad"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/666.jpg", 
+      "href": "http://allrecipes.com/Recipe/Dill-Sour-Cream-Potato-Salad/Detail.aspx", 
+      "ingredients": "celery, dill pickle, dill weed, green onion, black pepper, potato, salt, sour cream, tomato, vegetable oil, vinegar", 
+      "title": "Dill Sour Cream Potato Salad"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/667.jpg", 
+      "href": "http://allrecipes.com/Recipe/Old-Fashioned-Potato-Salad/Detail.aspx", 
+      "ingredients": "black pepper, celery, celery seed, eggs, garlic salt, mayonnaise, mustard, onions, potato, sweet pickle relish", 
+      "title": "Old Fashioned Potato Salad"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Chili-Cheese-Potato-Skins/Detail.aspx", 
+      "ingredients": "potato, ground beef, processed cheese, chili powder, margarine, vegetable oil, salt", 
+      "title": "Chili Cheese Potato Skins"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Campfire-Potatoes/Detail.aspx", 
+      "ingredients": "butter, cheddar cheese, chicken broth, onions, potato, salt, worcestershire sauce", 
+      "title": "Campfire Potatoes"
+    }
+  ], 
+  "title": "Recipe Puppy"
+}

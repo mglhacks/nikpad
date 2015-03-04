@@ -1,0 +1,67 @@
+{
+  "href": "http://www.recipepuppy.com/", 
+  "version": 0.1, 
+  "results": [
+    {
+      "thumbnail": "http://img.recipepuppy.com/840.jpg", 
+      "href": "http://allrecipes.com/Recipe/Linguine-with-Fresh-Tomatoes/Detail.aspx", 
+      "ingredients": "butter, garlic, green onion, linguine, parmesan cheese, black pepper, salt, tomato", 
+      "title": "Linguine with Fresh Tomatoes"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Fried-Red-Tomatoes-with-Gravy/Detail.aspx", 
+      "ingredients": "black pepper, brown sugar, flour, flour, half and half, salt, salt, tomato, vegetable oil", 
+      "title": "Fried Red Tomatoes with Gravy"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/843.jpg", 
+      "href": "http://allrecipes.com/Recipe/Tofu-and-Cheese-Stuffed-Shells/Detail.aspx", 
+      "ingredients": "carrot, basil, oregano, egg whites, garlic, garlic powder, monterey jack cheese, mozzarella cheese, onions, black pepper, ricotta cheese, salt, tomato paste, zucchini", 
+      "title": "Tofu and Cheese Stuffed Shells"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/844.jpg", 
+      "href": "http://allrecipes.com/Recipe/Garlic-Angel-Hair-Pasta/Detail.aspx", 
+      "ingredients": "pasta, butter, garlic, garlic salt, parmesan cheese, chives", 
+      "title": "Garlic Angel Hair Pasta"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/845.jpg", 
+      "href": "http://allrecipes.com/Recipe/Fried-Garlic-Pasta/Detail.aspx", 
+      "ingredients": "pasta, garlic, olive oil, parmesan cheese", 
+      "title": "Fried Garlic Pasta"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Spinach-Sausage-and-Cheese-Bake/Detail.aspx", 
+      "ingredients": "cottage cheese, eggs, sausage, mozzarella cheese, parmesan cheese", 
+      "title": "Spinach, Sausage and Cheese Bake"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/847.jpg", 
+      "href": "http://allrecipes.com/Recipe/Cheryls-Spinach-Cheesy-Pasta-Casserole/Detail.aspx", 
+      "ingredients": "bread crumbs, eggs, olive oil", 
+      "title": "Cheryl's Spinach Cheesy Pasta Casserole"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/848.jpg", 
+      "href": "http://allrecipes.com/Recipe/Cottage-Cheese-Spinach-Chicken/Detail.aspx", 
+      "ingredients": "butter, seasoning, chicken, cottage cheese, yellow onions", 
+      "title": "Cottage Cheese Spinach Chicken"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/849.jpg", 
+      "href": "http://allrecipes.com/Recipe/Pasta-With-White-Clam-Sauce/Detail.aspx", 
+      "ingredients": "garlic, lemon juice, olive oil, onions, pasta, red pepper, sauce, white wine", 
+      "title": "Pasta With White Clam Sauce"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Easy-Spinach-Lasagna-with-White-Sauce/Detail.aspx", 
+      "ingredients": "pasta sauce, carrot, eggs, mozzarella cheese, mushroom, ricotta cheese, skim milk", 
+      "title": "Easy Spinach Lasagna with White Sauce"
+    }
+  ], 
+  "title": "Recipe Puppy"
+}

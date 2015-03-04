@@ -1,0 +1,67 @@
+{
+  "href": "http://www.recipepuppy.com/", 
+  "version": 0.1, 
+  "results": [
+    {
+      "thumbnail": "http://img.recipepuppy.com/166.jpg", 
+      "href": "http://allrecipes.com/Recipe/Moms-Good-Cinnamon-Rolls/Detail.aspx", 
+      "ingredients": "cinnamon, eggs, flour, salt, vegetable oil, water, sugar, sugar", 
+      "title": "Mom's Good Cinnamon Rolls"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/167.jpg", 
+      "href": "http://allrecipes.com/Recipe/Overnight-Cinnamon-Rolls-I/Detail.aspx", 
+      "ingredients": "brown sugar, butter, cinnamon, powdered sugar, eggs, flour, glaze, half and half, corn syrup, milk, raisins, salt, vanilla extract, sugar", 
+      "title": "Overnight Cinnamon Rolls I"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/168.jpg", 
+      "href": "http://allrecipes.com/Recipe/Mothers-Cinnamon-Rolls/Detail.aspx", 
+      "ingredients": "butter, butter, cinnamon, powdered sugar, eggs, flour, icing, milk, milk, raisins, salt, sugar, sugar, vanilla extract, walnut, water", 
+      "title": "Mother's Cinnamon Rolls"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/170.jpg", 
+      "href": "http://allrecipes.com/Recipe/Grandma-VanDorens-White-Bread/Detail.aspx", 
+      "ingredients": "bread flour, salt, vegetable oil, water, sugar, yeast", 
+      "title": "Grandma VanDoren's White Bread"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Fresh-Yeast-Bread/Detail.aspx", 
+      "ingredients": "bread flour, salt, shortening, water, water, sugar", 
+      "title": "Fresh Yeast Bread"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/172.jpg", 
+      "href": "http://allrecipes.com/Recipe/Traditional-White-Bread/Detail.aspx", 
+      "ingredients": "bread flour, lard, salt, water, sugar", 
+      "title": "Traditional White Bread"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/173.jpg", 
+      "href": "http://allrecipes.com/Recipe/Onion-Bread-II/Detail.aspx", 
+      "ingredients": "bread flour, butter, oregano, onions, onions, salt, shortening, water, sugar", 
+      "title": "Onion Bread II"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/175.jpg", 
+      "href": "http://allrecipes.com/Recipe/Sazerac-2/Detail.aspx", 
+      "ingredients": "liqueur, bourbon, ice, lemon, bitters, water, sugar", 
+      "title": "Sazerac"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Classic-Old-Fashioned/Detail.aspx", 
+      "ingredients": "bitters, ice, maraschino cherries, orange, simple syrup, water", 
+      "title": "Classic Old Fashioned"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/177.jpg", 
+      "href": "http://allrecipes.com/Recipe/Liquid-Valium/Detail.aspx", 
+      "ingredients": "coconut rum, cranberry juice, ice, orange juice, peach schnapps, whiskey", 
+      "title": "Liquid Valium"
+    }
+  ], 
+  "title": "Recipe Puppy"
+}

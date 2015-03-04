@@ -1,0 +1,67 @@
+{
+  "href": "http://www.recipepuppy.com/", 
+  "version": 0.1, 
+  "results": [
+    {
+      "thumbnail": "http://img.recipepuppy.com/474.jpg", 
+      "href": "http://allrecipes.com/Recipe/Chocolate-Chocolate-Chip-Nut-Muffins/Detail.aspx", 
+      "ingredients": "almond, baking powder, baking soda, cocoa powder, eggs, flour, milk, salt, semisweet chocolate chips, vanilla extract, vegetable oil, walnut, sugar, sugar", 
+      "title": "Chocolate Chocolate Chip Nut Muffins"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/475.jpg", 
+      "href": "http://allrecipes.com/Recipe/Chicken-Breasts-with-Lime-Sauce/Detail.aspx", 
+      "ingredients": "bread crumbs, butter, chicken, dill weed, eggs, lime, olive oil", 
+      "title": "Chicken Breasts with Lime Sauce"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/476.jpg", 
+      "href": "http://allrecipes.com/Recipe/Pecan-Breaded-Chicken-Breasts/Detail.aspx", 
+      "ingredients": "butter, chicken, flour, pecan, maple syrup, salt, vegetable oil", 
+      "title": "Pecan Breaded Chicken Breasts"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/477.jpg", 
+      "href": "http://allrecipes.com/Recipe/Easy-Olive-Martini-Chicken/Detail.aspx", 
+      "ingredients": "butter, chicken, garlic, gin, lemon juice, olive oil, black pepper, green olives, salt, vermouth", 
+      "title": "Easy Olive Martini Chicken"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/478.jpg", 
+      "href": "http://allrecipes.com/Recipe/Chicken-Scampi-II/Detail.aspx", 
+      "ingredients": "butter, chicken, basil, oregano, parsley, garlic, lemon juice, olive oil, salt", 
+      "title": "Chicken Scampi II"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/479.jpg", 
+      "href": "http://allrecipes.com/Recipe/Chicken-Breasts-With-Herb-Basting-Sauce/Detail.aspx", 
+      "ingredients": "black pepper, chicken, marjoram, rosemary, thyme, garlic, olive oil, onions, hot sauce, sage, salt", 
+      "title": "Chicken Breasts With Herb Basting Sauce"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/480.jpg", 
+      "href": "http://allrecipes.com/Recipe/Baked-Honey-Nut-Chicken/Detail.aspx", 
+      "ingredients": "bread crumbs, butter, chicken, eggs, honey, pecans, salt", 
+      "title": "Baked Honey Nut Chicken"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Heathers-Best-Ever-Baked-Chicken/Detail.aspx", 
+      "ingredients": "bread crumbs, chicken, cracked black pepper, parmesan cheese, ranch dressing, sage, salt", 
+      "title": "Heather's Best Ever Baked Chicken"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Hackin-Chicken/Detail.aspx", 
+      "ingredients": "barbecue sauce, chicken, ham, monterey jack cheese", 
+      "title": "Hackin Chicken"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/483.jpg", 
+      "href": "http://allrecipes.com/Recipe/Pepper-Jelly-Glazed-Chicken/Detail.aspx", 
+      "ingredients": "chicken, dijon mustard, honey, pepper jelly", 
+      "title": "Pepper Jelly Glazed Chicken"
+    }
+  ], 
+  "title": "Recipe Puppy"
+}

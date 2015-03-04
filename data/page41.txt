@@ -1,0 +1,67 @@
+{
+  "href": "http://www.recipepuppy.com/", 
+  "version": 0.1, 
+  "results": [
+    {
+      "thumbnail": "http://img.recipepuppy.com/504.jpg", 
+      "href": "http://allrecipes.com/Recipe/Deluxe-Mashed-Potatoes/Detail.aspx", 
+      "ingredients": "butter, chives, onion powder, paprika, black pepper, potato, sour cream", 
+      "title": "Deluxe Mashed Potatoes"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/505.jpg", 
+      "href": "http://allrecipes.com/Recipe/Rich-Mashed-Potatoes-2/Detail.aspx", 
+      "ingredients": "butter, garlic powder, onion powder, black pepper, potato, sour cream", 
+      "title": "Rich Mashed Potatoes"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/506.jpg", 
+      "href": "http://allrecipes.com/Recipe/Traditional-Mashed-Potatoes/Detail.aspx", 
+      "ingredients": "butter, milk, black pepper, potato, salt", 
+      "title": "Traditional Mashed Potatoes"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/507.jpg", 
+      "href": "http://allrecipes.com/Recipe/Spinach-Potatoes-Au-Gratin/Detail.aspx", 
+      "ingredients": "bacon, butter, cheddar cheese, flour, milk, onions, chili pepper, red potatoes, salt, water", 
+      "title": "Spinach Potatoes Au Gratin"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/508.jpg", 
+      "href": "http://allrecipes.com/Recipe/Au-Gratin-Potatoes-II/Detail.aspx", 
+      "ingredients": "potato, cheddar cheese, cornflakes, green onion, sour cream, butter", 
+      "title": "Au Gratin Potatoes II"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/509.jpg", 
+      "href": "http://allrecipes.com/Recipe/Three-Cheese-Garlic-Scalloped-Potatoes/Detail.aspx", 
+      "ingredients": "butter, cheddar cheese, garlic, romano cheese, heavy cream, provolone cheese, salt, potato", 
+      "title": "Three Cheese Garlic Scalloped Potatoes"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Easy-Cheese-and-Ham-Scalloped-Potatoes/Detail.aspx", 
+      "ingredients": "garlic, ham, heavy cream, onions, cheddar cheese, potato", 
+      "title": "Easy Cheese and Ham Scalloped Potatoes"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/511.jpg", 
+      "href": "http://allrecipes.com/Recipe/Bacon-Cheese-Potatoes/Detail.aspx", 
+      "ingredients": "bacon, olives, mayonnaise, onions, paprika, potato, american cheese", 
+      "title": "Bacon Cheese Potatoes"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/512.jpg", 
+      "href": "http://allrecipes.com/Recipe/Supreme-Scalloped-Potatoes/Detail.aspx", 
+      "ingredients": "butter, cheddar cheese, milk, onions, black pepper, potato, salt, sour cream", 
+      "title": "Supreme Scalloped Potatoes"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/513.jpg", 
+      "href": "http://allrecipes.com/Recipe/Peppery-Scalloped-Potatoes/Detail.aspx", 
+      "ingredients": "potato, butter, cayenne, flour, milk, salt", 
+      "title": "Peppery Scalloped Potatoes"
+    }
+  ], 
+  "title": "Recipe Puppy"
+}

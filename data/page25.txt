@@ -1,0 +1,67 @@
+{
+  "href": "http://www.recipepuppy.com/", 
+  "version": 0.1, 
+  "results": [
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Pasta-Shells-Florentine/Detail.aspx", 
+      "ingredients": "egg whites, italian seasoning, pasta shells, cottage cheese, mozzarella cheese, nutmeg, parmesan cheese", 
+      "title": "Pasta Shells Florentine"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/301.jpg", 
+      "href": "http://allrecipes.com/Recipe/Chicken-and-Bowtie-Pasta-with-Asiago-Cream-Sauce/Detail.aspx", 
+      "ingredients": "asiago cheese, butter, chicken, cornstarch, cube chicken bouillon, heavy cream, mushroom, parsley, prosciutto, vegetable oil", 
+      "title": "Chicken and Bowtie Pasta with Asiago Cream Sauce"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/302.jpg", 
+      "href": "http://allrecipes.com/Recipe/Bow-Tie-Pasta-With-Red-Pepper-Sauce/Detail.aspx", 
+      "ingredients": "balsamic vinegar, black pepper, peas, pasta, chicken broth, honey, red pepper, salt, tomato paste", 
+      "title": "Bow-Tie Pasta With Red Pepper Sauce"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/303.jpg", 
+      "href": "http://allrecipes.com/Recipe/Sausage-and-Bow-tie-Pasta-Florentine/Detail.aspx", 
+      "ingredients": "black pepper, garlic, sausage, olive oil", 
+      "title": "Sausage and Bow-tie Pasta Florentine"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/304.jpg", 
+      "href": "http://allrecipes.com/Recipe/Awesome-Bow-Tie-Pasta/Detail.aspx", 
+      "ingredients": "balsamic vinegar, olive oil, green onion", 
+      "title": "Awesome Bow Tie Pasta"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Ritas-Pasta-and-Meat-Sauce/Detail.aspx", 
+      "ingredients": "ground beef, carrot, cayenne, parsley, garlic, blue cheese, green pepper, onions, onion powder, salt, tomato sauce, tomato, sugar", 
+      "title": "Rita's Pasta and Meat Sauce"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/307.jpg", 
+      "href": "http://allrecipes.com/Recipe/Tonys-Summer-Pasta-2/Detail.aspx", 
+      "ingredients": "black pepper, garlic, garlic salt, mozzarella cheese, olive oil, tomato", 
+      "title": "Tony's Summer Pasta"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/308.jpg", 
+      "href": "http://allrecipes.com/Recipe/Summer-Pasta-with-Basil-Tomatoes-and-Cheese/Detail.aspx", 
+      "ingredients": "asiago cheese, black pepper, sherry, fontina cheese, garlic, olive oil, red pepper flakes, salt, pasta, tomato", 
+      "title": "Summer Pasta with Basil, Tomatoes and Cheese"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/309.jpg", 
+      "href": "http://allrecipes.com/Recipe/Summer-Pasta-Dlite/Detail.aspx", 
+      "ingredients": "pasta, olives, cucumber, garlic, olive oil, onions, salt, tomato", 
+      "title": "Summer Pasta D'lite"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/311.jpg", 
+      "href": "http://allrecipes.com/Recipe/Greek-Pasta-with-Tomatoes-and-White-Beans/Detail.aspx", 
+      "ingredients": "feta cheese, penne, spinach", 
+      "title": "Greek Pasta with Tomatoes and White Beans"
+    }
+  ], 
+  "title": "Recipe Puppy"
+}

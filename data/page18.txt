@@ -1,0 +1,67 @@
+{
+  "href": "http://www.recipepuppy.com/", 
+  "version": 0.1, 
+  "results": [
+    {
+      "thumbnail": "http://img.recipepuppy.com/208.jpg", 
+      "href": "http://allrecipes.com/Recipe/Potato-Puff-Casserole-2/Detail.aspx", 
+      "ingredients": "butter, cheddar cheese, eggs, milk, mustard powder, onions, black pepper, potato, salt", 
+      "title": "Potato Puff Casserole"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/209.jpg", 
+      "href": "http://allrecipes.com/Recipe/Old-Fashioned-Cheese-Potatoes/Detail.aspx", 
+      "ingredients": "butter, flour, milk, black pepper, potato, american cheese, salt", 
+      "title": "Old-Fashioned Cheese Potatoes"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Golden-Potato-Rounds-2/Detail.aspx", 
+      "ingredients": "butter, cornflakes, potato, salt", 
+      "title": "Golden Potato Rounds"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/212.jpg", 
+      "href": "http://allrecipes.com/Recipe/Old-Fashioned-Potato-Pancakes/Detail.aspx", 
+      "ingredients": "eggs, flour, onions, potato, black pepper, salt", 
+      "title": "Old-Fashioned Potato Pancakes"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/213.jpg", 
+      "href": "http://allrecipes.com/Recipe/Crispy-Potato-Pancakes/Detail.aspx", 
+      "ingredients": "eggs, flour, garlic powder, onions, black pepper, potato, salt, vegetable oil", 
+      "title": "Crispy Potato Pancakes"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Confetti-Potato-Pancakes/Detail.aspx", 
+      "ingredients": "vegetable oil, carrot, basil, eggs, flour, garlic, onions, potato, salt, sugar, zucchini", 
+      "title": "Confetti Potato Pancakes"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/215.jpg", 
+      "href": "http://allrecipes.com/Recipe/Potato-Pancakes-2/Detail.aspx", 
+      "ingredients": "eggs, flour, onions, potato, salt, vegetable oil", 
+      "title": "Potato Pancakes"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Cream-Cheese-Christmas-Cookies-2/Detail.aspx", 
+      "ingredients": "butter, flour, sugar, pecan, pecan, sugar, salt, vanilla extract, sugar", 
+      "title": "Cream Cheese Christmas Cookies"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/218.jpg", 
+      "href": "http://allrecipes.com/Recipe/Pistachio-Cream-Cheese-Fingers/Detail.aspx", 
+      "ingredients": "baking powder, butter, eggs, flour, salt, shortening, vanilla extract, sugar", 
+      "title": "Pistachio Cream Cheese Fingers"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/219.jpg", 
+      "href": "http://allrecipes.com/Recipe/Cream-Cheese-Sugar-Cookies/Detail.aspx", 
+      "ingredients": "almond extract, butter, egg yolks, flour, salt, vanilla extract, sugar", 
+      "title": "Cream Cheese Sugar Cookies"
+    }
+  ], 
+  "title": "Recipe Puppy"
+}

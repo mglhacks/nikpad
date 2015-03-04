@@ -1,0 +1,67 @@
+{
+  "href": "http://www.recipepuppy.com/", 
+  "version": 0.1, 
+  "results": [
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Green-Punch/Detail.aspx", 
+      "ingredients": "ginger ale, water, water, sugar", 
+      "title": "Green Punch"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/142.jpg", 
+      "href": "http://allrecipes.com/Recipe/Mint-Tea-Punch/Detail.aspx", 
+      "ingredients": "lemon juice, lemon, mint, orange juice, orange, tea bag, water, water, sugar", 
+      "title": "Mint Tea Punch"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/143.jpg", 
+      "href": "http://allrecipes.com/Recipe/Tart-and-Bubbly-Wedding-Punch/Detail.aspx", 
+      "ingredients": "ginger ale, cranberry juice, ice", 
+      "title": "Tart and Bubbly Wedding Punch"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/145.jpg", 
+      "href": "http://allrecipes.com/Recipe/Asparagus-and-Mushroom-Puff-Pastry-Pie/Detail.aspx", 
+      "ingredients": "asparagus, butter, garlic, sauce, mushroom", 
+      "title": "Asparagus and Mushroom Puff Pastry Pie"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/146.jpg", 
+      "href": "http://allrecipes.com/Recipe/Asparagus-Quiche/Detail.aspx", 
+      "ingredients": "asparagus, bacon, egg whites, eggs, half and half, nutmeg, salt, swiss cheese", 
+      "title": "Asparagus Quiche"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/147.jpg", 
+      "href": "http://allrecipes.com/Recipe/Asparagus-Frittata/Detail.aspx", 
+      "ingredients": "asparagus, egg substitute, olive oil, onions, parmesan cheese, black pepper, cheddar cheese, salt, water", 
+      "title": "Asparagus Frittata"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/148.jpg", 
+      "href": "http://allrecipes.com/Recipe/Asparagus-Mushroom-Casserole/Detail.aspx", 
+      "ingredients": "butter, chicken bouillon granule, flour, lemon juice, nutmeg, onions, black pepper, chili pepper, salt, bread crumbs", 
+      "title": "Asparagus Mushroom Casserole"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/149.jpg", 
+      "href": "http://allrecipes.com/Recipe/Spinach-and-Mushroom-Frittata/Detail.aspx", 
+      "ingredients": "egg substitute, parmesan cheese, ricotta cheese, mushrooms, salt, green onion", 
+      "title": "Spinach and Mushroom Frittata"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/151.jpg", 
+      "href": "http://allrecipes.com/Recipe/Honey-Oatmeal-Bread-II/Detail.aspx", 
+      "ingredients": "bread flour, butter, honey, honey, rolled oat, rolled oat, salt, water, water", 
+      "title": "Honey Oatmeal Bread II"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/152.jpg", 
+      "href": "http://allrecipes.com/Recipe/Oatmeal-Bread-II/Detail.aspx", 
+      "ingredients": "bread flour, honey, margarine, milk powder, oats, salt, water, yeast", 
+      "title": "Oatmeal Bread II"
+    }
+  ], 
+  "title": "Recipe Puppy"
+}

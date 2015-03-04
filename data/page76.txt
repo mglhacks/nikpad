@@ -1,0 +1,67 @@
+{
+  "href": "http://www.recipepuppy.com/", 
+  "version": 0.1, 
+  "results": [
+    {
+      "thumbnail": "http://img.recipepuppy.com/861.jpg", 
+      "href": "http://allrecipes.com/Recipe/Italian-Pasta-Florentine/Detail.aspx", 
+      "ingredients": "black pepper, garlic, olive oil, romano cheese, water", 
+      "title": "Italian Pasta Florentine"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/862.jpg", 
+      "href": "http://allrecipes.com/Recipe/Zesty-Pasta-with-Sausage/Detail.aspx", 
+      "ingredients": "garlic powder, parmesan cheese, sausage, rigatoni pasta", 
+      "title": "Zesty Pasta with Sausage"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/863.jpg", 
+      "href": "http://allrecipes.com/Recipe/Bow-Tie-Pasta-with-Sausage-and-Sweet-Peppers/Detail.aspx", 
+      "ingredients": "beef broth, black pepper, bow tie pasta, green pepper, sausage", 
+      "title": "Bow Tie Pasta with Sausage and Sweet Peppers"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/864.jpg", 
+      "href": "http://allrecipes.com/Recipe/Slow-Cooker-Sausage-Florentine/Detail.aspx", 
+      "ingredients": "sausage, cheddar cheese, eggs, milk", 
+      "title": "Slow Cooker Sausage Florentine"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/865.jpg", 
+      "href": "http://allrecipes.com/Recipe/Italian-Chicken-Bow-Tie-Pasta/Detail.aspx", 
+      "ingredients": "chicken, tomato", 
+      "title": "Italian Chicken Bow Tie Pasta"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Sun-Dried-Tomato-and-Bow-Tie-Pasta/Detail.aspx", 
+      "ingredients": "cayenne, basil, garlic, mushroom, olive oil, olive oil, pine nuts, salt, sun dried tomato", 
+      "title": "Sun-Dried Tomato and Bow Tie Pasta"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/868.jpg", 
+      "href": "http://allrecipes.com/Recipe/Chicken-and-Bow-Tie-Pasta/Detail.aspx", 
+      "ingredients": "broccoli, chicken, garlic, parmesan cheese, red pepper, salt", 
+      "title": "Chicken and Bow Tie Pasta"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Conrads-Spaghetti-and-Meat-Sauce/Detail.aspx", 
+      "ingredients": "celery, basil, oregano, garlic, green pepper, ground beef, onions, soy sauce, water", 
+      "title": "Conrad's Spaghetti and Meat Sauce"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Spaghetti-Sauce-with-Meat/Detail.aspx", 
+      "ingredients": "bay leaves, black pepper, black pepper, cinnamon, parsley, eggs, sirloin steak, garlic, ground beef, sausage, olive oil, onions, romano cheese, salt, salt, vegetable oil, bread", 
+      "title": "Spaghetti Sauce with Meat"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/871.jpg", 
+      "href": "http://allrecipes.com/Recipe/Pasta-Pascal/Detail.aspx", 
+      "ingredients": "pasta, basil, oregano, garlic, olive oil, onions, tomato, salt", 
+      "title": "Pasta Pascal"
+    }
+  ], 
+  "title": "Recipe Puppy"
+}

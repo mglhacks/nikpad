@@ -1,0 +1,67 @@
+{
+  "href": "http://www.recipepuppy.com/", 
+  "version": 0.1, 
+  "results": [
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Pasta-with-Cilantro-Pesto-and-Barley/Detail.aspx", 
+      "ingredients": "arugula, cilantro, grape tomatoes, green onion, orecchiette, parmesan cheese, barley, salt, vegetable broth, water", 
+      "title": "Pasta with Cilantro Pesto and Barley"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Baked-Polenta-with-Fresh-Tomatoes-and-Parmesan/Detail.aspx", 
+      "ingredients": "basil, basil, butter, butter, milk, parmesan cheese, parmesan cheese, polenta, black pepper, tomato, water", 
+      "title": "Baked Polenta with Fresh Tomatoes and Parmesan"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Creamy-Pesto-Pasta-Salad-with-Chicken-Asparagus-and-Cherry-Tomatoes/Detail.aspx", 
+      "ingredients": "asparagus, bow tie pasta, buttermilk, cherry tomato, chicken, buttermilk, garlic, green onion, mayonnaise, pasta, pesto, pine nuts, rice vinegar, salt, sour cream", 
+      "title": "Creamy Pesto Pasta Salad with Chicken, Asparagus and Cherry Tomatoes"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/895.jpg", 
+      "href": "http://allrecipes.com/Recipe/Caribbean-White-Beans/Detail.aspx", 
+      "ingredients": "black pepper, pumpkin puree, cilantro, bouillon, cumin, garlic, green pepper, olive oil, onions, salt, water", 
+      "title": "Caribbean White Beans"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Pasta-with-Greens-N-Beans/Detail.aspx", 
+      "ingredients": "sausage, chicken broth, escarole, garlic, onions, romano cheese, spiral pasta", 
+      "title": "Pasta with Greens N Beans"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/897.jpg", 
+      "href": "http://allrecipes.com/Recipe/Cranberry-Apple-Cider/Detail.aspx", 
+      "ingredients": "cranberries, apple, apple juice, cinnamon, orange, water", 
+      "title": "Cranberry Apple Cider"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/898.jpg", 
+      "href": "http://allrecipes.com/Recipe/Updated-Mulled-Cider/Detail.aspx", 
+      "ingredients": "apple juice, cinnamon, cloves, orange, orange juice, raisins", 
+      "title": "Updated Mulled Cider"
+    }, 
+    {
+      "thumbnail": "", 
+      "href": "http://allrecipes.com/Recipe/Hot-Cranberry-Citrus-Punch/Detail.aspx", 
+      "ingredients": "brown sugar, cranberry juice, lemon juice, orange juice, salt, sugar", 
+      "title": "Hot Cranberry Citrus Punch"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/900.jpg", 
+      "href": "http://allrecipes.com/Recipe/Hot-Cranberry-Tea/Detail.aspx", 
+      "ingredients": "cinnamon, cloves, lemon, orange, water, sugar", 
+      "title": "Hot Cranberry Tea"
+    }, 
+    {
+      "thumbnail": "http://img.recipepuppy.com/901.jpg", 
+      "href": "http://allrecipes.com/Recipe/Cranberry-Tea/Detail.aspx", 
+      "ingredients": "allspice, cinnamon, cranberry juice, tea, lemon juice, nutmeg, orange juice, water, sugar", 
+      "title": "Cranberry Tea"
+    }
+  ], 
+  "title": "Recipe Puppy"
+}
