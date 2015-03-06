@@ -1,0 +1,668 @@
+３　原材料的食品のもととなる生物の学名
+食品番号 食品名 英名 学名
+１ 穀類 CEREALS
+01001 アマランサス Amaranth Amaranthus hypochondriacus
+01002，003 あわ Foxtail millet Setaria italica
+01004 えんばく Oats Avena sativa
+01005～010 おおむぎ Barley Hordeum vulgare
+01011 きび Proso millet Panicum miliaceum
+01012～079 こむぎ Wheat Triticum aestivum
+01080～121 こめ（イネ） Rice Oryza sativa
+01122～130 そば Buckwheat Fagopyrum esculentum
+01131～137 とうもろこし Corn Zea mays
+01138 はとむぎ Job's tears Coix lacryma-jobi var.
+frumentacea
+01139 ひえ Japanese barnyard millet Echinochloa utilis
+01140，141 もろこし Sorghum Sorghum bicolor
+01142，143 ライむぎ Rye Secale cereale
+２ いも及びでん粉類 POTATOES AND STARCHES
+02001 きくいも Jerusalem-artichoke Helianthus tuberosus
+02002～005 こんにゃく Konjac Amorphophallus konjac
+02006～009 さつまいも Sweet potatoes Ipomoea batatas
+02010～016 さといも Taro Colocasia esculenta
+02017～021 じゃがいも Potatoes Solanum tuberosum
+（やまのいも類） （Yams）
+02022～025 　やまのいも Chinese yam Dioscorea batatas
+02026 　じねんじょ Japanese yam Dioscorea japonica
+02027 　だいじょ White yam Dioscorea alata
+４ 豆類 PULSES
+04001～006 あずき Adzuki beans Vigna angularis
+04007～011 いんげんまめ Kidney beans Phaseolus vulgaris
+04012～016 えんどう Peas Pisum sativum
+04017，018 ささげ Cowpeas Vigna unguiculata
+04019～022 そらまめ Broad beans Vicia faba
+04023～063 だいず Soybeans Glycine max
+04064 つるあずき Rice beans Vigna umbellata
+04065～067 ひよこまめ Chickpeas Cicer arietinum
+04068，069 べにばないんげん Scarlet runner beans Phaseolus coccineus
+04070 らいまめ Lima beans Phaseolus lunatus
+04071，072 りょくとう Mung beans Vigna radiata
+04073 レンズまめ Lentils Lens culinaris
+５ 種実類 NUTS AND SEEDS
+05001，002 アーモンド Almonds Prunus dulcis
+05003 あさ Hemp seeds Cannabis sativa
+05004 えごま Perilla seeds Perilla frutescens
+05005 カシューナッツ Cashew nuts Anacardium occidentale
+05006 かぼちゃ Pumpkin seeds Cucurbita spp.
+05007 かや Japanese torreya seeds Torreya nucifera
+05008，009 ぎんなん（イチョウ） Ginkgo nuts Ginkgo biloba
+食品番号 食品名 英名 学名
+（くり類） （Chestnuts）
+05010～012 　日本ぐり Japanese chestnuts Castanea crenata
+05013 　中国ぐり Chinese chestnuts Castanea mollissima
+05014 くるみ（ペルシャグルミ） Walnuts Juglans regia
+05015 けし Poppy seeds Papaver somniferum
+05016 ココナッツ Coconut Cocos nucifera
+05017～019 ごま Sesame seeds Sesamum indicum
+05020 しい（スダジイ） Sweet acorn Castanopsis cuspidata var.
+sieboldii
+しい　（コジイ） Sweet acorn Castanopsis cuspidata
+05021 すいか Watermelon seeds Citrullus lanatus
+05022 とち Japanese horse chestnuts Aesculus turbinata
+05023，024 はす Lotus seeds Nelumbo nucifera
+05025 ひし Water chestnuts Trapa japonica
+05026 ピスタチオ Pistachio nuts Pistacia vera
+05027 ひまわり Sunflower seeds Helianthus annuus
+05028 ブラジルナッツ Brazil nuts Bertholletia excelsa
+05029 ヘーゼルナッツ Hazel nuts Corylus avellana
+05030 ペカン Pecan nuts Carya illinoensis
+05031 マカダミアナッツ Macadamia nuts Macadamia integrifolia
+05032，033 まつ(チョウセンゴヨウマツ） Pine nuts Pinus koraiensis
+05034～037 らっかせい Peanuts Arachis hypogaea
+６ 野菜類 VEGETABLES
+06001，002 アーティチョーク Artichoke Cynara scolymus
+06003，004 あさつき Asatsuki Allium schoenoprasum
+06005，006 あしたば Ashitaba Angelica keiskei
+06007～010 アスパラガス Asparagus Asparagus officinalis
+06010，011 いんげんまめ Kidney beans Phaseolus vulgaris
+06012～014 うど Udo Aralia cordata
+06015～017 えだまめ（ダイズ） Edamame Glycine max
+06018 エンダイブ Endive Cichorium endivia
+06019～026 えんどう Peas Pisum sativum
+06027～029 おおさかしろな Osaka-shirona Brassica campestris
+(pekinensis group)
+06030，031 おかひじき Saltwort Salsola komarovii
+06032，033 オクラ Okra Abelmoschus esculentus
+06034～045 かぶ Turnip Brassica campestris
+(rapifera group)
+（かぼちゃ類） （Pumpkins and squashes）
+06046，047 　日本かぼちゃ Pumpkin Cucurbita moschata
+06048～050 　西洋かぼちゃ Pumpkin Cucurbita maxima
+06051 　そうめんかぼちゃ Spaghetti squash Cucurbita pepo
+06052，053 からしな Leaf mustard Brassica juncea (cernua group)
+06054，055 カリフラワー Cauliflower Brassica oleracea
+(botrytis group)
+06056，057 かんぴょう（ユウガオ） Kanpyo Lagenaria siceraria
+06058～060 きく Chrysanthemum Chrysanthemum morifolium
+06061～064 キャベツ Cabbage Brassica oleracea
+(capitata group)
+06065～070 きゅうり Cucumber Cucumis sativus
+06071 ぎょうじゃにんにく Gyoja-ninniku Allium victorialis
+食品番号 食品名 英名 学名
+06072～074 きょうな Kyona Brassica campestris
+(japonica group)
+06075，076 キンサイ Qin cai Apium graveolens
+06077 クレソン Watercress Nasturtium officinale
+06078，079 くわい Arrowhead Sagittaria trifolia
+06080 ケール Kale Brassica oleracea
+(acephala group)
+06081，082 コールラビ Kohlrabi Brassica oleracea
+(gongylodes group)
+06083 こごみ Kogomi Matteuccia struthiopteris
+06084，085 ごぼう Edible-burdock Arctium lappa
+06086，087 こまつな Komatsuna Brassica campestris
+(rapifera group)
+06088 ザーサイ（カラシナ） Zha cai Brassica juncea
+06089～091 さんとうさい Shandong cai Brassica campestris
+(pekinensis group)
+06092 しかくまめ Winged beans Psophocarpus tetragonolobus
+06093，094 ししとうがらし Sweet peppers Capsicum annuum
+06095，096 しそ Perilla Perilla frutescens
+06097，098 じゅうろくささげ Yard beans Vigna unguiculata
+06099，100 しゅんぎく Garland chrysanthemum Chrysanthemum coronarium
+06101 じゅんさい Water shield Brasenia schreberi
+06102～105 しょうが Ginger Zingiber officinale
+06106～108 しろうり Oriental pickling melon Cucumis melo
+06109～112 ずいき（サトイモ） Zuiki Colocasia esculenta
+06113～115 すぐきな Sugukina Brassica campestris
+(rapifera group)
+06116 ズッキーニ Zucchini Cucurbita pepo
+06117，118 せり Water dropwort Oenanthe javanica
+06119 セロリー Celery Apium graveolens
+06120～123 ぜんまい Royal fern Osmunda japonica
+06124，125 そらまめ Broad beans Vicia faba
+06126，127 タアサイ Ta cai Brassica narinosa
+06128～143 だいこん Daikon Raphanus sativus
+(daikon group)
+06144～146 たいさい Taisai Brassica campestris
+(chinensis group)
+06147，148 たかな Takana Brassica juncea
+(integliflolia group)
+たけのこ Bamboo shoots
+06149～151 　たけのこ（モクソウチク） Bamboo shoots Phyllostachys pubescens
+06152 　しなちく（マチク） Bamboo shoots Dendrocalamus latiflorus
+06153～156 たまねぎ Onions Allium cepa
+06157，158 たらのめ（タラノキ） Japanese angelica-tree Aralia elata
+06159 チコリー Chicory Cichorium intybus
+06160，161 チンゲンサイ Qing gin cai Brassica campestris
+(chinensis group)
+06162，163 つくし（スギナ） Field horsetail Equisetum arvense
+06164 つるな New Zealand spinach Tetragonia expansa
+06165，166 つるむらさき Malabar nightshade Basella rubra
+06167，168 つわぶき Japanese silverleaf Farfugium japonicum
+06169～172 とうがらし Red peppers Capsicum annuum
+食品番号 食品名 英名 学名
+06173，174 とうがん Wax gourd Benincasa hispida
+06175～181 とうもろこし Corns Zea mays (saccharata group)
+06182～186 トマト Tomatoes Lycopersicon esculentum
+06187 トレビス Red chicory Cichorium intybus
+06188 とんぶり（ホウキギ） Summer cypress seeds Kochia scoparia
+06189，190 ながさきはくさい Nagasaki-hakusai Brassica campestris
+(pekinensis group)
+06191～199 なす Eggplant Solanum melongena
+06200 なずな Shepherd's purse Capsella bursa-pastoris
+（なばな類） （Rapes）
+06201，202 和種なばな Turnip rape Brassica campestris
+(oleifera group)
+06203，204 洋種なばな Rape Brassica napus
+06205，206 にがうり Bitter gourd Momordica charantia
+06207～210 にら Chinese chive Allium tuberosum
+06211～222 にんじん Carrot Daucus carota
+06223～225 にんにく Garlic Allium sativum
+06226～228 ねぎ Welsh onions Allium fistulosum
+06229～231 のざわな Nozawana Brassica campestris
+(rapifera group)
+06232 のびる Red garlic Allium grayi
+06233～236 はくさい Chinese cabbage Brassica campestris
+(pekinensis group)
+06237 パクチョイ Bai cai Brassica campestris
+(chinensis group)
+06238 バジル Basil Ocimum basilicum
+06239 パセリ Parsley Petroselinum crispum
+06240 はつかだいこん Radish Raphanus sativus
+(radicula group)
+06241，242 はやとうり Chayote Sechium edule
+06243，244 ビート Table beet Beta vulgaris (rubra group)
+06245～251 ピーマン Sweet peppers Capsicum annuum
+06252，253 ひのな Hinona Brassica campestris
+(rapifera group)
+06254，255 ひろしまな Hiroshimana Brassica campestris
+(pekinensis group)
+06256～259 ふき Japanese butterbur Petasites japonicus
+06260 ふじまめ Hyacinth beans Lablab purpureces
+06261，262 ふだんそう Swiss chard Beta vulgaris (cicla group)
+06263，264 ブロッコリー Broccoli Brassica oleracea
+(italica group)
+06265，266 へちま Sponge gourd Luffa cylindrica
+06267～269 ほうれんそう Spinach Spinacia oleracea
+06270 ホースラディシュ Horseradish Armoracia rusticana
+06271 まこも Manchurian wild rice Zizania latifolia
+06272，273 みずかけな Mizukakena Brassica campestris
+(rapifera group)
+06274～279 みつば Mitsuba Cryptotaenia japonica
+06280，281 みょうが Myoga Zingiber mioga
+06282 むかご（ヤマノイモ） Mukago Dioscorea batatas
+06283，284 めキャベツ Brussel sprouts Brassica oleracea
+(gemmifera group)
+食品番号 食品名 英名 学名
+06285 めたで（ヤナギタデ）　 Water pepper sprouts Polygonum hydropiper
+（もやし類） （Bean sprouts)
+06286 　アルファルファもやし（ムラサキウマゴヤシ） Alfalfa sprouts Medicago sativa
+06287，288 　だいずもやし（ダイズ） Soybean sprouts Glycine max
+06289，290 　ブラックマッペもやし（ケツルアズキ） Black gram sprouts Vigna mungo
+06291，292 　りょくとうもやし（リョクトウ） Mung bean sprouts Vigna radiata
+06293，294 モロヘイヤ Tossa jute Corchorus olitorius
+06295 やまごぼう Yamagobo Cirsium dipsacolepis
+06296，297 ゆりね（ユリ） Lily bulb Lilium spp.
+06298，299 ようさい Water convolvulus Ipomoea aquatica
+06300 よめな Yomena Kalimeris yomena
+06301，302 よもぎ Mugwort Artemisia princeps
+06303，304 らっかせい Peanuts Arachis hypogaea
+06305～307 らっきょう Scallion Allium chinense
+06308，309 リーキ Leeks Allium ampeloprasum
+06310，311 ルバーブ Rhubarb Rheum rhabarbarum
+06312～316 レタス Lettuce Lactuca sativa
+06317，318 れんこん（ハス） East Indian lotus root Nelumbo nucifera
+06319 ロケットサラダ Rocket salad Eruca vesicaria
+06320，321 わけぎ Turfed stone leeks Allium fistulosum
+(caespitosum group)
+06322，323 わさび Wasabi Eutrema wasabi
+06324～326 わらび Bracken Pteridium aquilinum
+７ 果実類 FRUITS
+07001，002 あけび（ミツバアケビ） Akebia Akebia trifoliata
+07003，004 アセロラ Acerolas Malpighia glabra
+07005 アテモヤ Atemoya Annona atemoya
+07006 アボカド Avocados Persea americana
+07007～011 あんず Apricots Prunus armeniaca
+07012～014 いちご（オランダイチゴ） Strawberries Fragaria grandiflora
+(=Fragaria × ananassa)
+07015～016 いちじく Figs Ficus carica
+07018 いよかん Iyokan Citrus iyo
+07019～025 うめ Mume Prunus mume
+07026～036 うんしゅうみかん Satsuma mandarins Citrus unshiu
+07037～039 オリーブ Olives Olea europaea
+（オレンジ類） （Oranges)
+07040 　ネーブル Navel Citrus sinensis var. brasilieneis
+07041～047 　バレンシアオレンジ Valencia Citrus sinensis
+07048 オロブランコ Oroblanco Citrus paradisi
+07049～051 かき Kaki Diospyros kaki
+07052 かぼす Kabosu Citrus sphaerocarpa
+07053 かりん Chinese quinces Chaenomeles sinensis
+07054 キウイフルーツ Kiwifruit Actinidia deliciosa
+07055 キワノ Kiwano Cucumis metuliferus
+07056 きんかん Kumquats Fortunella spp.
+07057～059 グァバ Guava Psidium guajava
+07060 グズベリー Gooseberries Ribes grossularia
+R.hirtellum
+07061 ぐみ Oleasters Elaeagnus spp.
+07062～067 グレープフルーツ Grapefruit Citrus paradisi
+食品番号 食品名 英名 学名
+07157，158 ココナッツ（ココヤシ） Coconut Cocos nucifera
+07069 ごれんし Carambola Averrhoa carambola
+07070～072 さくらんぼ Cherries Prunus avium
+07073 ざくろ Pomegranates Punica granatum
+07074 さんぼうかん Sanbokan Citrus sulcata
+07075，076 シイクワシャー Shiikuwasha Citrus depressa
+07077 すいか Watermelon Citrullus lanatus
+07078，079 すだち Sudachi Citrus sudachi
+（すもも類） （Plums）
+07080 　にほんすもも Japanese plums Prunus salicina
+07081，082 　プルーン European plums Prunus domestica
+07083 だいだい Sour oranges Citrus aurantium
+07084 タンゴール Tangors Citrus sinensis × reticulata
+07085 タンゼロ Tangelos Citrus tangerina × grandis
+07086 チェリモヤ Cherimoya Annona cherimola
+07087 ドリアン Durian Durio zibethinus
+（なし類） （Pears）
+07088，089 　日本なし Japanese pears Pyrus pyrifolia var. culta
+07090 　中国なし Chinese pears Pyrus ussuriensis
+P.bretschneideri
+07091，092 　西洋なし European pears Pyrus communis
+07093，094 なつみかん Natsumikan Citrus natsudaidai
+07095 なつめ Jujube Zizyphus jujuba
+07096 なつめやし Dates Phoenix dactylifera
+07097～103 パインアップル Pineapple Ananas comosus
+07104 ハスカップ Blue-berried honeysuckle Lonicera caerulea subsp. edulis
+07105 はっさく Hassaku Citrus hassaku
+07106 パッションフルーツ Passion fruit Passiflora edulis
+07107，108 バナナ Bananas Musa sapientum
+07109，110 パパイア Papayas Carica papaya
+07111 ピタヤ Pitaya Hylocereus undatus
+07112，113 ひゅうがなつ Hyuganatsu Citrus tamurana
+07114，115 びわ Loquats Eriobotrya japonica
+07116～123 ぶどう Grapes Vitis spp.
+07124，125 ブルーベリー Blueberries Vaccinium spp.
+07126，127 ぶんたん Pummelo Citrus grandis
+07128 ホワイトサポテ White sapote Casimiroa edulis
+07129 ぽんかん Ponkan Citrus reticulata
+07130 まくわうり Oriental melon Cucumis melo var. makuwa
+07131 マルメロ Quinces Cydonia oblonga
+07132 マンゴー Mangoes Mangifera indica
+07133 マンゴスチン Mangosteen Garcinia mangostana
+07134，135 メロン Melon Cucumis melo
+（もも類） （Peaches）
+07136～139 　もも Peaches Prunus persica
+07140 　ネクタリン Nectarines Prunus persica var. nucipersica
+07141 やまもも Chinese bayberries Myrica rubra
+07142，143 ゆず Yuzu Citrus junos
+07144 ライチー Lychees Litchi chinensis
+07145 ライム Limes Citrus aurantifolia
+07146 ラズベリー Raspberries Rubus idaeus
+07147 りゅうがん Longans Euphoria longana
+食品番号 食品名 英名 学名
+07148～154 りんご Apples Malus domestica
+07155，156 レモン Lemons Citrus limon
+８ きのこ類 MUSHROOMS
+08001～003 えのきたけ Winter mushrooms Flammalina velutipes
+（きくらげ類） （Tree ears）
+08004，005 　あらげきくらげ Arage-kikurage Auricularia polytrica
+08006，007 　きくらげ Kikurage Auricularia auricula
+08008，009 　しろきくらげ Shiro-kikurage Tremella fuciformis
+08010 くろあわびたけ Kuroawabitake Pleurotus cystidiosus
+08011～014 しいたけ Shiitake Lentinula edodes
+（しめじ類） （Shimeji ）
+08015 　はたけしめじ Hatakeshimeji Lyophyllum decastes
+08016，017 　ぶなしめじ Bunashimeji Hypsizygus marmoreus
+08018 　ほんしめじ Honshimeji Lyophyllum shimeji
+08019 たもぎたけ Tamogitake Pleurotus cornucopiae var.
+citrinopileatus
+08020～022 なめこ Nameko Pholiota nameko
+08023 ぬめりすぎたけ Numerisugitake Pholiota adiposa
+（ひらたけ類） （Oyster mushrooms）
+08024 　うすひらたけ Usuhiratake Pleurotus pulmonarius
+08025 　エリンギ Eringii Pleurotus eryngii
+08026，027 　ひらたけ Oyster mushrooms Pleurotus ostreatus
+08028～030 まいたけ Maitake Grifola frondosa
+08031～033 マッシュルーム Common mushrooms Agaricus bisporus
+08034，035 まつたけ Matsutake Tricholoma matsutake
+08036 やなぎまつたけ Yanagimatsutake Agrocybe cylindracea
+９ 藻類 ALGAE
+09001 あおさ Sea lettuce Ulva spp.
+09002 あおのり Green laver Enteromorpha spp.
+09003～005 あまのり Purple laver Porphyra spp.
+09006 あらめ Arame Eisenia bicyclis
+09007 いわのり Iwa-nori Porphyra spp.
+09008，009 えごのり Ego-nori Campylaephora hypnaeoides
+09010 おごのり Ogo-nori Gracilaria spp.
+09011 かわのり Kawa-nori Prasiola japonica
+09012 くびれづた Green caviar Caulerpa lentillifera
+（こんぶ類） （Kombu）
+09013 　えながおにこんぶ Enaga-oni-kombu Laminaria diabolica
+09014 　がごめこんぶ Gagome-kombu Kjellmaniella crassifolia
+09015 　ながこんぶ Naga-kombu Laminaria longissima
+09016 　ほそめこんぶ Hosome-kombu Laminaria religiosa
+09017 　まこんぶ Ma-kombu Laminaria japonica
+09018 　みついしこんぶ Mitsuishi-kombu Laminaria angustata
+09019 　りしりこんぶ Rishiri-kombu Laminaria ochotensis
+09024 すいぜんじのり Suizenji-nori Aphanothece sacrum
+09025～028 てんぐさ Tengusa Gelidium elegans
+09029，030 とさかのり Tosaka-nori Meristotheca papulosa
+09031 ひじき Hijiki Hizikia fusiformis
+09032，033 ひとえぐさ Hitoegusa Monostroma nitidum
+09034 ふのり Fu-nori Gloiopeltis spp.
+食品番号 食品名 英名 学名
+09035 まつも Matsumo Analipus japonicus
+09036 むかでのり Mukade-nori Grateloupia filicina
+09037 おきなわもずく Okinawa-mozuku Cladosiphon okamuranus
+09038 もずく Mozuku Nemacystis decipiens
+09039～047 わかめ Wakame Undaria pinnatifida
+10 魚介類 FISHES AND SHELLFISHES
+＜魚類＞ ＜FISHES＞
+10001 あいなめ Fat greenling Hexagrammos otakii
+10002 あこうだい Matsubara's red rockfish Sebastes matsubarae
+（あじ類） （Horse mackerels)
+10003～007 　まあじ Horse mackerel Trachurus japonicus
+10008～010 　にしまあじ Atlantic horse mackerel Trachurus trachurus
+10011～014 　むろあじ Brownstriped mackerel scad Decapterus muroadsi
+10015，016 あなご（マアナゴ） Common Japanese conger Conger myriaster
+10017 あまご Amago salmon Oncorhyncus masou
+macrostomus
+10018～020 あまだい（アカアマダイ） Red tilefish Branchiostegus japonicus
+10021～029 あゆ Ayu sweetfish Plecoglossus altivelis
+10030 アラスカめぬけ Pacific ocean perch Sebastes alutus
+10031，032 あんこう（キアンコウ） Anglerfish Lophius litulon
+10033～036 いかなご Japanese sand lance Ammodytes personatus
+10037 いさき Three-line grunt Parapristipoma trilineatum
+10038 いしだい Japanese parrot fish Oplegnathus fasciatus
+10039 いとよりだい Golden-thread Nemipterus virgatus
+10041 いぼだい Butterfish Psenopsis anomala
+（いわし類） （Sardines)
+10042，043 　うるめいわし Big-eye sardine Etrumeus teres
+10044～046 　かたくちいわし Japanese anchovy Engraulis japonicus
+10047～064 　まいわし Japanese pilchard Sardinops melanostictus
+10065 いわな Char Salvelinus leucomaenis
+10066 うぐい Japanese dace Tribolodon hakonensis
+10067～070 うなぎ（ニホンウナギ） Japanese eel Anguilla japonica
+うなぎ（ヨーロッパウナギ） European eel Anguilla anguilla
+10071，072 うまづらはぎ Filefish Thamnaconus modestus
+10073 えい（アカエイ） Red stingray Dasyatis akajei
+10074 えそ（マエソ） Lizardfish Saurida undosquamis
+えそ（アカエソ） Lizardfish Synodus ulae
+10075 おいかわ Pale chub Zacco platypus
+10076 おおさが Angry rockfish Sebastes iracundus
+10077 おこぜ（オニオコゼ） Devil stinger Inimicus japonicus
+10078 おひょう Pacific halibut Hippoglossus stenolepis
+10079 かさご Scorpionfish Sebastiscus marmoratus
+10080～082 かじか Japanese sculpin Cottus pollux
+（かじき類） （Marlins and swordfishes）
+10083 　くろかじき Blue marlin Makaira mazara
+10084 　まかじき Striped marlin Tetrapturus audax
+10085 　めかじき Swordfish Xiphias gladius
+（かつお類） （Skipjacks and frigate mackerels）
+10086，087 　かつお Skipjack Katsuwonus pelamis
+10088 　そうだがつお（ヒラソウダ） Frigate mackerel Auxis thazard
+　そうだがつお（マルソウダ） Frigate mackerel Auxis rochei
+食品番号 食品名 英名 学名
+10098，099 かます（アカカマス） Barracuda Sphyraena pinguis
+（かれい類） （Righteye flounders）
+10100～102 　まがれい Brown sole Pleuronectes herzensteini
+10103 　まこがれい Marbled sole Pleuronectes yokohamae
+10104，105 　子持ちがれい（アカガレイ） Red halibut Hippoglossoides dubius
+　子持ちがれい（ババガレイ） Slime flounder Microstomus achne
+10106 　干しかれい　（ヤナギムシガレイ） Willowy flounder Tanakius kitaharai
+　干しかれい　（ムシガレイ） Shothole halibut Eopsetta grigorjewi
+10107 かわはぎ Leatherjackets Stephanolepis cirrhifer
+10108 かんぱち Amberjack Seriola dumerili
+10109 きす（シロギズ） Japanese whiting Sillago japonica
+10110 きちじ Kichiji rockfish Sebastolobus macrochir
+10111，112 きびなご Blue sprat Spratelloides gracilis
+10113 キャビア Caviar Acipenser spp.
+10114 キングクリップ Pink cuskeel Genypterus capensis
+10115 ぎんだら Sablefish Anoplopoma fimbria
+10116 きんめだい Alfonsino Beryx splendens
+10117，118 ぐち（イシモチ） Croaker Argyrosomus argentatus
+10119～121 こい Carp Cyprinus carpio
+（こち類） （Flatheads）
+10122 　こち Bar-tailed flathead Platycephalus indicus
+10123 　めごち Big-eye flathead Suggrundus meerdervoorti
+10124，125 このしろ Gizzard shad Konosirus punctatus
+（さけ・ます類） （Salmons and trouts)
+10126～129 　からふとます Pink salmon Oncorhynchus gorbuscha
+10130，131 　ぎんざけ Coho salmon Oncorhynchus kisutch
+10132，133 　さくらます Masu salmon Oncorhynchus masou masou
+10134～143 　しろさけ（サケ） Chum salmon Oncorhynchus keta
+10144，145 　たいせいようさけ Atlantic salmon Salmo scombrus
+10146～148 　にじます Rainbow trout Oncorhynchus mykiss
+10149～151 　べにざけ Sockeye salmon Oncorhynchus nerka
+10152，153 　ますのすけ Chinook salmon Oncorhynchus tshawytscha
+（さば類） （Mackerels）
+10154～157 　まさば Mackerel Scomber japonicus
+10158～160 　たいせいようさば Atlantic mackerel Scomber scombrus
+（さめ類） （Sharks）
+10167 　あぶらつのざめ Dogfish Squalus acanthias
+10168 　よしきりざめ Blue shark Prionace glauca
+10170 さより Halfbeak Hyporhamphus sajori
+10171，172 さわら Spanish mackerel Scomberomorus niphonius
+10173～178 さんま Pacific saury Cololabis saira
+10179 しいら Dolphinfish Coryphaena hippurus
+（ししゃも類） （Shishamo ）
+10180，181 　ししゃも Shishamo smelt Spirinchus lanceolatus
+10182，183 　からふとししゃも Atlantic capelin Mallotus villosus
+10184 したびらめ（クロウシノシタ） Black tonguefish Paraplagusia japonica
+したびらめ（アカシタビラメ） Red tongue sole Cynoglossus joyneri
+10185 しまあじ Striped jack Pseudocoranx dentex
+10186 しらうお Japanese icefish Salangichthys microdon
+10187 シルバー Silver warehou Seriolella punctata
+10188 すずき Japanese seaperch Lateolabrax japonicus
+食品番号 食品名 英名 学名
+（たい類） （Sea breams）
+10189 　きだい Yellow sea bream Dentex tumifrons
+10190 　くろだい Black sea bream Acanthopagrus schlegeli
+10191 　ちだい Crimson sea bream Evynnis japonica
+10192～195 　まだい Red sea bream Pagrus major
+10196 たかさご Black-tipped fusilier Caesio diagramma
+10197 たかべ Yellowstriped butterfish Labracoglossa argentiventris
+10198 たちうお Hairtail Trichiurus lepturus
+（たら類） （Cod fishes）
+10199～204 　すけとうだら Walleye pollack Theragra chalcogramma
+10205～210 　まだら Pacific cod Gadus macrocephalus
+10211 ちか Japanese surfsmelt Hypomesus pretiosus japonicus
+10212 テラピア（ナイルテラピア） Tilapia Oreochromis nilotica
+10213，214 どじょう Loach Misgurnus anguillicaudatus
+10215 とびうお Flying fish Cypselurus agoo agoo
+10216 なまず（ナマズ） Catfish Silurus asotus
+なまず（アメリカナマズ） Channel catfish Ictalurus punctatus
+10217 にぎす Japanese argentine Glossanodon semifasciatus
+10218～224 にしん Pacific herring Clupea pallasii
+10225～227 はぜ（マハゼ） Yellowfin goby Acanthogobius flavimanus
+10228，229 はたはた Sandfish Arctoscopus japonicus
+10230 はまふえふき Spangled emperor Lethrinus nebulosus
+10231 はも Conger pike Muraenesox cinereus
+10232 バラクータ Barracouta Thyrsites atun
+10233 ひらまさ Goldstriped amberjack Seriola lalandi
+10234，235 ひらめ Bastard halibut Paralichthys olivaceus
+（ふぐ類） （Puffers）
+10236 　とらふぐ Ocellate puffer Takifugu rubripes
+10237 　まふぐ Purple puffer Takifugu porphyreus
+10238～240 ふな Crucian carp Carassius auratus
+10241～243 ぶり Yellowtail Seriola quinqueradiata
+10244 ほうぼう Gurnard Chelidonichthys spinosus
+10245 ホキ Hoki Macruronus novaezelandiae
+10246～248 ほっけ Atka mackerel Pleurogrammus azonus
+10249，250 ぼら Striped mullet Mugil cephalus cephalus
+10251 ほんもろこ Willow shiner Gnathopogon caerulescens
+（まぐろ類） （Tunas）
+10252 　きはだ Yellowfin tuna Thunnus albacares
+10253，254 　くろまぐろ Bluefin tuna Thunnus thynnus
+10255 　びんなが Albacore Thunnus alalunga
+10256，257 　みなみまぐろ Southern bluefin tuna Thunnus maccoyii
+10258 　めじまぐろ Young bluefin tuna Thunnus thynnus
+10259 　めばち Big-eye tuna Thunnus obesus
+10265 マジェランあいなめ Southern black cod Patagonian toothfish
+10266 まながつお Silver pomfret Pampus argenteus
+10267 みなみだら Southern blue whiting Micromesistius australis pallidus
+10268，269 むつ Gnomefish Scombrops boops
+10270 めじな Girella Girella punctata
+10271 めばる（シロメバル） Japanese stingfish Sebastes cheni
+めばる（アカメバル） Japanese stingfish Sebastes inermis
+めばる（クロメバル） Japanese stingfish Sebastes ventrcosus
+10272 メルルーサ Hake Merluccius spp.
+食品番号 食品名 英名 学名
+10273，274 やつめうなぎ Lamprey Lampetra japonica
+10275 やまめ Seema Oncorhyncus masou masou
+10276～278 わかさぎ Pond smelt Hypomesus nipponensis
+＜貝類＞ ＜SHELLFISHES＞
+10279 あかがい Bloody clams Scapharca broughtonii
+10280 あげまき Jackknife clams Sinonovacula constricta
+10281～284 あさり Short-necked clams Ruditapes philippinarum
+10285～288 あわび（クロアワビ） Disk abalone Haliotis discus discus
+あわび（マダカ） Giant abalone Haliotis madaka
+あわび（メガイ） Ginant abalone Haliotis gigntea
+10289 いがい（イガイ） Mussels Mytilus coruscus
+いがい（ムラサキイガイ） Mussels Mytilus galloprovincialis
+10290 いたやがい Japanese scallops Pecten albicans
+10291 エスカルゴ　 Apple snails Helix pomatia
+10292～294 かき（マガキ） Oysters Crassostrea gigas
+10295，296 さざえ Turban shell Batillus cornutus
+10297 しじみ（マシジミ） Freshwater clams Corbicula leana
+しじみ（ヤマトシジミ） Freshwater clams Corbicula japonica
+10298 たいらがい Pen shells Atrina pectinata
+10299 たにし（マルタニシ） Pond snails Cipangopaludina chinensis laeta
+たにし（ヒメタニシ） Pond snails Sinotais quadrata histricus
+10300 つぶ（エゾボラ） Whelks Neptunea polycostata
+つぶ（ヒメエゾボラ） Whelks Neptunea arthritica
+つぶ（エゾバイ） Whelks Buccinum middendorffi
+10301 とこぶし Japanese abalone Sulculus diversicolor diversicolor
+10302 トップシェル（アカニシ） Topshells Rapana spp.
+トップシェル（レイシガイ） Topshells Thais spp.
+10303 とりがい Cockles Fulvia mutica
+10304 ばいがい Ivory shells Babylonia japonica
+10305 ばかがい Hen clams Mactra chinensis
+（はまぐり類） （Hard clams）
+10306～309 　はまぐり Hard clams Meretrix lusoria
+10310 　ちょうせんはまぐり Common shield-clams Meretrix lamarckii
+10311～315 ほたてがい Scallops Mizuhopecten yessoensis
+10316 ほっきがい Surf clams Spisula sachalinensis
+10317 みるがい Keen'ｓ ｇaper Tresus keenae
+10318 もがい（サルボウ） Ark shells Scapharca subcrenata
+＜えび・かに類＞ ＜PRAWNS，SHRIMPS AND CRABS＞
+（えび類） （Prawns and shrimps)
+10319 　あまえび（ホッコクアカエビ） Northern shrimp Pandalus eous
+10320 　いせえび Japanese spiny lobster Panulirus japonicus
+10321～323 　くるまえび Kuruma prawn Panaeus japonicus
+10324～326 　さくらえび Sakura shrimp Sergia lucens
+10327 　大正えび Chinese prawn Panaeus chinensis
+10328 　しばえび Shiba shrimp Metapenaeus joyneri
+10329 　ブラックタイガー Giant tiger prawn Penaeus monodon
+10330 　干しえび（サルエビ） Southern rough shrimp Trachypenaeus curvirostris
+(かに類) （Crabs)
+10332 　がざみ Blue crab Portunus trituberculatus
+10333，334 　毛がに Horsehair crab Erimacrus isenbeckii
+10335～337 　ずわいがに Tanner crab Chionoecetes opilio
+10338～340 　たらばがに King crab Paralithodes camtschaticus
+食品番号 食品名 英名 学名
+＜いか・たこ類＞ ＜CEPHALOPODS＞
+（いか類） （Squids and cuttlefishes)
+10342 　あかいか Neon flying squid Ommastrephes bartrami
+10343 　けんさきいか Swordtip squid Loligo edulis
+10344 　こういか Cuttlefish Sepia esculenta
+10345～347 　するめいか Japanese common squid Todarodes pacificus
+10348～351 　ほたるいか Firefly squid Watasenia scintillans
+10352 　やりいか Spear squid Loligo bleekeri
+（たこ類） （Octopuses)
+10360 　いいだこ Ocellated octopus Octopus ocellatus
+10361，362 　まだこ Common octopus Octopus vulgaris
+＜その他＞ ＜OTHERS＞
+10363，364 あみ（ニホンイサザアミ） Opossum shrimp Neomysis japonica
+あみ（アキアミ） Opossum shrimp Acetes japonicus
+10365～367 うに（バフンウニ） Elegant sea urchin Hemicentrotus pulcherrimus
+うに（ムラサキウニ） Hard-spined sea urchin Anthocidaris crassispina
+10368，369 おきあみ Antarctic krill Euphausia superba
+10370 くらげ（ヒゼンクラゲ） Edible jellyfish Rhopilema esculenta
+くらげ（エチゼンクラゲ） Nomura's jellyfish Stomolophus nomurai
+10371 しゃこ Mantis shrimp Oratosquilla oratoria
+10372，373 なまこ Sea cucumber Stichopus japonicus
+10374，375 ほや（マボヤ） Sea squirt Halocynthia roretzi
+ほや（アカボヤ） Sea squirt Halocynthia aurantium
+11 肉類 MEATS
+＜畜肉類＞ ＜ANIMAL MEATS＞
+11001 いのしし Wild boar Sus scrofa
+11002 いのぶた Inobuta Sus scrofa
+11003 うさぎ Rabbit Oryctolagus cuniculus
+11004～108 うし Cattle Bos taurus
+11109 うま Horse Equus caballus
+11110～113 くじら Whale Balaenoptera acutorostrata
+11114 しか Deer Cervus elaphus
+11115～198 ぶた Swine Sus scrofa
+11199～203 めんよう Sheep Ovis aries
+11204 やぎ Goat Cupra hircus
+＜鳥肉類＞ ＜POULTRIES＞
+11205 あいがも Aigamo Anas platyrhynchos
+11206 あひる Duck Anas platyrhynchos
+11207 うずら Japanese quail Coturnix coturnix japonica
+11208 かも Duck Anas platyrhynchos
+11209 きじ Common pheasant Phasianus versicolor
+11210 しちめんちょう Turkey Meleagris gallopavo
+11211 すずめ Sparrow Passer montanus
+11212～236 にわとり Chicken Gallus gallus
+11238 はと Pigeon Columba livia
+11239 フォアグラ（ガチョウ） Foie gras Anser anser
+11240 ほろほろちょう Guinea fowl Numida meleagris
+＜その他＞ ＜OTHERS＞
+11241 いなご Rice hopper Oxa yezoensis
+11242 かえる Bullfrog Rana catesbeiana
+11243 すっぽん Snapping turtle Amyda japonica
+食品番号 食品名 英名 学名
+11244 はち Wasp Vespa japonica
+12 卵類 EGGS
+12001 うこっけい卵（ウコッケイ） Silky fowl's eggs Gallus domesticus
+12002，003 うずら卵（ウズラ） Japanese quail's eggs Coturnix coturnix japonica
+12004～019 鶏卵（ニワトリ） Hen's eggs Gallus domesticus
+12020 ピータン（アヒル） Pidan Anas platyrhynchos
+13 乳類 MILKS
+＜牛乳及び乳製品＞ ＜MILK AND DAIRY PRODUCTS＞
+生乳 Raw milk
+13001 ジャージー種（ウシ） Jersey Bos taurus
+13002 ホルスタイン種（ウシ） Holstein Bos taurus
+＜その他＞ ＜OTHERS＞
+13051 人乳（ヒト） Human milk Homo sapiens
+13052 やぎ乳（ヤギ） Goat milk Capra hircus
+16 し好飲料類 BEVERAGES
+16033～044 茶類 Tea Camellia sinensis
+16045～047 コーヒー Coffee Coffea spp.
+16048，049 ココア Cocoa Theobroma cacao
+17 調味料及び香辛料類 SEASONINGS AND SPICES
+＜香辛料類＞ ＜SPICES＞
+17055 オールスパイス Allspice Pimenta dioica
+17056 オニオンパウダー（タマネギ） Onion powder Allium cepa
+からし Mustard
+17057～060 　和がらし（カラシナ） Mustard Brassica juncea
+17057～060 　洋がらし（シロカラシ） Mustard Sinapis alba
+　洋がらし（クロカラシ） Mustard Brassica nigra
+17062 クローブ Clove Syzygium aromaticum
+17063～065 こしょう Pepper Piper nigrum
+17066 さんしょう Japanese pepper Zanthoxylum piperitum
+17067 シナモン（シナモン） Cinnamon Cinnamomum zeylanicum
+シナモン（カシア） Cinnamon Cinnamomum cassia
+17068，069 しょうが Ginger Zingiber officinale
+17070 セージ Sage Salvia officinalis
+17071 タイム Thyme Thymus vulgaris
+17073 とうがらし Red pepper Capsicum annuum
+17074 ナツメグ Nutmeg Myristica fragrans
+17075，076 にんにく Garlic Allium sativum
+17077 バジル Basil Ocimum basilicum
+17078 パセリ Parsley Petroselinum crispum
+17079 パプリカ Paprica Capsicum annuum
+17080，081 わさび Wasabi Eutrema wasabi
+＜その他＞ ＜OTHERS＞
+17082，083 酵母 Yeast Saccharomyces cerevisiae
