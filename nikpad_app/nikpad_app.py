@@ -10,7 +10,7 @@ import numpy
 from flask import Flask
 from flask import render_template, send_from_directory, Response, url_for, request
 
-from data_loader import load_all
+from dataloader import load_all
 
 # app initialization
 app = Flask(__name__)

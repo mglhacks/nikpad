@@ -4,17 +4,6 @@ import sys
 
 from collections import defaultdict
 
-# while line:
-#     data = json.loads(line)
-#     line = f.readline()
-#     total += 1
-#     if not "ingredients" in data:
-#         continue
-#     for ingredient in data["ingredients"]:
-#         frequencies[ingredient["name"]] += 1
-
-# for val in sorted(frequencies.items(), key=lambda x:x[1],reverse=True):
-#     print "%s,%s,%s,%.6f" % (val[0], val[1], total, val[1]/float(total))
 def get_ingredients(recipe):
     """Return list of ingredients"""
     ings = []
