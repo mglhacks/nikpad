@@ -4,317 +4,317 @@
 <!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
 <!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
     <head>
-		<!-- BASICS -->
+	<!-- BASICS -->
         <meta charset="utf-8">
-		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
         <title>Nikkei x Cookpad Hackathon</title>
         <meta name="description" content="">
-		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<link rel="stylesheet" type="text/css" href="css/isotope.css" media="screen" />	
-		<link rel="stylesheet" href="js/fancybox/jquery.fancybox.css" type="text/css" media="screen" />
-		<link rel="stylesheet" href="css/bootstrap.css">
-		<link rel="stylesheet" href="css/bootstrap-theme.css">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" type="text/css" href="css/isotope.css" media="screen" />
+	<link rel="stylesheet" href="js/fancybox/jquery.fancybox.css" type="text/css" media="screen" />
+	<link rel="stylesheet" href="css/bootstrap.css">
+	<link rel="stylesheet" href="css/bootstrap-theme.css">
         <link rel="stylesheet" href="css/style.css">
-		<!-- skin -->
-		<link rel="stylesheet" href="skin/default.css">
+	<!-- skin -->
+	<link rel="stylesheet" href="skin/default.css">
 
 
-<script src="/js/go.js"></script>
-<script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
-<script id="code">
-  // VARIABLES from app, passing data by jinja
-  var NAMES = {{ NAMES|safe }}; // Ingredient names
-  var NODE_SIZES = {{ NODE_SIZES|safe }};        // determines the size of the nodes
-  var NODE_CATEGORIES = {{ NODE_CATEGORIES|safe }};   // determines the color of the nodes
-  var NODE_LINKS = {{ NODE_LINKS|safe }};       // determines the link and link_color rank[n][n]
-  
-  function WheelLayout() {
-    go.CircularLayout.call(this);
-  }
-  go.Diagram.inherit(WheelLayout, go.CircularLayout);
+        <script src="/js/go.js"></script>
+        <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+        <script charset="UTF-8" id="code">
+         // VARIABLES from app, passing data by jinja
+         var NAMES = {{ NAMES|safe }}; // Ingredient names
+         var NODE_SIZES = {{ NODE_SIZES|safe }};        // determines the size of the nodes
+         var NODE_CATEGORIES = {{ NODE_CATEGORIES|safe }};   // determines the color of the nodes
+         var NODE_LINKS = {{ NODE_LINKS|safe }};       // determines the link and link_color rank[n][n]
 
-  // override makeNetwork to set the diameter of each node and ignore the TextBlock label
-  WheelLayout.prototype.makeNetwork = function(coll) {
-    var net = go.CircularLayout.prototype.makeNetwork.call(this, coll);
-    net.vertexes.each(function(cv) {
-      cv.diameter = 20;  // because our desiredSize for nodes is (20, 20)
-    });
-    return net;
-  }
+         function WheelLayout() {
+             go.CircularLayout.call(this);
+         }
+         go.Diagram.inherit(WheelLayout, go.CircularLayout);
 
-  // override commitNodes to rotate nodes so the text goes away from the center,
-  // and flip text if it would be upside-down
-  WheelLayout.prototype.commitNodes = function() {
-    go.CircularLayout.prototype.commitNodes.call(this);
-    this.network.vertexes.each(function(v) {
-      var node = v.node;
-      if (node === null) return;
-      // get the angle of the node towards the center, and rotate it accordingly
-      var a = v.actualAngle;
-      if (a > 90 && a < 270) {  // make sure the text isn't upside down
-        var textBlock = node.findObject("TEXTBLOCK");
-        textBlock.angle = 180;
-      }
-      node.angle = a;
-    });
-  };
-  // end WheelLayout class
+         // override makeNetwork to set the diameter of each node and ignore the TextBlock label
+         WheelLayout.prototype.makeNetwork = function(coll) {
+             var net = go.CircularLayout.prototype.makeNetwork.call(this, coll);
+             net.vertexes.each(function(cv) {
+                 cv.diameter = 20;  // because our desiredSize for nodes is (20, 20)
+             });
+             return net;
+         }
+
+         // override commitNodes to rotate nodes so the text goes away from the center,
+         // and flip text if it would be upside-down
+         WheelLayout.prototype.commitNodes = function() {
+             go.CircularLayout.prototype.commitNodes.call(this);
+             this.network.vertexes.each(function(v) {
+                 var node = v.node;
+                 if (node === null) return;
+                 // get the angle of the node towards the center, and rotate it accordingly
+                 var a = v.actualAngle;
+                 if (a > 90 && a < 270) {  // make sure the text isn't upside down
+                                         var textBlock = node.findObject("TEXTBLOCK");
+                                         textBlock.angle = 180;
+                                         }
+                 node.angle = a;
+             });
+         };
+         // end WheelLayout class
 
 
-  var highlightColor = "red";  // color parameterization
+         var highlightColor = "red";  // color parameterization
 
-  function init() {
-    if (window.goSamples) goSamples();  // init for these samples -- you don't need to call this
-    var $ = go.GraphObject.make;  // for conciseness in defining templates
+         function init() {
+             if (window.goSamples) goSamples();  // init for these samples -- you don't need to call this
+             var $ = go.GraphObject.make;  // for conciseness in defining templates
 
-    myDiagram =
-      $(go.Diagram, "myDiagram", // must be the ID or reference to div
-        {
-          autoScale: go.Diagram.Uniform,
-          padding: 10,
-          contentAlignment: go.Spot.Center,
-          layout:
-            $(WheelLayout,  // set up a custom CircularLayout
-              // set some properties appropriate for this sample
-              {
-                arrangement: go.CircularLayout.ConstantDistance,
-                nodeDiameterFormula: go.CircularLayout.Circular,
-                spacing: 10,
-                aspectRatio: 1.0,
-                sorting: go.CircularLayout.Optimized
-              }),
-          isReadOnly: true,
-          click: function(e) {  // background click clears any remaining highlighteds
-            e.diagram.startTransaction("clear");
-            e.diagram.clearHighlighteds();
-            e.diagram.commitTransaction("clear");
-          }
-        });
+             myDiagram =
+             $(go.Diagram, "myDiagram", // must be the ID or reference to div
+               {
+                     autoScale: go.Diagram.Uniform,
+                     padding: 10,
+                     contentAlignment: go.Spot.Center,
+                     layout:
+               $(WheelLayout,  // set up a custom CircularLayout
+                 // set some properties appropriate for this sample
+                 {
+                             arrangement: go.CircularLayout.ConstantDistance,
+                             nodeDiameterFormula: go.CircularLayout.Circular,
+                             spacing: 10,
+                             aspectRatio: 1.0,
+                             sorting: go.CircularLayout.Optimized
+                         }),
+                     isReadOnly: true,
+                     click: function(e) {  // background click clears any remaining highlighteds
+                                         e.diagram.startTransaction("clear");
+                                         e.diagram.clearHighlighteds();
+                                         e.diagram.commitTransaction("clear");
+                                         }
+                 });
 
-    // define the Node template
-    myDiagram.nodeTemplate =
-      $(go.Node, "Horizontal",
-        {
-          selectionAdorned: false,
-          locationSpot: go.Spot.Center,  // Node.location is the center of the Shape
-          locationObjectName: "SHAPE",
-          mouseEnter: function(e, node) {
-            node.diagram.clearHighlighteds();
-            node.linksConnected.each(function(l) { highlightLink(l, true); });
-            node.isHighlighted = true;
-            var tb = node.findObject("TEXTBLOCK");
-            if (tb !== null) tb.stroke = highlightColor;
-          },
-          mouseLeave: function(e, node) {
-            node.diagram.clearHighlighteds();
-            var tb = node.findObject("TEXTBLOCK");
-            if (tb !== null) tb.stroke = "black";
-          }
-        },
-        new go.Binding("text", "text"),  // for sorting the nodes
-        $(go.Shape, "Ellipse",
-          {
-            name: "SHAPE",
-            fill: "lightgray",  // default value, but also data-bound
-            stroke: "transparent",  // modified by highlighting
-            strokeWidth: 3,
-            desiredSize: new go.Size(20, 20),
-            portId: ""
-          },  // so links will go to the shape, not the whole node
-          new go.Binding("fill", "color"),
-          new go.Binding("desiredSize", "desiredSize"),
-          new go.Binding("stroke", "isHighlighted",
-                         function(h) { return h ? highlightColor : "transparent"; })
-                        .ofObject()),
-        $(go.TextBlock,
-          { name: "TEXTBLOCK" },  // for search
-          new go.Binding("text", "text"))
-      );
+             // define the Node template
+             myDiagram.nodeTemplate =
+             $(go.Node, "Horizontal",
+               {
+                     selectionAdorned: false,
+                     locationSpot: go.Spot.Center,  // Node.location is the center of the Shape
+                     locationObjectName: "SHAPE",
+                     mouseEnter: function(e, node) {
+                         node.diagram.clearHighlighteds();
+                         node.linksConnected.each(function(l) { highlightLink(l, true); });
+                         node.isHighlighted = true;
+                         var tb = node.findObject("TEXTBLOCK");
+                         if (tb !== null) tb.stroke = highlightColor;
+                     },
+                     mouseLeave: function(e, node) {
+                         node.diagram.clearHighlighteds();
+                         var tb = node.findObject("TEXTBLOCK");
+                         if (tb !== null) tb.stroke = "black";
+                     }
+                 },
+               new go.Binding("text", "text"),  // for sorting the nodes
+               $(go.Shape, "Ellipse",
+                 {
+                         name: "SHAPE",
+                         fill: "lightgray",  // default value, but also data-bound
+                         stroke: "transparent",  // modified by highlighting
+                         strokeWidth: 3,
+                         desiredSize: new go.Size(20, 20),
+                         portId: ""
+                     },  // so links will go to the shape, not the whole node
+                 new go.Binding("fill", "color"),
+                 new go.Binding("desiredSize", "desiredSize"),
+                 new go.Binding("stroke", "isHighlighted",
+                                function(h) { return h ? highlightColor : "transparent"; })
+                       .ofObject()),
+               $(go.TextBlock,
+                 { name: "TEXTBLOCK" },  // for search
+                 new go.Binding("text", "text"))
+               );
 
-    function highlightLink(link, show) {
-      link.isHighlighted = show;
-      link.fromNode.isHighlighted = show;
-      link.toNode.isHighlighted = show;
-    }
+             function highlightLink(link, show) {
+                 link.isHighlighted = show;
+                 link.fromNode.isHighlighted = show;
+                 link.toNode.isHighlighted = show;
+             }
 
-    // define the Link template
-    myDiagram.linkTemplate =
-      $(go.Link,
-        {
-          routing: go.Link.Normal,
-          curve: go.Link.Bezier,
-          selectionAdorned: false,
-          mouseEnter: function(e, link) { highlightLink(link, true); },
-          mouseLeave: function(e, link) { highlightLink(link, false); }
-        },
-        $(go.Shape,
-          new go.Binding("stroke", "isHighlighted",
-                         function(h, shape) { return h ? highlightColor : shape.part.data.color; })
-                        .ofObject(),
-          new go.Binding("strokeWidth", "isHighlighted",
-                         function(h) { return h ? 5 : 1.5; })
-                        .ofObject())
-      );
+             // define the Link template
+             myDiagram.linkTemplate =
+             $(go.Link,
+               {
+                     routing: go.Link.Normal,
+                     curve: go.Link.Bezier,
+                     selectionAdorned: false,
+                     mouseEnter: function(e, link) { highlightLink(link, true); },
+                     mouseLeave: function(e, link) { highlightLink(link, false); }
+                 },
+               $(go.Shape,
+                 new go.Binding("stroke", "isHighlighted",
+                                function(h, shape) { return h ? highlightColor : shape.part.data.color; })
+                                                                                                .ofObject(),
+                 new go.Binding("strokeWidth", "isHighlighted",
+                                function(h) { return h ? 5 : 1.5; })
+                       .ofObject())
+               );
 
-    generateGraph();
-  }
+             generateGraph();
+         }
 
-  function generateGraph() {
-    var names = NAMES;
-    var colors = NODE_CATEGORIES;
-    var sizes = NODE_SIZES;
-    var links = NODE_LINKS;
+         function generateGraph() {
+             var names = NAMES;
+             var colors = NODE_CATEGORIES;
+             var sizes = NODE_SIZES;
+             var links = NODE_LINKS;
 
-    COLOR = ['red', 'orange', 'yellow', 'green', 'blue', 'lightyellow', 'violet', 'greenyellow']
-    var nodeDataArray = [];
-    for (var i = 0; i < names.length; i++) {
-      // names color and size
-      size = Math.floor(sizes[i] * 60 + 1);
-      color = colors[i];
+             COLOR = ['red', 'orange', 'yellow', 'green', 'blue', 'lightyellow', 'violet', 'greenyellow']
+             var nodeDataArray = [];
+             for (var i = 0; i < names.length; i++) {
+                 // names color and size
+                 size = Math.floor(sizes[i] * 200 + 1);
+                 color = colors[i];
 
-      nodeDataArray.push({ key: i, text: names[i], color: COLOR[color], 
-        desiredSize: new go.Size(size, size) });
-    }
-    // go.Brush.randomColor(128, 240)
+                 nodeDataArray.push({ key: i, text: names[i], color: COLOR[color],
+                                     desiredSize: new go.Size(size, size) });
+             }
+             // go.Brush.randomColor(128, 240)
 
-    var linkDataArray = [];
-    var num = nodeDataArray.length;
+             var linkDataArray = [];
+             var num = nodeDataArray.length;
 
-    // gradation color function
-    //var a = d3.scale.linear().domain([10, 20]).range(['#0000ff', '#ff0000'])
-    var a = d3.scale.sqrt().domain([15, 20]).range(['#CDFF2F', '#4169E1'])
-    for (var i = 0; i < num ; i++) {
-      for (var j = i; j < num; j++){
-        score = links[ i * num + j];
+             // gradation color function
+             //var a = d3.scale.linear().domain([10, 20]).range(['#0000ff', '#ff0000'])
+             var a = d3.scale.sqrt().domain([15, 20]).range(['#CDFF2F', '#4169E1'])
+             for (var i = 0; i < num ; i++) {
+                 for (var j = i; j < num; j++){
+                     score = links[ i * num + j];
 
-        if( score > 15){
-          // links color
-          color = score / 20.0;
-          linkDataArray.push({ from: i, to: j, color: a(score) });
-          // old "rgba(10,200,10," + String((score-15)/5) + ")"
-        }
-        
-      }
-      
-    }
-    //document.write(Math.floor(Math.random() * num));
-    //color: go.Brush.randomColor(1, 127) 
+                     if( score > 15){
+                         // links color
+                         color = score / 20.0;
+                         linkDataArray.push({ from: i, to: j, color: a(score) });
+                         // old "rgba(10,200,10," + String((score-15)/5) + ")"
+                     }
 
-    myDiagram.model = new go.GraphLinksModel(nodeDataArray, linkDataArray);
-  }
-</script>
+                 }
+
+             }
+             //document.write(Math.floor(Math.random() * num));
+             //color: go.Brush.randomColor(1, 127)
+
+             myDiagram.model = new go.GraphLinksModel(nodeDataArray, linkDataArray);
+         }
+        </script>
 
 
 
 
 
     </head>
-	 
+
     <body onload="init()">
-		<section id="header" class="appear"></section>
-		<div class="navbar navbar-fixed-top" role="navigation" data-0="line-height:100px; height:100px; background-color:rgba(0,0,0,0.3);" data-300="line-height:60px; height:60px; background-color:rgba(0,0,0,1);">
-			 <div class="container">
-				<div class="navbar-header">
-					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-						<span class="fa fa-bars color-white"></span>
-					</button>
-					<h1><a class="navbar-brand" href="index.html" data-0="line-height:90px;" data-300="line-height:50px;">			Nikpad
-					</a></h1>
-				</div>
-				<div class="navbar-collapse collapse">
-					<ul class="nav navbar-nav" data-0="margin-top:20px;" data-300="margin-top:5px;">
-						<li class="active"><a href="">Home</a></li>
-						<li><a href="#section-services">Data</a></li>
-					</ul>
-				</div><!--/.navbar-collapse -->
+	<section id="header" class="appear"></section>
+	<div class="navbar navbar-fixed-top" role="navigation" data-0="line-height:100px; height:100px; background-color:rgba(0,0,0,0.3);" data-300="line-height:60px; height:60px; background-color:rgba(0,0,0,1);">
+	    <div class="container">
+		<div class="navbar-header">
+		    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+			<span class="fa fa-bars color-white"></span>
+		    </button>
+		    <h1><a class="navbar-brand" href="index.html" data-0="line-height:90px;" data-300="line-height:50px;">			Nikpad
+		    </a></h1>
+		</div>
+		<div class="navbar-collapse collapse">
+		    <ul class="nav navbar-nav" data-0="margin-top:20px;" data-300="margin-top:5px;">
+			<li class="active"><a href="">Home</a></li>
+			<li><a href="#section-services">Data</a></li>
+		    </ul>
+		</div><!--/.navbar-collapse -->
+	    </div>
+	</div>
+
+	<section class="featured">
+	    <div class="container">
+		<div class="row mar-bot40">
+		    <div class="col-md-6 col-md-offset-3">
+
+			<div class="align-center">
+			    <i class="fa fa-flask fa-5x mar-bot20"></i>
+			    <h2 class="slogan">日経電子版×クックパッド　データハッカソン</h2>
+			    <p>
+				こんにちは。Team Antsです。
+
+			    </p>
 			</div>
+		    </div>
+		</div>
+	    </div>
+	</section>
+
+	<!-- services -->
+	<section id="section-services" class="section pad-bot30 bg-white">
+	    <div class="container">
+
+		<div class="row mar-bot40">
+
+		    <div class="align-center">
+			<i class="fa fa-code fa-5x mar-bot20"></i>
+			<h4 class="text-bold">ダイアグラムのタイトル</h4>
+			<p>青線: 関係 強<br>
+			    緑線: 関係 弱</p>
+
+                        <div id="sample">
+                            <div id="myDiagram" style="border: solid 1px black; background: white; width: 100%; height: 600px" ></div>
+                        </div>
+		    </div>
+
+
+
+
 		</div>
 
-		<section class="featured">
-			<div class="container"> 
-				<div class="row mar-bot40">
-					<div class="col-md-6 col-md-offset-3">
-						
-						<div class="align-center">
-							<i class="fa fa-flask fa-5x mar-bot20"></i>
-							<h2 class="slogan">日経電子版×クックパッド　データハッカソン</h2>
-							<p>
-							こんにちは。Team Antsです。
-				
-							</p>	
-						</div>
-					</div>
-				</div>
-			</div>
-		</section>
-		
-		<!-- services -->
-		<section id="section-services" class="section pad-bot30 bg-white">
-		<div class="container"> 
-		
-			<div class="row mar-bot40">
-				
-					<div class="align-center">
-						<i class="fa fa-code fa-5x mar-bot20"></i>
-						<h4 class="text-bold">ダイアグラムのタイトル</h4>
-						<p>青線: 関係 強<br>
-							緑線: 関係 弱</p>
-
-<div id="sample">
-  <div id="myDiagram" style="border: solid 1px black; background: white; width: 100%; height: 600px" ></div>
-</div>
-					</div>
-				
-					
-
-			
-			</div>	
-
-		</div>
-		</section>
-				<section id="parallax2" class="section parallax" data-stellar-background-ratio="0.5">	
+	    </div>
+	</section>
+	<section id="parallax2" class="section parallax" data-stellar-background-ratio="0.5">
             <div class="align-center pad-top40 pad-bot40">
                 <blockquote class="bigquote color-white">Indoctum accusamus comprehensam</blockquote>
-				<p class="color-white">Bootstraptaste</p>
+		<p class="color-white">Bootstraptaste</p>
             </div>
-		</section>
-		
-	<section id="footer" class="section footer">
-		<div class="container">
-			<div class="row animated opacity mar-bot20" data-andown="fadeIn" data-animation="animation">
-				<div class="col-sm-12 align-center">
-                    <ul class="social-network social-circle">
-                        <li><a href="#" class="icoRss" title="Rss"><i class="fa fa-rss"></i></a></li>
-                        <li><a href="#" class="icoFacebook" title="Facebook"><i class="fa fa-facebook"></i></a></li>
-                        <li><a href="#" class="icoTwitter" title="Twitter"><i class="fa fa-twitter"></i></a></li>
-                        <li><a href="#" class="icoGoogle" title="Google +"><i class="fa fa-google-plus"></i></a></li>
-                        <li><a href="#" class="icoLinkedin" title="Linkedin"><i class="fa fa-linkedin"></i></a></li>
-                    </ul>				
-				</div>
-			</div>
+	</section>
 
-			<div class="row align-center copyright">
-					<div class="col-sm-12"><p>Copyright &copy; 2015 Nikpad - by Team Ants</p></div>
-			</div>
+	<section id="footer" class="section footer">
+	    <div class="container">
+		<div class="row animated opacity mar-bot20" data-andown="fadeIn" data-animation="animation">
+		    <div class="col-sm-12 align-center">
+                        <ul class="social-network social-circle">
+                            <li><a href="#" class="icoRss" title="Rss"><i class="fa fa-rss"></i></a></li>
+                            <li><a href="#" class="icoFacebook" title="Facebook"><i class="fa fa-facebook"></i></a></li>
+                            <li><a href="#" class="icoTwitter" title="Twitter"><i class="fa fa-twitter"></i></a></li>
+                            <li><a href="#" class="icoGoogle" title="Google +"><i class="fa fa-google-plus"></i></a></li>
+                            <li><a href="#" class="icoLinkedin" title="Linkedin"><i class="fa fa-linkedin"></i></a></li>
+                        </ul>
+		    </div>
 		</div>
 
+		<div class="row align-center copyright">
+		    <div class="col-sm-12"><p>Copyright &copy; 2015 Nikpad - by Team Ants</p></div>
+		</div>
+	    </div>
+
 	</section>
-	<a href="#header" class="scrollup"><i class="fa fa-chevron-up"></i></a>	
+	<a href="#header" class="scrollup"><i class="fa fa-chevron-up"></i></a>
 
 	<script src="js/modernizr-2.6.2-respond-1.1.0.min.js"></script>
 	<script src="js/jquery.js"></script>
 	<script src="js/jquery.easing.1.3.js"></script>
-    <script src="js/bootstrap.min.js"></script>
+        <script src="js/bootstrap.min.js"></script>
 	<script src="js/jquery.isotope.min.js"></script>
 	<script src="js/jquery.nicescroll.min.js"></script>
 	<script src="js/fancybox/jquery.fancybox.pack.js"></script>
-	<script src="js/skrollr.min.js"></script>		
+	<script src="js/skrollr.min.js"></script>
 	<script src="js/jquery.scrollTo-1.4.3.1-min.js"></script>
 	<script src="js/jquery.localscroll-1.2.7-min.js"></script>
 	<script src="js/stellar.js"></script>
 	<script src="js/jquery.appear.js"></script>
 	<script src="js/validate.js"></script>
-    <script src="js/main.js"></script>
+        <script src="js/main.js"></script>
 
-	</body>
+    </body>
 </html>

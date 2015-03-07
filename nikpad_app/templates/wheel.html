@@ -11,7 +11,7 @@
   var NODE_SIZES = {{ NODE_SIZES|safe }};        // determines the size of the nodes
   var NODE_CATEGORIES = {{ NODE_CATEGORIES|safe }};   // determines the color of the nodes
   var NODE_LINKS = {{ NODE_LINKS|safe }};       // determines the link and link_color rank[n][n]
-  
+
   function WheelLayout() {
     go.CircularLayout.call(this);
   }
@@ -156,7 +156,7 @@
       size = Math.floor(sizes[i] * 60 + 1);
       color = colors[i];
 
-      nodeDataArray.push({ key: i, text: names[i], color: COLOR[color], 
+      nodeDataArray.push({ key: i, text: names[i], color: COLOR[color],
         desiredSize: new go.Size(size, size) });
     }
     // go.Brush.randomColor(128, 240)
@@ -172,12 +172,12 @@
           color = score / 20.0;
           linkDataArray.push({ from: i, to: j, color: "rgba(10,200,10," + String(score / 20.0 - 0.3) + ")" });
         }
-        
+
       }
-      
+
     }
     //document.write(Math.floor(Math.random() * num));
-    //color: go.Brush.randomColor(1, 127) 
+    //color: go.Brush.randomColor(1, 127)
 
     myDiagram.model = new go.GraphLinksModel(nodeDataArray, linkDataArray);
   }

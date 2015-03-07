@@ -10,6 +10,8 @@ import numpy
 from flask import Flask
 from flask import render_template, send_from_directory, Response, url_for, request
 
+from data_loader import load_all
+
 # app initialization
 app = Flask(__name__)
 app.config.update(
@@ -17,53 +19,60 @@ app.config.update(
     SECRET_KEY = '9c35679705479a2efd642954fdbd8943c5626f626bfb8c21'
 )
 
+# data initialization
+NAMES = []
+NODE_SIZES = []
+load_all(NAMES, NODE_SIZES, 50)
+
 # controllers
 
-@app.route('/wheel')
+@app.route('/')
 def wheel():
     """ Our main function """
 
     random.seed()
-    NAMES = [\
-      "Joshuaaaaaaaaa", "Daniel", "Robert", "Noah", "Anthony",\
-      "Elizabeth", "Addison", "Alexis", "Ella", "Samantha",\
-      "Joseph", "Scott", "James", "Ryan", "Benjamin",\
-      "Walter", "Gabriel", "Christian", "Nathan", "Simon",\
-      "Isabella", "Emma", "Olivia", "Sophia", "Ava",\
-      "Emily", "Madison", "Tina", "Elena", "Mia",\
-      "Jacob", "Ethan", "Michael", "Alexander", "William",\
-      "Natalie", "Grace", "Lily", "Alyssa", "Ashley",\
-      "Sarah", "Taylor", "Hannah", "Brianna", "Hailey",\
-      "Christopher", "Aiden", "Matthew", "David", "Andrew",\
-      "Kaylee", "Juliana", "Leah", "Anna", "Allison",\
-      "John", "Samuel", "Tyler", "Dylan", "Jonathan",\
-    ]
+    # NAMES = [\
+    #   "Joshuaaaaaaaaa", "Daniel", "Robert", "Noah", "Anthony",\
+    #   "Elizabeth", "Addison", "Alexis", "Ella", "Samantha",\
+    #   "Joseph", "Scott", "James", "Ryan", "Benjamin",\
+    #   "Walter", "Gabriel", "Christian", "Nathan", "Simon",\
+    #   "Isabella", "Emma", "Olivia", "Sophia", "Ava",\
+    #   "Emily", "Madison", "Tina", "Elena", "Mia",\
+    #   "Jacob", "Ethan", "Michael", "Alexander", "William",\
+    #   "Natalie", "Grace", "Lily", "Alyssa", "Ashley",\
+    #   "Sarah", "Taylor", "Hannah", "Brianna", "Hailey",\
+    #   "Christopher", "Aiden", "Matthew", "David", "Andrew",\
+    #   "Kaylee", "Juliana", "Leah", "Anna", "Allison",\
+    #   "John", "Samuel", "Tyler", "Dylan", "Jonathan",\
+    # ]
     # random.random()
     # random.randint(a,b)
     N = len(NAMES)
-    NODE_SIZES = []
+    # NODE_SIZES = []
     NODE_CATEGORIES = []
     NODE_LINKS = []
 
     for i in range(N):
-        NODE_SIZES.append( random.random() )
+        # NODE_SIZES.append( random.random() )
         NODE_CATEGORIES.append( random.randint( 0, 7 ) )
         for j in range(N):
             NODE_LINKS.append( random.randint(0, 20) )
 
     print("ok")
-    return render_template('amoeba.html', NAMES=NAMES,\
+    coded_names = '['
+    coded_names += ','.join(NAMES)
+    coded_names += ']'
+    return render_template('amoeba.html', NAMES=coded_names,\
                 NODE_SIZES=NODE_SIZES, NODE_CATEGORIES=NODE_CATEGORIES,\
-                NODE_LINKS=NODE_LINKS)
+                           NODE_LINKS=NODE_LINKS)
 
+# @app.route('/')
+# def index():
+#     return render_template('index.html')
 
-@app.route('/')
-def index():
-    return render_template('index.html')
-
-@app.route('/about')
-def about():
-    return render_template('about.html')
+# @app.route('/about')
+# def about():
+#     return render_template('about.html')
 
 @app.route('/test')
 def test():
