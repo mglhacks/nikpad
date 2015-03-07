@@ -6,3 +6,5 @@
 
 # PDF result files
 *.pdf
+
+data_*
