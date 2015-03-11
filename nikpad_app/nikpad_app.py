@@ -22,6 +22,7 @@ app.config.update(
 # data initialization
 NAMES = []
 NODE_SIZES = []
+NODE_LINKS = []
 load_all(NAMES, NODE_SIZES, 50)
 
 # controllers
@@ -50,7 +51,6 @@ def wheel():
     N = len(NAMES)
     # NODE_SIZES = []
     NODE_CATEGORIES = []
-    NODE_LINKS = []
 
     for i in range(N):
         # NODE_SIZES.append( random.random() )

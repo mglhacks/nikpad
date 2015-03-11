@@ -43,10 +43,13 @@ def print_score_pairs(pairs, out_file, limit=0):
         count += 1
         if count > limit:
             break
+        list_pair = list(pair[0])
         print >> out_file,\
-            "%s,%s,%s"%(repr([x.encode(sys.stdout.encoding) if isinstance(x, basestring) else x for
-                              x in pair[0]]).decode('string-escape'), pair[1]['count'],\
-                        pair[1]['score'])
+            "%s,%s,%s,%s"%(
+                repr(list_pair[0].encode(sys.stdout.encoding) if isinstance(list_pair[0], basestring) else list_pair[0]).decode('string-escape'),
+                repr(list_pair[1].encode(sys.stdout.encoding) if isinstance(list_pair[1], basestring) else list_pair[1]).decode('string-escape'),
+                pair[1]['count'],\
+                pair[1]['score'])
 
 def calculate_pair_scores(in_file):
     """Calculate score for each pairs"""
